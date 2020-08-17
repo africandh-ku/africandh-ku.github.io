@@ -4,7 +4,7 @@ title: About
 ---
 
 <p class="message">
-African digital Humanities at KU is an initiaitve of the Department of African and African-American Studies as well as the Institute for Digital Research in the Humanities, and presents opportunities for African perspectives in the digital humanities.
+African digital Humanities at KU is an initiaitve of the Department of African and African-American Studies as well as the Institute for Digital Research in the Humanities, and presents opportunities for engaging discussions that center African perspectives in the digital humanities.
 </p>
 
 In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
