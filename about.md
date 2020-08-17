@@ -5,7 +5,10 @@ title: About
 
 <p class="message">
 
-Welcome!</p>
+Welcome!
+
+##African digital Humanities at KU is an initiaitve of the Department of African and African-American Studies as well as the Institute for Digital Research in the Humanities, and presents opportunities for engaging discussions that center African perspectives and projects in the digital humanities. 
+</p>
 
 <p>African DH explores the intersection of traditional humanistic inquiry in Africa and digital media. We bring togther people and projects who examine this important connection, highlighting the ways in which African cultural producers incorporate digital technologies and methods into their work. While reflecting on how writers and critics experiment with digital media hardware and software. </p>
 
