@@ -1,7 +1,7 @@
 # Setup
 title:               African Digital Humanities at KU
 tagline:             
-description:         'This site brings together various African Digital Humanities initiatives at the University of Kansas, including Onitsha Market Literature, Digital Nollywood, the African DH Symposium'
+description:         'African DH explores the intersection of traditional humanistic inquiry in Africa and digital media, centering African perspectives and projects, and fostering connections across regions. Based at the University of Kansas.'
 url:                 https://africandh-ku.github.io
 baseurl:             ''
 paginate:            5
