@@ -2,7 +2,7 @@
 title:               African Digital Humanities at the University of Kansas
 tagline:             
 description:         'African DH explores the intersection of traditional humanistic inquiry in Africa and digital media, centering African perspectives and projects, and fostering connections across regions.'
-url:                 https://africandh-ku.github.io
+url:                 http://africandh-ku.github.io
 baseurl:             ''
 # paginate:            5
 permalink:           pretty
