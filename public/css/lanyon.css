@@ -543,6 +543,7 @@ a.pagination-item:hover {
 .theme-base-0g .sidebar-toggle,
 .theme-base-0g .related-posts li a:hover {
   color: #5a3d67;
+  font-weight: bold;
 }
 
 
