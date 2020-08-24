@@ -3,7 +3,7 @@ layout: post
 title: Speaker Profile 
 ---
 
-## Ama Bemma  ![image](/assets/images/Bemma, ADH-photo.jpg)
+## Ama Bemma 
 
 <p>
 Bemma Adwetewa-Badu is a 4th year PhD candidate in the department of English at Cornell University. She conducts research on Anglophone poetry and poetics, 
