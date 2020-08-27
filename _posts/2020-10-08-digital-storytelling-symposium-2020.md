@@ -12,8 +12,39 @@ The University of Kansas has been at the forefront of projects and critical deba
 
 We bring together participants from different parts of the world, including African locations, to think together about digital storytelling and what it might mean in the context of African digital cultures. Panelists draw from the narratives of their own DH projects and involvement to reflect on the multiple meanings of digital storytelling. In the believe that the intersection of the diverse and rich storytelling traditions of Africa and digital humanities practices can bring more perspectives to digital storytelling itself, we recognize approaches to digital storytelling are diverse and might involve visualizations, digital mapping or photographic exhibitions, the creation of metadata or keywords development, or the digitization of print materials that recirculate older stories. We, therefore, welcome these, along with other storytelling approaches based on digital projects, platforms and ideas that make more African stories available and center African knowledge and ideas.
 
+
+
 ## Schedule
 
+
+**Day 1 (October 8): KEYNOTE: Address—The Imperative of Telling the African Digital Humanities Story—Professor Kim Gallon, Purdue University.**
+
+*PANEL 1: Digital Stories of Africa-based DH Scholarship* 
+
+1.	Kwabena Opoku-Agyemang – University of Ghana (Teaching and Doing Digital humanities in Ghana)
+
+2.	Ama-Bemma, Cornell University—Narrating The Global Poetics Project.  
+
+3.	Kola Tubosun – Yoruba Names – Nigeria, (Indigenous Language and digital technologies) 
+
+4.	Chao Tayiana – African Digital Heritage (Kenya)
+
+
+**Day 2 (October 9):** 
+
+*PANEL 2: Sharing Stories of (or through ) African Platforms and Digital Objects/Projects*
+
+1.	Ainehi Edoro – University of Wisconsin-Madison/BrittlePaper 
+
+2.	Jayne Batzofin and Sanjin Muftic – Re-imagining Tragedy from Africa and the Global South (RETAGS), the University of Cape Town, South Africa 
+
+3.	Bayo Puddicombe, co-founder and developer, Chopup Games.
+
+4.	Shola Adenekan (University of Amsterdam, African Literature in a Digital Age—the story of the first book on African Digital Literary Studies)
+
+
+
+**Closing: Open Access and Digital Storytelling —Iryna Kuchma, Electronic Information for Libraries.** 
 
 ## Speakers
 
@@ -22,12 +53,42 @@ We bring together participants from different parts of the world, including Afri
 
 <img src="{{ site.baseurl }}/assets/Bemma-ADH-photo.jpg" alt="Bemma photo" width="250">
 
-Bemma Adwetewa-Badu is a 4th year PhD candidate in the department of English at Cornell University. She conducts research on Anglophone poetry and poetics, world literature, globalization, comparative Black studies, and the digital humanities. Ama Bemma has writing and reviews in and forthcoming from the “Process Forum” at Monderism/Modernity Print+, Comparative Literature Studies, and The Black Scholar. Her work in the digital humanities engages mapping, storytelling, and Black DH practices. This work was previously funded by a graduate fellowship in the digital humanities from the Society for the Humanities and the Cornell University Library
+*Bemma Adwetewa-Badu* is a 4th year PhD candidate in the department of English at Cornell University. She conducts research on Anglophone poetry and poetics, world literature, globalization, comparative Black studies, and the digital humanities. Ama Bemma has writing and reviews in and forthcoming from the “Process Forum” at Monderism/Modernity Print+, Comparative Literature Studies, and The Black Scholar. Her work in the digital humanities engages mapping, storytelling, and Black DH practices. This work was previously funded by a graduate fellowship in the digital humanities from the Society for the Humanities and the Cornell University Library
 
+
+
+
+**Bayo Puddicombe** 
 <img src="{{ site.baseurl }}/assets/Bayo-adh-photo.jpg" alt="Bayo photo" width="250">
 
 
-Bayo is a software Engineer and one of the founders of ChopUp™ and true veteran of the gaming industry in Nigeria. With a degree in Electrical/Electronics from University of Lagos, he taught himself how to code and built the first version of the Danfo game back in 2007. Prior to founding ChopUp™ he worked as an IT Analyst at KPMG Nigeria. He loves working with technology and building things. He believes that recent technology advancements present an opportunity to bridge the digital gap that separates Africa from the rest of the world and would love to play his part in making that happen. Today with his beautiful wife; Bolatito, they parent 3 lovely kids; Tise, Tobi and Toni. 
+*Bayo Puddicombe* is a software Engineer and one of the founders of ChopUp™ and true veteran of the gaming industry in Nigeria. With a degree in Electrical/Electronics from University of Lagos, he taught himself how to code and built the first version of the Danfo game back in 2007. Prior to founding ChopUp™ he worked as an IT Analyst at KPMG Nigeria. He loves working with technology and building things. He believes that recent technology advancements present an opportunity to bridge the digital gap that separates Africa from the rest of the world and would love to play his part in making that happen. Today with his beautiful wife; Bolatito, they parent 3 lovely kids; Tise, Tobi and Toni. 
+
+
+**Kọ́lá Túbọ̀sún**
+<img src="{{ site.baseurl }}/assets/kola-copy.jpeg" alt="Kola photo" width="250">
+
+*Kọ́lá Túbọ̀sún* is a Nigerian writer and Chevening Research Fellow (2019) at the British Library in London, working on the African language print collections from the 19th Century. He was a Fulbright Scholars in 2009 at Southern Illinois University Edwardsville where he completed a Master's degree in Linguistics/TESL in 2012. His language work and interests focus on Nigerian and African languages documentation and digitization, through lexicography and activism.  Since 2005, he has led, championed, or been involved in a number of projects and activities to help improve the revitalization of African languages on the internet, and is the founder of the "Yorùbá Names Project" at YorubaName.com which documents all names in Yoruba in an accessible multimedia format. The project also released a free Yorùbá Keyboard software for Mac and Windows to allow its users type in Yorùbá language and Igbo on the internet.Tubosun has also worked at Google Nigeria, helping to get Nigerian language diacritics into GBoard.
+
+
+
+
+**Dr Sanjin Muftić** 
+<img src="{{ site.baseurl }}/assets/Sanjin-Muftić.jpeg" alt="Sanjin photo" width="250">
+
+*Dr Sanjin Muftić* is a Bosnian-born Canadian digital scholar, theatremaker, film editor and lecturer based in Cape Town. He has staged heightened theatrical texts and intermedial performances, designed videography and edited media for various South African theatre and film productions.  Sanjin has completed his drama PhD at UCT focusing on the Planetary, Bricolage and Theatrical Images. His written contributions include several chapters in performance theory compilations. He has also presented at international conferences of the Federation for Theatre Research, the Society for Intermedial Studies and at CREATIVATE Digital Arts Festival. He served as the Head of Acting at the CityVarsity school of Media and Creative Arts in Cape Town between 2012 and 2019. He is currently working for UCT Libraries as a Digital Scholarship Specialist, where he serves as a data steward and digital curator developing advocacy towards practicing research data management, Open Science and helping researchers manage and showcase their digital scholarship projects and collections.
+
+
+**Jayne Batzofin**
+<img src="{{ site.baseurl }}/assets/Jayne-Batzofin.jpeg" alt="Jayne photo" width="250">
+
+*Jayne Batzofin* is an award winning South African Theatre director and stage and costume designer. For the last five years they have been exclusively focused on developing theatre for children and youth, specialising in inclusivity and accessibility within the scope of disability. Jayne has had two of their productions invited to perform at international Theatre for Youth Festivals, including the April Festival (Denmark) and the Tokyo Inclusivity of Youth Festival (Japan). In 2019, Jayne completed their MA in Dramaturgy, through the University of Cape Town and the University of Amsterdam. Their thesis delved into the socio-political need for artists to work alongside children in developing new productions for young audiences. Currently Jayne is working as a digital archiver and data steward on the RETAGS (Re-imagining Tragedy in Africa and the Global South) project, being led by Prof. Mark Fleishman at the University of Cape Town.
+
+**Kwabena Opoku-Agyemang**
+
+<img src="{{ site.baseurl }}/assets/Kwabena-OA-jpeg.jpg" alt=" Kwabena photo" width="250">
+
+*Kwabena Opoku-Agyemang* is a lecturer at the University of Ghana's Department of English. He received his PhD in English Literature from West Virginia University after completing previous studies at the University of Ghana. He researches into African Digital Literature and his scholarship has appeared in journals such as Research in African Literatures and Journal of Gaming and Virtual Worlds.
 
 <p><a href="#top">&#x21a9;&#xfe0e; Return to top</a></p> 
 
