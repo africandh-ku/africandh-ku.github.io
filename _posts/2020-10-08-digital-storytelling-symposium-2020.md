@@ -32,7 +32,7 @@ We bring together participants from different parts of the world, including Afri
 
 **Day 2 (October 9):** 
 
-*PANEL 2: Sharing Stories of (or through ) African Platforms and Digital Objects/Projects*
+*PANEL 2: Sharing Stories of African Platforms and Digital Objects/Projects*
 
 1.	Ainehi Edoro – University of Wisconsin-Madison/BrittlePaper 
 
@@ -57,6 +57,13 @@ We bring together participants from different parts of the world, including Afri
 
 
 
+**Chao Tayiana**
+
+ <img src="{{ site.baseurl }}/assets/Chao-Tayiana-Maina.jpg" alt="Tayiana photo" width="250">
+
+*Chao Tayiana* is a digital heritage specialist and digital humanities scholar. With a background in computer science and a life-long passion for history, her work primarily focuses on the application of technology in the preservation, engagement and dissemination of African heritage and culture. She is the founder of African Digital Heritage an organisation which seeks to encourage a more critical, holistic and knowledge-based approach to the design and implementation of digital solutions within African cultural heritage. She is  the co-founder at the Museum of British Colonialism where she leads digital engagement and documentation. She holds an MSc in International Heritage Visualisation (2016 -2017)  from the University of Glasgow/Glasgow School of Art where she graduated with a distinction. Her research work explored the possibilities of embedding intangible histories in 3D digital environments. She is a recipient of the Google Anita Borg scholarship for women in technology and a founding member of the Digital Humanities network in Africa.
+
+
 
 **Bayo Puddicombe** 
 <img src="{{ site.baseurl }}/assets/Bayo-adh-photo.jpg" alt="Bayo photo" width="250">
@@ -69,6 +76,13 @@ We bring together participants from different parts of the world, including Afri
 <img src="{{ site.baseurl }}/assets/kola-copy.jpeg" alt="Kola photo" width="250">
 
 *Kọ́lá Túbọ̀sún* is a Nigerian writer and Chevening Research Fellow (2019) at the British Library in London, working on the African language print collections from the 19th Century. He was a Fulbright Scholars in 2009 at Southern Illinois University Edwardsville where he completed a Master's degree in Linguistics/TESL in 2012. His language work and interests focus on Nigerian and African languages documentation and digitization, through lexicography and activism.  Since 2005, he has led, championed, or been involved in a number of projects and activities to help improve the revitalization of African languages on the internet, and is the founder of the "Yorùbá Names Project" at YorubaName.com which documents all names in Yoruba in an accessible multimedia format. The project also released a free Yorùbá Keyboard software for Mac and Windows to allow its users type in Yorùbá language and Igbo on the internet.Tubosun has also worked at Google Nigeria, helping to get Nigerian language diacritics into GBoard.
+
+
+**Dr Shola Adenekan**
+
+<img src="{{ site.baseurl }}/assets/Shola-Adenekan.jpg" alt="Shola photo" width="250">
+
+*Dr. Shola Adenekan* is an Assistant Professor of Literary and Cultural Analysis, at the University of Amsterdam. He holds a PhD in African literature from the University of Birmingham, UK. He has worked as a scholar at universities in Germany and the UK. He worked previously as a journalist at news organisations such as BBC News Online, The Independent Newspaper (UK), The Christian Science Monitor (USA), The Guardian (UK), and The Times Educational Supplement (UK). His main area of scholarly research is at the intersections of digital literary studies and print culture. Adenekan is the author of the forthcoming book African Literature in the Digital Age: Class and Sexuality in New Writings from Nigeria and Kenya (James Currey) and is a recipient of the prestigious European Research Council research grant for his ongoing study on Yoruba Print Culture.
 
 
 
@@ -90,6 +104,12 @@ We bring together participants from different parts of the world, including Afri
 
 *Kwabena Opoku-Agyemang* is a lecturer at the University of Ghana's Department of English. He received his PhD in English Literature from West Virginia University after completing previous studies at the University of Ghana. He researches into African Digital Literature and his scholarship has appeared in journals such as Research in African Literatures and Journal of Gaming and Virtual Worlds.
 
+**Ainehi Edoro-Glines**
+
+<img src="{{ site.baseurl }}/assets/Ainehi-Edoro.jpeg" alt=" Ainehi photo" width="250">
+
+*Ainehi Edoro-Glines* is an Assistant Professor of Global Black Literatures at the University of Wisconsin-Madison where she teaches and researches on African literature and digital culture. She is the founder and editor of Brittle Paper, an online literary magazine for readers of African Literature.
+
 <p><a href="#top">&#x21a9;&#xfe0e; Return to top</a></p> 
 
 ## Register
@@ -98,10 +118,10 @@ We bring together participants from different parts of the world, including Afri
 
 ## Sponsors
 
-* Department of African and African American Studies (University of Kansas)
-* Kansas African Studies Center (University of Kansas)
-* Institute for Digital Research in the Humanities (University of Kansas)
-* EIFL.net
-* CEDHUL-University of Lagos
+* [Department of African and African American Studies, University of Kansas](https://afs.ku.edu/deparment-african-african-american-studies)
+* [Kansas African Studies Center, University of Kansas](http://kasc.ku.edu/)
+* [Institute for Digital Research in the Humanities, University of Kansas](https://idrh.ku.edu/)
+* [Electronic Information for Libraries](https://www.eifl.net/)
+* [CEDHUL-University of Lagos](https://www.cedhul.com.ng/about-us/)
 
 <p><a href="#top">&#x21a9;&#xfe0e; Return to top</a></p> 

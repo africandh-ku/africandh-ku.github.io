@@ -5,8 +5,8 @@ title: Projects & Resources
 
 ## KU projects
 
-* Onitsha Market Literature
-* Digital Nollywood
+* [Digital Nollywood](https://digitalnollywood.ku.edu/)
+* Onitsha 2.0 
 * Migration Stories
 
 
@@ -14,4 +14,5 @@ title: Projects & Resources
 
 
 ## Africa-related DH Resources
+* [Network for Digital Humanities in Africa](https://dhafrica.blog/resources/)
 
