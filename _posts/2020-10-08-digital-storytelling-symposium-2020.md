@@ -130,7 +130,7 @@ The conversation will be of interest to anyone interested in storytelling and th
 
 <img src="{{ site.baseurl }}/assets/lagos-logo.jpg" alt=" Lagos photo" width="200">
 
-<img src="{{ site.baseurl }}/assets/AAAS-KASC-lOGO.jpg" alt=" AAAS photo" width="250">
+<img src="{{ site.baseurl }}/assets/AAAS-KASC-Logo.jpg" alt=" AAAS photo" width="250">
 
 <img src="{{ site.baseurl }}/assets/idrh-logo.jpg" alt=" IDRH photo" width="250">
 
