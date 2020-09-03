@@ -12,12 +12,15 @@ The University of Kansas has been at the forefront of projects and critical deba
 
 We bring together participants from different parts of the world, including African locations, to think together about digital storytelling and what it might mean in the context of African digital cultures. Panelists draw from the narratives of their own DH projects and involvement to reflect on the multiple meanings of digital storytelling. In the believe that the intersection of the diverse and rich storytelling traditions of Africa and digital humanities practices can bring more perspectives to digital storytelling itself, we recognize approaches to digital storytelling are diverse and might involve visualizations, digital mapping or photographic exhibitions, the creation of metadata or keywords development, or the digitization of print materials that recirculate older stories. We, therefore, welcome these, along with other storytelling approaches based on digital projects, platforms and ideas that make more African stories available and center African knowledge and ideas.
 
+The conversation will be of interest to anyone interested in storytelling and the digital humnanities more geranlly. [Please register here](http://africandh.ku.edu/2020/10/08/digital-storytelling-symposium-2020/#register).
+
 
 
 ## Schedule
 
+<p style="text-align:center;">Thursday 8 and Friday 9 October 2020</p>
 
-**Day 1 (October 8): KEYNOTE: Address—The Imperative of Telling the African Digital Humanities Story—Professor Kim Gallon, Purdue University.**
+**Day 1 (October 8): KEYNOTE: Address—The Imperative of Telling the African Digital Humanities Story—Professor Kim Gallon, Purdue University and Esther Armah, The Armah Institute.**
 
 *PANEL 1: Digital Stories of Africa-based DH Scholarship* 
 
@@ -53,7 +56,7 @@ We bring together participants from different parts of the world, including Afri
 
 <img src="{{ site.baseurl }}/assets/Bemma-ADH-photo.jpg" alt="Bemma photo" width="250">
 
-*Bemma Adwetewa-Badu* is a 4th year PhD candidate in the department of English at Cornell University. She conducts research on Anglophone poetry and poetics, world literature, globalization, comparative Black studies, and the digital humanities. Ama Bemma has writing and reviews in and forthcoming from the “Process Forum” at Monderism/Modernity Print+, Comparative Literature Studies, and The Black Scholar. Her work in the digital humanities engages mapping, storytelling, and Black DH practices. This work was previously funded by a graduate fellowship in the digital humanities from the Society for the Humanities and the Cornell University Library
+*Bemma Adwetewa-Badu* is a 4th year PhD candidate in the department of English at Cornell University. She conducts research on Anglophone poetry and poetics, world literature, globalization, comparative Black studies, and the digital humanities. Ama Bemma has writing and reviews in and forthcoming from the “Process Forum” at Monderism/Modernity Print+, Comparative Literature Studies, and The Black Scholar. [Her work in the digital humanities](https://globalpoetics.org/editor/) engages mapping, storytelling, and Black DH practices. This work was previously funded by a graduate fellowship in the digital humanities from the Society for the Humanities and the Cornell University Library
 
 
 
@@ -61,7 +64,7 @@ We bring together participants from different parts of the world, including Afri
 
  <img src="{{ site.baseurl }}/assets/Chao-Tayiana-Maina.jpg" alt="Tayiana photo" width="250">
 
-*Chao Tayiana* is a digital heritage specialist and digital humanities scholar. With a background in computer science and a life-long passion for history, her work primarily focuses on the application of technology in the preservation, engagement and dissemination of African heritage and culture. She is the founder of African Digital Heritage an organisation which seeks to encourage a more critical, holistic and knowledge-based approach to the design and implementation of digital solutions within African cultural heritage. She is  the co-founder at the Museum of British Colonialism where she leads digital engagement and documentation. She holds an MSc in International Heritage Visualisation (2016 -2017)  from the University of Glasgow/Glasgow School of Art where she graduated with a distinction. Her research work explored the possibilities of embedding intangible histories in 3D digital environments. She is a recipient of the Google Anita Borg scholarship for women in technology and a founding member of the Digital Humanities network in Africa.
+*Chao Tayiana* is a digital heritage specialist and digital humanities scholar. With a background in computer science and a life-long passion for history, her work primarily focuses on the application of technology in the preservation, engagement and dissemination of African heritage and culture. She is the founder of [African Digital Heritage](https://africandigitalheritage.com/) an organisation which seeks to encourage a more critical, holistic and knowledge-based approach to the design and implementation of digital solutions within African cultural heritage. She is  the co-founder at the Museum of British Colonialism where she leads digital engagement and documentation. She holds an MSc in International Heritage Visualisation (2016 -2017)  from the University of Glasgow/Glasgow School of Art where she graduated with a distinction. Her research work explored the possibilities of embedding intangible histories in 3D digital environments. She is a recipient of the Google Anita Borg scholarship for women in technology and a founding member of the Digital Humanities network in Africa.
 
 
 
@@ -69,20 +72,20 @@ We bring together participants from different parts of the world, including Afri
 <img src="{{ site.baseurl }}/assets/Bayo-adh-photo.jpg" alt="Bayo photo" width="250">
 
 
-*Bayo Puddicombe* is a software Engineer and one of the founders of ChopUp™ and true veteran of the gaming industry in Nigeria. With a degree in Electrical/Electronics from University of Lagos, he taught himself how to code and built the first version of the Danfo game back in 2007. Prior to founding ChopUp™ he worked as an IT Analyst at KPMG Nigeria. He loves working with technology and building things. He believes that recent technology advancements present an opportunity to bridge the digital gap that separates Africa from the rest of the world and would love to play his part in making that happen. Today with his beautiful wife; Bolatito, they parent 3 lovely kids; Tise, Tobi and Toni. 
+*Bayo Puddicombe* is a software Engineer and one of the founders of [ChopUp™](https://www.chopup.me/) and true veteran of the gaming industry in Nigeria. With a degree in Electrical/Electronics from University of Lagos, he taught himself how to code and built the first version of the Danfo game back in 2007. Prior to founding ChopUp™ he worked as an IT Analyst at KPMG Nigeria. He loves working with technology and building things. He believes that recent technology advancements present an opportunity to bridge the digital gap that separates Africa from the rest of the world and would love to play his part in making that happen. Today with his beautiful wife; Bolatito, they parent 3 lovely kids; Tise, Tobi and Toni. 
 
 
 **Kọ́lá Túbọ̀sún**
 <img src="{{ site.baseurl }}/assets/kola-copy.jpeg" alt="Kola photo" width="250">
 
-*Kọ́lá Túbọ̀sún* is a Nigerian writer and Chevening Research Fellow (2019) at the British Library in London, working on the African language print collections from the 19th Century. He was a Fulbright Scholars in 2009 at Southern Illinois University Edwardsville where he completed a Master's degree in Linguistics/TESL in 2012. His language work and interests focus on Nigerian and African languages documentation and digitization, through lexicography and activism.  Since 2005, he has led, championed, or been involved in a number of projects and activities to help improve the revitalization of African languages on the internet, and is the founder of the "Yorùbá Names Project" at YorubaName.com which documents all names in Yoruba in an accessible multimedia format. The project also released a free Yorùbá Keyboard software for Mac and Windows to allow its users type in Yorùbá language and Igbo on the internet.Tubosun has also worked at Google Nigeria, helping to get Nigerian language diacritics into GBoard.
+*Kọ́lá Túbọ̀sún* is a Nigerian writer and Chevening Research Fellow (2019) at the British Library in London, working on the African language print collections from the 19th Century. He was a Fulbright Scholars in 2009 at Southern Illinois University Edwardsville where he completed a Master's degree in Linguistics/TESL in 2012. His language work and interests focus on Nigerian and African languages documentation and digitization, through lexicography and activism.  Since 2005, he has led, championed, or been involved in a number of projects and activities to help improve the revitalization of African languages on the internet, and is the founder of the [Yorùbá Names Project](http://www.yorubaname.com/) which documents all names in Yoruba in an accessible multimedia format. The project also released a free Yorùbá Keyboard software for Mac and Windows to allow its users type in Yorùbá language and Igbo on the internet.Tubosun has also worked at Google Nigeria, helping to get Nigerian language diacritics into GBoard.
 
 
 **Dr Shola Adenekan**
 
 <img src="{{ site.baseurl }}/assets/Shola-Adenekan.jpg" alt="Shola photo" width="250">
 
-*Dr. Shola Adenekan* is an Assistant Professor of Literary and Cultural Analysis, at the University of Amsterdam. He holds a PhD in African literature from the University of Birmingham, UK. He has worked as a scholar at universities in Germany and the UK. He worked previously as a journalist at news organisations such as BBC News Online, The Independent Newspaper (UK), The Christian Science Monitor (USA), The Guardian (UK), and The Times Educational Supplement (UK). His main area of scholarly research is at the intersections of digital literary studies and print culture. Adenekan is the author of the forthcoming book African Literature in the Digital Age: Class and Sexuality in New Writings from Nigeria and Kenya (James Currey) and is a recipient of the prestigious European Research Council research grant for his ongoing study on Yoruba Print Culture.
+*Dr. Shola Adenekan* is an Assistant Professor of Literary and Cultural Analysis, at the University of Amsterdam. He holds a PhD in African literature from the University of Birmingham, UK. He has worked as a scholar at universities in Germany and the UK. He worked previously as a journalist at news organisations such as BBC News Online, The Independent Newspaper (UK), The Christian Science Monitor (USA), The Guardian (UK), and The Times Educational Supplement (UK). His main area of scholarly research is at the intersections of digital literary studies and print culture. Adenekan is the author of the forthcoming book [African Literature in the Digital Age](https://boydellandbrewer.com/african-literature-in-the-digital-age.html?fbclid=IwAR16BoQ8zfbWjCQbjUD7kTGowalNcmk8VQ7OflmV2EhCEH1W_YDu0LKM7MY) (James Currey) and is a recipient of the prestigious European Research Council research grant for his ongoing study on Yoruba Print Culture.
 
 
 
@@ -108,7 +111,14 @@ We bring together participants from different parts of the world, including Afri
 
 <img src="{{ site.baseurl }}/assets/Ainehi-Edoro.jpeg" alt=" Ainehi photo" width="250">
 
-*Ainehi Edoro-Glines* is an Assistant Professor of Global Black Literatures at the University of Wisconsin-Madison where she teaches and researches on African literature and digital culture. She is the founder and editor of Brittle Paper, an online literary magazine for readers of African Literature.
+*Ainehi Edoro-Glines* is an Assistant Professor of Global Black Literatures at the University of Wisconsin-Madison where she teaches and researches on African literature and digital culture. She is the founder and editor of [Brittle Paper](https://brittlepaper.com/), an online literary magazine for readers of African Literature.
+
+
+**Iryna Kuchma**
+
+<img src="{{ site.baseurl }}/assets/Iryna-Kuchma-jpeg.jpg" alt=" Iryna photo" width="250">
+
+*Iryna Kuchma* is the EIFL Open Access [Programme manager](https://www.eifl.net/experts/Iryna_K ). Working in collaboration with libraries and library consortia in more than 60 countries in Africa, Asia and Europe, she advocates for open access to research results, facilitates the development and implementation of open science policies and infrastructures, and provides support and training. She serves on the UNESCO Open Science Advisory Committee; advisory board of the Community-led Open Publication Infrastructures Project (COPIM); and she is also an Associate Editor for the Directory of Open Access Journals (DOAJ).
 
 <p><a href="#top">&#x21a9;&#xfe0e; Return to top</a></p> 
 
@@ -118,10 +128,13 @@ We bring together participants from different parts of the world, including Afri
 
 ## Sponsors
 
-* [Department of African and African American Studies, University of Kansas](https://afs.ku.edu/deparment-african-african-american-studies)
-* [Kansas African Studies Center, University of Kansas](http://kasc.ku.edu/)
-* [Institute for Digital Research in the Humanities, University of Kansas](https://idrh.ku.edu/)
-* [Electronic Information for Libraries](https://www.eifl.net/)
-* [CEDHUL-University of Lagos](https://www.cedhul.com.ng/about-us/)
+<img src="{{ site.baseurl }}/assets/lagos-logo.jpg" alt=" Lagos photo" width="200">
+
+<img src="{{ site.baseurl }}/assets/AAAS-KASC-lOGO.jpg" alt=" AAAS photo" width="250">
+
+<img src="{{ site.baseurl }}/assets/idrh-logo.jpg" alt=" IDRH photo" width="250">
+
+<img src="{{ site.baseurl }}/assets/eifl-logo.jpg" alt=" EIFL photo" width="150">
+
 
 <p><a href="#top">&#x21a9;&#xfe0e; Return to top</a></p> 
