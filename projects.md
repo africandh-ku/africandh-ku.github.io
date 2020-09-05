@@ -7,7 +7,7 @@ title: Projects & Resources
 
 * [Digital Nollywood](https://digitalnollywood.ku.edu/)
 * Onitsha 2.0 
-* Migration Stories
+* [Migration Stories:Africans in Midwestern Communities](http://migrationstories.ku.edu/)
 
 
 ## Other Africa-focused projects
