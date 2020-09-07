@@ -2,6 +2,7 @@
 layout: post
 title: Symposium on African Digital Storytelling
 permalink: digital-storytelling-symposium-2020
+category: event
 ---
 
 **The importance of storytelling in African societies dates back to different forms of oral tradition that make knowledge, history, and experiences transferable across time, cultures, groups. The symposium on digital storytelling in Africa will center the ways in which digital media hardware and software expand the forums and techniques available to African to tell stories about different aspects of life on the continent. We bring together participants from different parts of the world, including African locations, to think together about digital storytelling and what it might mean in the context of African digital cultures.**
@@ -189,7 +190,7 @@ _Iryna Kuchma, Electronic Information for Libraries, and Titi Babalola, Universi
 
 ----
 
-## About
+## About African Digital Storytelling
 
 The University of Kansas has been at the forefront of projects and critical debates focused on African digital humanities scholarship around the world. The symposium on African digital storytelling is part of a series of events that consolidate effort in this direction. The symposium on digital storytelling in Africa will center the ways in which digital media hardware and software expand the forums and techniques available to African to tell stories about different aspects of life on the continent. The importance of storytelling in African societies dates back to different forms of oral tradition that make knowledge, history, and experiences transferable across time, cultures, groups. 
 
