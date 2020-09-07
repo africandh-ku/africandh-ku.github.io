@@ -37,14 +37,16 @@ git push origin gh-pages
 
 git pull origin gh-pages
  git commit -am "i updated..."
- git push origin gh-pages
+ git push origin ph-pages
  ls (list content)
  cd Onitsha-Market
  cd .../ (back)
 
 
 
+*[Dave Tell](https://idrh.ku.edu/dave-tell)* 
 
+Dave is the Co-Director, Institute for Digital Research in the Humanities. His research focuses on issues of race, memory, and place. Since 2014, he has focused on the legacy of the murder of Emmett Till in the Mississippi Delta. As a long-time partner with the Emmett Till Memorial Commission of Tallahatchie County, Inc., Dr. Tell’s work has a strong public focus. His scholarship is written for broad, public audiences and he has worked extensively with the ETMC to develop resources (mobile apps, roadside markers) with which to tell the story of Till’s murder for the next generation. 
 
 
 
