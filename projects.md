@@ -16,5 +16,5 @@ title: Projects & Resources
 ## Africa-related DH Resources
 * [Network for Digital Humanities in Africa](https://dhafrica.blog/resources/)
 * [African Heritage Project](https://africandigitalheritage.com/)
-* [The Global Poectics Project](https://globalpoetics.org/editor/)
+* [The Global Poetics Project](https://globalpoetics.org/editor/)
 
