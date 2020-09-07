@@ -2,6 +2,7 @@
 layout: post
 title: African DH Web Forum, Spring 2020
 permalink: dhforum-2020
+category: event
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FSH3ExAyDkU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
