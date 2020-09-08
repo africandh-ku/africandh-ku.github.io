@@ -7,7 +7,8 @@ title: People
 
 James is an assistant professor of African digital humanities in the department of African and African-American studies at the University of Kansas where he teaches courses on social media and African popular cultures, as well as on the intersections of African cultural productions and digital media. James studies the digital expressions of African cultural froms and writes on digital literary studies, Nollywood, and online visual cultures. His current digital projects include [Digital Nollywood](https://digitalnollywood.ku.edu/), which is an Omeka-based collection of vintage film posters from Nigeria, and Onitsha 2.0, projected to be a scholalry digital edition of market-litertaure pamphlets form Nigeria.
 
-### [Staff - Institute for Digital Research in the Humanities](https://idrh.ku.edu) 
+
+### [Institute for Digital Research in the Humanities](https://idrh.ku.edu) 
 
 *[Brian Rosenblum](https://idrh.ku.edu/brian-rosenblum)* 
 
