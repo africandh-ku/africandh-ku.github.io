@@ -5,7 +5,12 @@ permalink: digital-storytelling-symposium-2020
 category: event
 ---
 
+
+
+<img align="left" style="padding-right:10px" src="{{ site.baseurl }}/assets/AfricanDH-Flyer.jpg" alt="Flyer photo" width="395">
+
 **The importance of storytelling in African societies dates back to different forms of oral tradition that make knowledge, history, and experiences transferable across time, cultures, and groups. The symposium on digital storytelling in Africa will center the ways in which digital media hardware and software expand the forums and techniques available to African to tell stories about different aspects of life on the continent. We bring together participants from different parts of the world, including African locations, to think together about digital storytelling and what it might mean in the context of African digital cultures.**
+
 
 **The conversation will be of interest to anyone interested in storytelling and the digital humnanities more generally. The Symposium is free, online, and open to anyone to join. [Please register here](#register).**
 
