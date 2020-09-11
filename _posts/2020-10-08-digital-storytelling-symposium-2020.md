@@ -21,6 +21,8 @@ category: event
 ## Schedule
 ----
 ### Day 1: Thursday, 8 October 2020
+*10:00 AM - Noon, US Central Time*
+
 ----
 **KEYNOTE Address:<br />The STAYED and the STOLEN: an Immersive Virtual Experience of Cape Coast Castle, Ghana--Humanizing a History of Horror for Healing**  
 _Professor Kim Gallon, Purdue University and Esther Armah, The Armah Institute._
@@ -37,12 +39,14 @@ _Professor Kim Gallon, Purdue University and Esther Armah, The Armah Institute._
 3. Kọ́lá Túbọ̀sún, Yoruba Names, (Nigeria)  
 **Indigenous Language and Digital Technologies**
 
-4.	Chao Tayiana, African Digital Heritage (Kenya)
+4.	Chao Tayiana, African Digital Heritage (Kenya)  
 **Heritage exploration through new media in Kenya**
 
 ----
 
 ### Day 2: Friday, 9 October 2020
+*10:00 AM - Noon, US Central Time*
+
 ----
 
 **PANEL 2: Stories of African Platforms and Digital Objects/Projects**
@@ -177,21 +181,30 @@ The symposium is free and open to anyone to join. Please check back for registra
 <a href="https://www.cedhul.com.ng/">
 <img align="left" style="padding-right:25px" src="{{ site.baseurl }}/assets/lagos-logo.jpg" alt="Centre for Digital Humanities University of Lagos" width="300"></a>
 
+<a href="https://eifl.net">
+<img align="left" style="padding-right:25px" src="{{ site.baseurl }}/assets/eifl-logo.jpg" alt="EIFL.net" width="300"></a>
+
+
+<div style="clear:left"></div>
+
+<hr>
 <a href="https://idrh.ku.edu">
 <img align="left" style="padding-right:25px" src="{{ site.baseurl }}/assets/idrh-logo.jpg" alt="Institute for Digital Research in the Humanities" width="300">
 </a>
 
-<div style="clear:left">
-
-<a href="https://eifl.net">
-<img align="left" style="padding-right:25px" src="{{ site.baseurl }}/assets/eifl-logo.jpg" alt="EIFL.net" width="300"></a>
-
 <a href="https://kasc.ku.edu">
-<img align="left" style="padding-right:25px" src="{{ site.baseurl }}/assets/AAAS-KASC-Logo.jpg" alt="Kansas African Studies Center" width="300"></a>
-</div>
-<div style="clear:left">
+<img align="left" style="padding-right:25px" src="{{ site.baseurl }}/assets/AAAS-KASC-thin-logo.jpg" alt="Kansas African Studies Center" width="300"></a>
+
+<div style="clear:left"></div>
+<hr>
+
+<a href="http://www.globaloutlookdh.org">
+<img align="left" style="padding-right:25px" src="{{ site.baseurl }}/assets/go-dh-logo.jpg" alt="Global Outlook Digital Humanities" width="300"></a>
+
+<div style="clear:left"></div>
+
 <p style="text-align:center"><a href="#top">&#x21a9;&#xfe0e; Return to top</a></p> 
-</div>
+
 
 ----
 
