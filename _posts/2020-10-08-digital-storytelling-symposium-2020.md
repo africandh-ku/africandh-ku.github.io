@@ -7,7 +7,7 @@ category: event
 
 
 
-<img align="left" style="padding-right:10px" src="{{ site.baseurl }}/assets/AfricanDH-Flyer.jpg" alt="Flyer photo" width="395">
+<img align="left" style="padding-right:10px" src="{{ site.baseurl }}/assets/African-Digital-Storytelling-Flyer.jpg" alt="Flyer photo" width="395">
 
 **The importance of storytelling in African societies dates back to different forms of oral tradition that make knowledge, history, and experiences transferable across time, cultures, and groups. The symposium on digital storytelling in Africa will center the ways in which digital media hardware and software expand the forums and techniques available to African to tell stories about different aspects of life on the continent. We bring together participants from different parts of the world, including African locations, to think together about digital storytelling and what it might mean in the context of African digital cultures.**
 
@@ -171,6 +171,7 @@ _Iryna Kuchma, Electronic Information for Libraries, and Titi Babalola, Universi
 <p style="text-align:center"><a href="#top">&#x21a9;&#xfe0e; Return to top</a></p> 
 
 ----
+
 ## Register
 
 The symposium is free and open to anyone to join. Please check back for registration information.
@@ -205,6 +206,10 @@ The symposium is free and open to anyone to join. Please check back for registra
 
 <p style="text-align:center"><a href="#top">&#x21a9;&#xfe0e; Return to top</a></p> 
 
+
+----
+
+## [Mapping Speakers' Locations](https://uploads.knightlab.com/storymapjs/c10da3f1749b58ce5bcae2d7e3922e96/symposium-on-african-digital-storytelling/index.html?fbclid=IwAR2zMnMOIDlR-JSuGVE16TC5exfllfwToHbEVNbl-v9WKLNl4lQRTpsI45I) 
 
 ----
 
