@@ -172,7 +172,9 @@ _Iryna Kuchma, Electronic Information for Libraries, and Titi Babalola, Universi
 
 ## Register
 
-The symposium is free and open to anyone to join. Please check back for registration information.
+The symposium is free and open to anyone to join. It will be streamed via Zoom and Facebook/YouTube. 
+
+Please check back for registration information.
 
 ----
 ## Sponsors
