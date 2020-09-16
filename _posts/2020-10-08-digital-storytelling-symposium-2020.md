@@ -5,9 +5,7 @@ permalink: digital-storytelling-symposium-2020
 category: event
 ---
 
-
-
-<img align="left" style="padding-right:10px" src="{{ site.baseurl }}/assets/African-Digital-Storytelling-Flyer.jpg" alt="Flyer photo" width="395">
+<a href="{{ site.baseurl }}/assets/African-Digital-Storytelling-Flyer.jpg"><img align="left" style="padding-right:15px" src="{{ site.baseurl }}/assets/African-Digital-Storytelling-Flyer.jpg" alt="Flyer photo" width="500"></a>
 
 **The importance of storytelling in African societies dates back to different forms of oral tradition that make knowledge, history, and experiences transferable across time, cultures, and groups. The symposium on digital storytelling in Africa will center the ways in which digital media hardware and software expand the forums and techniques available to African to tell stories about different aspects of life on the continent. We bring together participants from different parts of the world, including African locations, to think together about digital storytelling and what it might mean in the context of African digital cultures.**
 
@@ -18,6 +16,7 @@ category: event
 * Contents
 {:toc}
 
+----
 ## Schedule
 ----
 ### Day 1: Thursday, 8 October 2020
@@ -72,7 +71,6 @@ _Iryna Kuchma, Electronic Information for Libraries, and Titi Babalola, Universi
 ----
 ## Speakers
 ----
-
 #### Kim Gallon
 
 <img align="left" style="padding-right:10px" src="{{ site.baseurl }}/assets/kim.jpg" alt="Gallon photo" width="200">
@@ -205,14 +203,8 @@ The symposium is free and open to anyone to join. Please check back for registra
 <div style="clear:left"></div>
 
 <p style="text-align:center"><a href="#top">&#x21a9;&#xfe0e; Return to top</a></p> 
-
-
+ 
 ----
-
-## [Mapping Speakers' Locations](https://uploads.knightlab.com/storymapjs/c10da3f1749b58ce5bcae2d7e3922e96/symposium-on-african-digital-storytelling/index.html?fbclid=IwAR2zMnMOIDlR-JSuGVE16TC5exfllfwToHbEVNbl-v9WKLNl4lQRTpsI45I) 
-
-----
-
 ## About African Digital Storytelling
 
 The University of Kansas has been at the forefront of projects and critical debates focused on African digital humanities scholarship around the world. The symposium on African digital storytelling is part of a series of events that consolidate effort in this direction. The symposium on digital storytelling in Africa will center the ways in which digital media hardware and software expand the forums and techniques available to African to tell stories about different aspects of life on the continent. The importance of storytelling in African societies dates back to different forms of oral tradition that make knowledge, history, and experiences transferable across time, cultures, groups. 
@@ -220,3 +212,12 @@ The University of Kansas has been at the forefront of projects and critical deba
 We bring together participants from different parts of the world, including African locations, to think together about digital storytelling and what it might mean in the context of African digital cultures. Panelists draw from the narratives of their own DH projects and involvement to reflect on the multiple meanings of digital storytelling. In the believe that the intersection of the diverse and rich storytelling traditions of Africa and digital humanities practices can bring more perspectives to digital storytelling itself, we recognize approaches to digital storytelling are diverse and might involve visualizations, digital mapping or photographic exhibitions, the creation of metadata or keywords development, or the digitization of print materials that recirculate older stories. We, therefore, welcome these, along with other storytelling approaches based on digital projects, platforms and ideas that make more African stories available and center African knowledge and ideas.
 
 <p style="text-align:center"><a href="#top">&#x21a9;&#xfe0e; Return to top</a></p> 
+
+----
+## Map of Speakers
+
+***For full-screen version of the speakers' map below [click here.](https://uploads.knightlab.com/storymapjs/c10da3f1749b58ce5bcae2d7e3922e96/symposium-on-african-digital-storytelling/index.html?fbclid=IwAR2zMnMOIDlR-JSuGVE16TC5exfllfwToHbEVNbl-v9WKLNl4lQRTpsI45I)*** 
+
+<iframe src="https://uploads.knightlab.com/storymapjs/c10da3f1749b58ce5bcae2d7e3922e96/symposium-on-african-digital-storytelling/index.html" frameborder="2" width="100%" height="600"></iframe> 
+ 
+<p style="text-align:center"><a href="#top">&#x21a9;&#xfe0e; Return to top</a></p>
