@@ -7,12 +7,20 @@ category: event
 
 <a href="{{ site.baseurl }}/assets/African-Digital-Storytelling-Flyer.jpg"><img align="left" style="padding-right:15px" src="{{ site.baseurl }}/assets/African-Digital-Storytelling-Flyer.jpg" alt="Flyer photo" width="500"></a>
 
-**The importance of storytelling in African societies dates back to different forms of oral tradition that make knowledge, history, and experiences transferable across time, cultures, and groups. The symposium on digital storytelling in Africa will center the ways in which digital media hardware and software expand the forums and techniques available to African to tell stories about different aspects of life on the continent. We bring together participants from different parts of the world, including African locations, to think together about digital storytelling and what it might mean in the context of African digital cultures.**
+**The importance of storytelling in African societies dates back to different forms of oral tradition that make knowledge, history, and experiences transferable across time, cultures, and groups. The symposium on digital storytelling in Africa will center the ways in which digital media hardware and software expand the forums and techniques available to Africans to tell stories about different aspects of life on the continent. We bring together participants from different parts of the world, including African locations, to think together about digital storytelling and what it might mean in the context of African digital cultures.**
+
+**The conversation will appeal to anyone interested in storytelling and the digital humanities more generally.** 
+
+<div style="text-align:center; border:5px solid black; border-radius: 10px; padding-left:5px; padding-right:5px; padding-top:5px;background-color:powderblue;" markdown="1">
+
+**_The Symposium is free, online, and open to anyone to join.  
+It will be streamed via Zoom and YouTube._** 
+
+**[Register here to join via Zoom](https://kansas.zoom.us/webinar/register/WN_9BHyXTWoTYmOTGKqPdopcA)**
+
+</div>
 
 
-**The conversation will be of interest to anyone interested in storytelling and the digital humanities more generally. The Symposium is free, online, and open to anyone to join. [Please register here](#register).**
-
-----
 * Contents
 {:toc}
 
@@ -20,7 +28,7 @@ category: event
 ## Schedule
 ----
 ### Day 1: Thursday, 8 October 2020
-*10:00 AM - Noon, US Central Time*
+*10:00 AM - 12:30 PM, US Central Time*
 
 ----
 **KEYNOTE Address:<br />The STAYED and the STOLEN: an Immersive Virtual Experience of Cape Coast Castle, Ghana--Humanizing a History of Horror for Healing**  
@@ -44,7 +52,7 @@ _Professor Kim Gallon, Purdue University and Esther Armah, The Armah Institute._
 ----
 
 ### Day 2: Friday, 9 October 2020
-*10:00 AM - Noon, US Central Time*
+*10:00 AM - 12:30 PM, US Central Time*
 
 ----
 
@@ -167,14 +175,6 @@ _Iryna Kuchma, Electronic Information for Libraries, and Titi Babalola, Universi
 
 
 <p style="text-align:center"><a href="#top">&#x21a9;&#xfe0e; Return to top</a></p> 
-
-----
-
-## Register
-
-The symposium is free and open to anyone to join. It will be streamed via Zoom and Facebook/YouTube. 
-
-Please check back for registration information.
 
 ----
 ## Sponsors
