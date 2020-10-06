@@ -32,7 +32,8 @@ It will be streamed via Zoom and YouTube._**
 
 ----
 **KEYNOTE Address:<br />The STAYED and the STOLEN: an Immersive Virtual Experience of Cape Coast Castle, Ghana--Humanizing a History of Horror for Healing**  
-_Professor Kim Gallon, Purdue University and Esther Armah, The Armah Institute._
+_Professor Kim Gallon, Purdue University and Esther Armah, The Armah Institute of Emotional 
+Justice._
 
 
 **PANEL 1: Digital Stories of Africa-based DH Scholarship** 
