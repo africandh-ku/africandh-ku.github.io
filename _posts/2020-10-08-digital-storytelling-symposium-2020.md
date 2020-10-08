@@ -18,6 +18,11 @@ It will be streamed via Zoom and YouTube._**
 
 **[Register here to join via Zoom](https://kansas.zoom.us/webinar/register/WN_9BHyXTWoTYmOTGKqPdopcA)**
 
+or 
+
+**Watch here on YouTube: <https://youtu.be/Imykx6IqSmk>**
+
+
 </div>
 
 
@@ -93,7 +98,7 @@ _Iryna Kuchma, Electronic Information for Libraries, and Titi Babalola, Universi
 
 <img align="left" style="padding-right:10px" src="{{ site.baseurl }}/assets/Esther-Armah.jpg" alt="Armah photo" width="200">
 
-*Esther Armah* is Executive Director, [The Armah Institute of Emotional Justice (AIEJ)](https://www.theaiej.com/), a global institute providing emotionality education in the context of Race, Gender, Culture, besides her distinguished carrer as an international award-winning journalist and radio host.  She has an Emotional Justice writing series in the global portal, [WARSCAPES](http://warscapes.com/). In Ghana, her weekly front-page column for Business and Financial Times Newspaper focuses on gendered violence, media and the intersections of policy, global politics and emotionality. In New York, she was a Radio Host with Pacifica’s WBAI Wake Up Call, and was a Commentator on MSNBC and CNN. Her work was featured in publications Ebony.com, AlterNet, Essence.com, Salon.com, Gawker.com. She has written 5 plays; performed on stages in New York, Chicago and Ghana.  Esther is a recipient of  several awards. She was named ‘Most Valuable NY Radio Host’ in 2012 for her work in New York. For her work in Ghana, on gender, violence, policy and media in Ghana, she was presented with a ‘Woman’s Leadership Award’ as part of the annual ‘Africa’s Woman Leaders’ by the World Women Leadership Congress and Awards.  
+*Esther Armah* is Executive Director, [The Armah Institute of Emotional Justice (AIEJ)](https://www.theaiej.com/), a global institute providing emotionality education in the context of Race, Gender, Culture, besides her distinguished career as an international award-winning journalist and radio host.  She has an Emotional Justice writing series in the global portal, [WARSCAPES](http://warscapes.com/). In Ghana, her weekly front-page column for Business and Financial Times Newspaper focuses on gendered violence, media and the intersections of policy, global politics and emotionality. In New York, she was a Radio Host with Pacifica’s WBAI Wake Up Call, and was a Commentator on MSNBC and CNN. Her work was featured in publications Ebony.com, AlterNet, Essence.com, Salon.com, Gawker.com. She has written 5 plays; performed on stages in New York, Chicago and Ghana.  Esther is a recipient of  several awards. She was named ‘Most Valuable NY Radio Host’ in 2012 for her work in New York. For her work in Ghana, on gender, violence, policy and media in Ghana, she was presented with a ‘Woman’s Leadership Award’ as part of the annual ‘Africa’s Woman Leaders’ by the World Women Leadership Congress and Awards.  
 
 ----
 
