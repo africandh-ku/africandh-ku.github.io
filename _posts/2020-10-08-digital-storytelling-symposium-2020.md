@@ -13,16 +13,10 @@ category: event
 
 <div style="text-align:center; border:5px solid black; border-radius: 10px; padding-left:5px; padding-right:5px; padding-top:5px;background-color:powderblue;" markdown="1">
 
-**_The Symposium is free, online, and open to anyone to join.  
-It will be streamed via Zoom and YouTube._** 
 
-**[Register here to join via Zoom](https://kansas.zoom.us/webinar/register/WN_9BHyXTWoTYmOTGKqPdopcA)**
-
-or 
-
-**Watch on YouTube:**   
+**_Watch on YouTube:_**   
 Day One: <https://youtu.be/Y53YiyfAqeo>  
-Day Two Livestream: <https://youtu.be/KoszcZjwEdo>
+Day Two: <https://youtu.be/Unm9IJjCTNk>
 
 
 </div>
