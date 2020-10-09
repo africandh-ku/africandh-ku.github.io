@@ -20,7 +20,9 @@ It will be streamed via Zoom and YouTube._**
 
 or 
 
-**Watch here on YouTube: <https://youtu.be/Imykx6IqSmk>**
+**Watch on YouTube:**   
+Day One: <https://youtu.be/Y53YiyfAqeo>  
+Day Two Livestream: <https://youtu.be/KoszcZjwEdo>
 
 
 </div>
