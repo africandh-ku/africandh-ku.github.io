@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: post
 title: Reflections on African DH
 category: blog
+author: James Yeku
 ---
 
 ## #AfricanDH2020 and the Promise of An African Digital Humanities
