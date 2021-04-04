@@ -6,7 +6,7 @@ title: About
 
 # African Digital Humanities at the University of Kansas
 ----
-Welcome! The African Digital Humanities initiative at the University of Kansas is headed by **[James Yeku](https://afs.ku.edu/james-yeku)** in the Department of **[African and African-American Studies](https://afs.ku.edu/)** as well as the **[Institute for Digital Research in the Humanities](http://idrh.ku.edu)**, and presents opportunities for engaged discussions that center on African perspectives and projects in the digital humanities. 
+Welcome! The African Digital Humanities initiative at the University of Kansas is headed by **[James Yeku](https://afs.ku.edu/james-yeku)** in the Department of **[African and African-American Studies](https://afs.ku.edu/)** in partnership with staff from the **[Institute for Digital Research in the Humanities](http://idrh.ku.edu)**, and presents opportunities for engaged discussions that center on African perspectives and projects in the digital humanities. 
 
 
 
