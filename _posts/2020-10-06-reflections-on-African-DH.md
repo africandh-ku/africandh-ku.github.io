@@ -29,5 +29,5 @@ It is in the light of these recent activities in this emerging subfield of DH th
 
 This is what may be imagined as promised by the African digital humanities initiative at KU, and it's one we have invited game designers, digital archivists, librarians as well as scholars of literary digital humanities in Africa to make real. We hope you will join us. 
 
-**[Please register here to join via Zoom](https://kansas.zoom.us/webinar/register/WN_9BHyXTWoTYmOTGKqPdopcA)**
+_This event took place on October 8-9, 2020. Videos of the presentations are available elsewhere on this website._
 
