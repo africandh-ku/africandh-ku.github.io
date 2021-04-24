@@ -20,7 +20,7 @@ Speakers
 1. Onookome Okome, University of Alberta
 2. Elspeth Healey, KU Libraries
 3. Daniel Rebossin, University of Florida Libraries
-4. Ken Lorentz, formerly of KU Libraries
+4. Ken Lohrentz, formerly of KU Libraries
 
 Moderator: Liz MacGonagle, [Kansas African Studies Center](http://kasc.ku.edu/)
 
