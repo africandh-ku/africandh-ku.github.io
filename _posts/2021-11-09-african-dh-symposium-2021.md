@@ -27,15 +27,20 @@ In the last several years, the internet and computer software have become more c
 ## Schedule
 ----
 ### Tuesday, 9 November 2021
-*10:00 AM - 1:30 PM, US Central Time*
+*10:00 AM - 2:00 PM, US Central Time*
 
 ----
+**Welconme**
+*10:00 AM - 10:15 AM, US Central Time*
+
+
 **KEYNOTE Dialogue:<br />South-south Collaborations in the Digital Humanities**  
 _Alex Gill, Columbia University and Hlonipha Mokeona, Witss University, South Africa._
+*10:15 AM - 11:15 AM, US Central Time*
 
 
 **PANEL 1: Meanings, Potentials, & Limitations of African Digital Humanities** 
-*11:00 AM - 12:30 PM, US Central Time*
+*11:15 AM - 12:20 PM, US Central Time*
 
 1. Emmanuel Ngue, University of Ngaoundere, Cameroun   
 **Teaching and Doing Digital humanities in Ghana**
@@ -46,22 +51,40 @@ _Alex Gill, Columbia University and Hlonipha Mokeona, Witss University, South Af
 3. Augustine Farniola, University of Birmingham  
 **The Question of African Agency in DH Practices**
 
+**Break** 
+*12:20 AM - 12:30 PM*
+
+
 ----
 
 ### Panel 2: 
-*12:45 PM - 1:30 PM, US Central Time*
+*12:20 PM - 1:30 PM, US Central Time*
 
 ----
 
 **PANEL 2: African DH from the Diaspora: Connections and Collaborations**
 
-1.	Kayinsola Obayan, MIT,     
-**Builsing a Personal Archive on the Personal Computer Boom in Lagos**
+1.	Kayinsola Obayan, MIT     
+**Building a Personal Archive on the Personal Computer Boom in Lagos**
 
 2.	Ama Bemma Adwetewa, Cornell University    
 **Digital Labs Across Cultures**
 
 3. Jennifer Kyker, University of Rochester    
 **Decolonizating through Digital Humanities** 
+
+
+<p style="text-align:center"><a href="#top">&#x21a9;&#xfe0e; Return to top</a></p> 
+
+----
+## Speakers
+----
+#### Alex Gill
+
+<img align="left" style="padding-right:10px" src="{{ site.baseurl }}/assets/kim.jpg" alt="Gallon photo" width="200">
+
+*Alex Gill* is the Digital Scholarship Librarian at Columbia University, where he collaborates with faculty, students and library colleagues in humanities research, pedagogy and knowledge production that involves the use of advanced computation, digital media design, and network technologies. he is the lead coordinator for the Butler Library Studio at Columbia University Libraries, a tech-light library space focused on digital scholarship and pedagogy, and now a broadcast, Studio Remote. He is also co-founder and moderator of Columbia’s Group for Experimental Methods in the Humanities, a trans-disciplinary research cluster focused on experimental humanities; one of the creators and main editors of archipelagos journal: a journal of Caribbean digital praxis, and co-wrangler of its sister conference series, The Caribbean Digital. His research interests include Caribbean culture and history, with a focus on twentieth century poetry; digital humanities and technology design for different infrastructural and socio-economic environments; and, the relations of power and material extent of the cultural and scholarly record. <div style="clear:left"></div>
+
+
 
 
