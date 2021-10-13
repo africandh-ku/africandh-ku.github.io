@@ -165,9 +165,7 @@ Ama Bemma Adwetewa-Badu is a writer, teacher, and researcher based in New York. 
  
  ----
 
-## Second Annual African Digital Humanities Symposium
-
-
+## Second Annual African DH Symposium
 
 The symposium brings together scholars of DH working in an African context to tackle the questions, what is African digital humanities, and in what ways does it emerge as a critical iteration of postcolonial theoretical approaches to the digital humanities in other contexts of the global south?  This symposium explores these questions and responds to African articulations of the digital cultural record, the possibilities and limitations of digital platforms and objects for African humanities scholarship, as well as the politics of algorithmic and machinic systems in African knowledge production. As an in interdisciplinary panels that connect a wide range of ideas in the digital humanities from Africa and the African diaspora, we hope to expand the growing links between DH scholarship in Africa and the Global North. The one-day event will feature two panels that tackle these issues from different perspectives and based on the digital projects and practices of the speakers.
 
