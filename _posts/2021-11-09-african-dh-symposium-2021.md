@@ -94,14 +94,14 @@ _Alex Gill, Columbia University and Hlonipha Mokeona, Witss University, South Af
 
 #### Hlonipha Mokoena
 
-<img align="left" style="padding-right:10px" src="{{ site.baseurl }}/assets/Mokeona.jpeg" alt="Mokoena photo" width="200">
+<img align="left" style="padding-right:10px" src="{{ site.baseurl }}/assets/Mokeona.jpeg" alt="Mokeona photo" width="200">
 
 Hlonipha Mokoena received her Ph.D. from the University of Cape Town in 2005. From 2006 to 2015 she taught in the Anthropology Department at Columbia University in the City of New York. She is currently an associate professor and researcher at WiSER (Wits Institute for Social and Economic Research) at the University of the Witwatersrand, Johannesburg. Her articles have been published in: Journal of Natal and Zulu History; Journal of Religion in Africa; Journal of Southern African Studies; Ufahamu: A Journal of African Studies; Journal of African History; Kronos: Southern African Histories; Interventions: International Journal of Postcolonial Studies; Image & Text and Critical Arts. She has also written catalogue essays for Zanele Muholi, Mohau Modisakeng, Sabelo Mlangeni, Sam Nhlengethwa and Andrew Tshabangu. Her first book is on Magema M. Fuze, author of the Abantu Abamnyama Lapa Bavela Ngakona (1922) / The Black People and Whence They Came (1979).
 
 
 #### Caitlin Tyler-Richards
 
-<img align="left" style="padding-right:10px" src="{{ site.baseurl }}/assets/CTR.jpeg" alt="CTR photo" width="200">
+<img align="left" style="padding-right:10px" src="{{ site.baseurl }}/assets/Caitlin-tyler.jpeg" alt="CTR photo" width="200">
 
 Caitlin Tyler-Richards is an editor at Michigan State University Press, where she acquires traditional and born-digital projects in African, African American and Diaspora studies, as well as Digital Humanities. She is also a PhD candidate in African History at the University of Wisconsin-Madison and is completing a born-digital dissertation titled “Onto the World: Producing, Distributing and Consuming Nigerian Fiction after 1945.” Tyler-Richards discusses creating and analyzing a Nigerian fiction title database, an experience which forced her to confront the possibilities and limitations of using data and visualization tools to re-center African literary history.
 
@@ -138,7 +138,7 @@ Jennifer W. Kyker is an Associate Professor of Ethnomusicology at the Eastman Sc
 
 #### Ama Bemma Adwetewa-Badu 
 
-<img align="left" style="padding-right:10px" src="{{ site.baseurl }}/assets/headshot-3.jpeg" alt="Bemma photo" width="200">
+<img align="left" style="padding-right:10px" src="{{ site.baseurl }}/assets/Bemma-ADH-photo.jpg" alt="Bemma photo" width="200">
 
 Ama Bemma Adwetewa-Badu is a writer, teacher, and researcher based in New York. Born in Kumasi, Ghana, her work often draws from her own history and contends with questions of borders, geography, and place, particularly for Afro-diasporic persons for whom nation-based location and belonging have historically been contended practices. Ama Bemma is the founder and director of the Global Poetics Project (GPP), a digital experimental archive, co-working space, and new-media studio invested in developing resources, approaches, and tools for the study of poetry. Both through the GPP and her other research projects, she contends with how poets relate to one another and the literary coteries Afro-diasporic poets have formed throughout the Black Atlantic from decolonization to the present day. She is also a Ford Foundation Dissertation Fellow and a PhD candidate at Cornell University where she is working on a dissertation that examines the mediums Afro-diasporic poets used to foster cross-national and cross-cultural solidarities throughout the anglophone world. She is also a founding member of the Comparative Black Studies working group; a collective focused on developing and working through new perspectives on Black culture, literature, and history through transnational contexts.
 
