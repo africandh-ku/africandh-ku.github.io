@@ -34,6 +34,7 @@ Zoom
 ----
 
 *10:00 AM - 10:15 AM, US Central Time*
+
 **Welconme**
 
 
@@ -93,14 +94,14 @@ _Alex Gill, Columbia University and Hlonipha Mokeona, Witss University, South Af
 
 #### Hlonipha Mokoena
 
-<img align="left" style="padding-right:10px" src="{{ site.baseurl }}/assets/real-Mokeona.jpeg" alt="Mokoena photo" width="200">
+<img align="left" style="padding-right:10px" src="{{ site.baseurl }}/assets/Mokeona.jpeg" alt="Mokoena photo" width="200">
 
 Hlonipha Mokoena received her Ph.D. from the University of Cape Town in 2005. From 2006 to 2015 she taught in the Anthropology Department at Columbia University in the City of New York. She is currently an associate professor and researcher at WiSER (Wits Institute for Social and Economic Research) at the University of the Witwatersrand, Johannesburg. Her articles have been published in: Journal of Natal and Zulu History; Journal of Religion in Africa; Journal of Southern African Studies; Ufahamu: A Journal of African Studies; Journal of African History; Kronos: Southern African Histories; Interventions: International Journal of Postcolonial Studies; Image & Text and Critical Arts. She has also written catalogue essays for Zanele Muholi, Mohau Modisakeng, Sabelo Mlangeni, Sam Nhlengethwa and Andrew Tshabangu. Her first book is on Magema M. Fuze, author of the Abantu Abamnyama Lapa Bavela Ngakona (1922) / The Black People and Whence They Came (1979).
 
 
 #### Caitlin Tyler-Richards
 
-<img align="left" style="padding-right:10px" src="{{ site.baseurl }}/assets/Caitlin-tyler.jpeg" alt="CTR photo" width="200">
+<img align="left" style="padding-right:10px" src="{{ site.baseurl }}/assets/CTR.jpeg" alt="CTR photo" width="200">
 
 Caitlin Tyler-Richards is an editor at Michigan State University Press, where she acquires traditional and born-digital projects in African, African American and Diaspora studies, as well as Digital Humanities. She is also a PhD candidate in African History at the University of Wisconsin-Madison and is completing a born-digital dissertation titled “Onto the World: Producing, Distributing and Consuming Nigerian Fiction after 1945.” Tyler-Richards discusses creating and analyzing a Nigerian fiction title database, an experience which forced her to confront the possibilities and limitations of using data and visualization tools to re-center African literary history.
 
