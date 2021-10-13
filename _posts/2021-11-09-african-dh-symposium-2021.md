@@ -7,11 +7,10 @@ category: event
 
 *Our second iteration of the African DH symposiun at the University of Kansas builds on last year's theme on digital storytelling in African communities. This year's gathering centers on our attempt to understand the meanings and potentials of African digital humanities and explores what Roopisa Risam and Kelly Baker refer to as the Digital Black Atlanticv by examining the value of colloborations and connections in digital humanities research in African and African diaspora contexts. Like last year, the symposium brings together participants from African locations.*
 
-
 Date: November 9, 2021  
 10AM to 2pm (US Central Time)  
 Zoom  
-[Register here](https://kansas.zoom.us/webinar/register/WN_IOerh8OZQgSCMNTgAHiapA).
+[Please register here](https://kansas.zoom.us/webinar/register/WN_IOerh8OZQgSCMNTgAHiapA).
 
 
 **Keynote Dialogue: South-South Collaboration in the Digital Humanities**
