@@ -61,7 +61,7 @@ Alex Gil, Columbia University & Hlonipha Mokeona, Witss University, South Africa
 ----
 
 **Panel 2**
-*12:20 PM - 1:30 PM, US Central Time*
+*12:30 PM - 1:30 PM, US Central Time*
 
 ----
 
