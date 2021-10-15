@@ -4,6 +4,7 @@ title: Second Annual African Digital Humanities Symposium
 permalink: african-dh-symposium-2021
 category: event
 ---
+<a href="{{ site.baseurl }}/assets/African-Digital-Storytelling-Flyer.jpg"><img align="left" style="padding-right:15px" src="{{ site.baseurl }}/assets/2nd_AfricanDH_flyer.jpg" alt="Flyer photo" width="500"></a>
 
 **Date: November 9, 2021  
 10AM to 2pm (US Central Time)  
