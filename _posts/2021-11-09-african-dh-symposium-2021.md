@@ -44,8 +44,8 @@ Alex Gil, Columbia University & Hlonipha Mokeona, Witss University, South Africa
 **PANEL 1: Meanings, Potentials, & Limitations of African Digital Humanities** 
 *11:15 AM - 12:20 PM, US Central Time*
 
-1. Emmanuel Ngue, University of University of Yaoundé, Cameroun   
-**Teaching and Doing Digital humanities in Ghana**
+1. Emmanuel Ngué Um, University of University of Yaoundé, Cameroun   
+**Digital Humanities in African Low-resourced Environments: Responsibilities, Lessons & and Opportunities**
 
 2. Caitlin Tyler-Richards,  MSU Press   
 **Neither Feasts Nor Famine: Visualizing Nigerian Fiction Networks** 
