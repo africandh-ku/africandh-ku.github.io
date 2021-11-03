@@ -69,7 +69,8 @@ Alex Gil, Columbia University & Hlonipha Mokeona, Witss University, South Africa
 **PANEL 2: African DH from the Diaspora: Connections and Collaborations**
 
 1.	Kayinsola Obayan, MIT     
-**Building a Personal Archive on the Personal Computer Boom in Lagos**
+**The Uncertain Place of Archives in African DH**
+
 
 2.	Ama Bemma Adwetewa, Cornell University    
 **Digital Labs Across Cultures**
