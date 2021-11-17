@@ -6,10 +6,19 @@ category: event
 ---
 <a href="{{ site.baseurl }}/assets/African-Digital-Storytelling-Flyer.jpg"><img align="left" style="padding-right:15px" src="{{ site.baseurl }}/assets/2.jpg" alt="Flyer photo" width="500"></a>
 
-**Date: November 9, 2021  
+Date: November 9, 2021  
 10AM to 2pm (US Central Time)  
 Zoom  
-[Please register here](https://kansas.zoom.us/webinar/register/WN_IOerh8OZQgSCMNTgAHiapA).**
+
+**This symposium is completed. You can watch the video of the entire event below.**
+
+<div style="clear:both"></div>
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uoTVih1hA4E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
 
 In the last several years, the internet and computer software have become more central in the scholarly labors of African humanities scholars, with many producing digital archives, using software-based platforms to interpret historical data and linguistic corpora, and others questioning the political dimensions of technological systems often black-boxed as neutral.  But the continued rise of African digital humanities as a sub-field of DH exploring the intersections of traditional humanistic inquiry in Africa and digital technologies and computational methods, confronts us with questions of definition. This second iteration of the African DH symposium at the University of Kansas builds on last year's theme on digital storytelling and its articulations in Africa-based contexts and communities. This year's gathering centers on our attempt to understand the meanings and potentials of African digital humanities and to explore what Roopika Risam and Kelly Baker Josephs refer to as the Digital Black Atlantic by examining the value of collaborations and connections in digital humanities research in African and African diaspora frameworks. Like last year, the symposium brings together participants from African locations, including the work of graduate students and early-career faculty.
 
