@@ -1,0 +1,13 @@
+# main links
+main:
+  - title: Annual Symposium
+    url: symposium
+  - title: Indabas & Events
+    url: events
+  - title: Blog
+    url: blog
+  - title: Projects & Resources
+    url: resources
+  - title: People
+    url: people
+
