@@ -15,11 +15,11 @@ excerpt: "Exploring the intersection of traditional humanistic inquiry in Africa
 ---
 
 
-<!-- <img align="left" style="padding-right:10px" src="assets/img/word-cloud.png" alt="About page photo" width="350"> -->
+<img align="left" style="padding-right:10px" src="assets/img/word-cloud.png" alt="About page photo" width="350"> 
 
-Based at the University of Kansas, African DH@KU presents opportunities for engaged discussions that center on African perspectives and projects in the digital humanities. Our programs include an annual African Digital Humanities Symposium and regular Digital Indabas and webinars that explore the intersection of traditional humanistic inquiry in Africa and digital media. 
+**Based at the University of Kansas, African DH@KU presents opportunities for engaged discussions that center on African perspectives and projects in the digital humanities. Our programs include an annual African Digital Humanities Symposium and regular Digital Indabas and webinars that explore the intersection of traditional humanistic inquiry in Africa and digital media.** 
 
-We bring togther people and projects who examine this important connection, highlighting the ways in which African cultural producers incorporate digital technologies and methods into their work, while exploring how African writers and critics experiment with digital media hardware and software more generally. 
+We bring togther people and projects who examine this important connection, highlighting the ways in which African cultural producers incorporate digital technologies and methods into their work, while exploring how African writers and critics experiment with digital media hardware and software more generally.
 
 We draw on postcolonial and African theorectical approaches to the Internet as the medium of the digital cultural record, even as we remain alert to the limits of digital platforms, the politics of representations and knowledge production in the digital humanities, as well as to questions on the nature and uses of digital archives.
 

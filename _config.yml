@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" #"default" # "air", "aqua", "contrast", "da
 
 # Site Settings
 locale                   : "en-US"
-title                    : #"African Digital Humanites"
+title                    : "African Digital Humanites @ KU"
 title_separator          : "-"
 subtitle                 : #"Exploring the intersection of<br>traditional humanistic inquiry in Africa and digital media,<br>centering African perspectives and projects,<br>and fostering connections across regions." # site tagline that appears below site title in masthead
 name                     : #"Your Name"
