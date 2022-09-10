@@ -74,7 +74,7 @@ Moderator: Ademide Adelusi, University of California
 
 **PANEL 2: Algorithmic Systems and African Languages**  
 *12:40 PM - 1:45 PM, US Central Time*  
-Moderator: Tunde Adegbola, African Languages Technology Initiative, Ibadan Nigeria
+Moderator: Tunde Adegbola, African Languages Technology Initiative, Ibadan, Nigeria
 
 * Salomey Ossei, Research Assistant, DeustoTech  
 **NLP for Ghanaian Languages (Khaya AI)**
@@ -104,9 +104,9 @@ Jennifer Hart, Wayne State University & Kuukuwa Manful, SOAS
 <br />
 <p style="text-align:center"><a href="#top">&#x21a9;&#xfe0e; Return to top</a></p> 
 
-----
+
 ## Speakers
-----
+
 #### Roopika Risam
 
 <img align="left" style="padding-right:10px" src="{{ site.baseurl }}/assets/img/symp2022//Roopsi.jpg" alt="Roopsi photo" width="200">
@@ -149,7 +149,7 @@ Tinashe Mushakavanhu is a Junior Research Fellow in African & Comparative Litera
 
 Samba Camara holds a PhD in Interdisciplinary Arts with a concentration in Black literatures and popular cultures. Camara’s current book manuscript is tentatively titled, _Beyond the Praise Song: Islam, Popular Music, and the Poetics of Cosmopolitan Nationhood in Contemporary Senegal._ Pulling from extensive fieldwork and analysis of song and performance, the book examines the social and cultural meanings behind the apparently conflictual encounter of the sacred and the profane in Senegalese popular music. It analyzes music-mediated cultural encounters as an integral part of a postcolonial modernity, one that carries important local metaphors of interethnic and interfaith solidarity and national integration in Senegal.
 
-Link to the EAP1245 online collections in the British Library’s website https://eap.bl.uk/project/EAP1245 
+Link to the EAP1245 online collections in the British Library’s website <https://eap.bl.uk/project/EAP1245>
 
 <div style="clear:left"></div>
 
@@ -192,7 +192,7 @@ Link to Project: <https://github.com/masakhane-io/lafand-mt>
 
 <img align="left" style="padding-right:10px" src="{{ site.baseurl }}/assets/img/symp2022//Jennifer.jpg" alt="Jennifer photo" width="200">
 
-Jennifer Hart is an Associate Professor of History and Affiliate Faculty in Anthropology and Entrepreneurship & Innovation at Wayne State University.  Her research explores the history of mobility, infrastructure, technology, and space in Ghana, West Africa. Her first book, _Ghana on the Go: African Mobility in the Age of Motor Transportation_ (Indiana University Press, 2016), was a finalist for the African Studies Book Prize. She directs the public digital history project Accra Wala (<www.accrawala.com>) and writes frequently for public audiences in a range of venues including _The Washington Post_, _Africa is a Country_, _The Conversation_, and _Nursing Clio_.
+Jennifer Hart is an Associate Professor of History and Affiliate Faculty in Anthropology and Entrepreneurship & Innovation at Wayne State University.  Her research explores the history of mobility, infrastructure, technology, and space in Ghana, West Africa. Her first book, _Ghana on the Go: African Mobility in the Age of Motor Transportation_ (Indiana University Press, 2016), was a finalist for the African Studies Book Prize. She directs the public digital history project Accra Wala (<www.accrawala.com>) and writes frequently for public audiences in a range of venues including *The Washington Post*, *Africa is a Country*, *The Conversation*, and *Nursing Clio*.
 
 <div style="clear:left"></div>
 
