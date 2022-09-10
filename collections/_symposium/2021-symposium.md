@@ -38,7 +38,8 @@ By sharing insights from their own work and digital projects, these scholars wil
 
 ----
 
-*Welcome: 10:00 AM - 10:15 AM, US Central Time*
+**Welcome**  
+*0:00 AM - 10:15 AM, US Central Time*
 
 ---
 
@@ -48,7 +49,7 @@ Alex Gil, Columbia University & Hlonipha Mokeona, Witss University, South Africa
 
 ---
 
-**PANEL 1: Meanings, Potentials, & Limitations of African Digital Humanities** 
+**PANEL 1: Meanings, Potentials, & Limitations of African Digital Humanities**  
 *11:15 AM - 12:20 PM, US Central Time*
 
 1. Emmanuel Ngué Um, University of University of Yaoundé, Cameroun   
@@ -68,12 +69,9 @@ Alex Gil, Columbia University & Hlonipha Mokeona, Witss University, South Africa
 
 ----
 
-**Panel 2**
+
+**PANEL 2: African DH from the Diaspora: Connections and Collaborations**  
 *12:30 PM - 1:30 PM, US Central Time*
-
-----
-
-**PANEL 2: African DH from the Diaspora: Connections and Collaborations**
 
 1.	Kayinsola Obayan, MIT     
 **The Uncertain Place of Archives in African DH**
@@ -94,7 +92,7 @@ Alex Gil, Columbia University & Hlonipha Mokeona, Witss University, South Africa
 ----
 #### Alex Gil
 
-<img align="left" style="padding-right:10px" src="{{ site.baseurl }}/assets/img/Alex.jpg" alt="Gill  photo" width="200">
+<img align="left" style="padding-right:10px" src="{{ site.baseurl }}/assets/img/Alex.jpg" alt="Gil  photo" width="200">
 
 Alex Gil is the Digital Scholarship Librarian at Columbia University, where he collaborates with faculty, students and library colleagues in humanities research, pedagogy and knowledge production that involves the use of advanced computation, digital media design, and network technologies. he is the lead coordinator for the Butler Library Studio at Columbia University Libraries, a tech-light library space focused on digital scholarship and pedagogy, and now a broadcast, Studio Remote. He is also co-founder and moderator of Columbia’s Group for Experimental Methods in the Humanities, a trans-disciplinary research cluster focused on experimental humanities; one of the creators and main editors of archipelagos journal: a journal of Caribbean digital praxis, and co-wrangler of its sister conference series, The Caribbean Digital. His research interests include Caribbean culture and history, with a focus on twentieth century poetry; digital humanities and technology design for different infrastructural and socio-economic environments; and, the relations of power and material extent of the cultural and scholarly record.
 
