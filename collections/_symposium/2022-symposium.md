@@ -8,7 +8,8 @@ description: The 2022 Symposium will center on the roles of digital technologies
 ---
 
 
-**October 6, 2022. 10:00am - 2:30pm US Central Time  
+**October 6, 2022  
+10:00am - 2:30pm US Central Time  
 Via Zoom**
 
 [<button style="background-color: #9c1109; border-radius: 8px; color: white; padding: 20px; text-align: center; display: inline-block; cursor: pointer;">**Register Here**</button>](https://kansas.zoom.us/meeting/register/tJUocuurqjkvH9152JezE0Wc-WU0XDm3eo5E)
