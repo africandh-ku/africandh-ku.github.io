@@ -55,7 +55,8 @@ Roopika Risam, Dartmouth College
 *11:15 AM - 12:30 PM, US Central Time*  
 Moderator: Ademide Adelusi, University of California
 
-* Judith Opoku-Boateng, J.H. Kwabena Nketia Audio Visual Archive, University of Ghana  
+* Judith Opoku-Boateng, J. H. Kwabena Nketia Audio Visual Archive, University of Ghana  
+**Topic: Tapping History to Rebuild the Future: J. H. Kwabena and the Making of a Postcolonial Archive**
 
 * Etim Eyoh, The Nigeria Nostalgia Project  
 **Using Social Media To Recover Nigerian History**
@@ -122,9 +123,7 @@ Her first monograph, [New Digital Worlds: Postcolonial Digital Humanities in The
 
 <img align="left" style="padding-right:10px" src="{{ site.baseurl }}/assets/img/symp2022//Judith.jpg" alt="Judith photo" width="200">
 
-As the head Archivist of the [J.H. Kwabena Nketia Archives](https://ias.ug.edu.gh/content/jh-kwabena-nketia-archives) at the Institute of African Studies, University of Ghana, Judith Opoku-Boatent oversees an audiovisual and paper heritage preservation programme which supports both academic research and creative engagement. The archive was established with the aim of serving the needs of scholars, researchers, and artists by collecting and producing audiovisual documentation on Ghana's unique dance and music traditions. Preceding her current position, Judith engaged with the [International Centre for African Music and Dance (ICAMD)](https://www.musicinafrica.net/directory/international-centre-african-music-and-dance-icamd-university-ghana) as an ethnographic researcher documenting music and dance forms from indigenous communities in Ghana. She has published, presented, served as a consultant, and offered training programs on audiovisual heritage preservation locally and globally.
-
-Judith has been involved in archival activism where she advocates for the sustainability of the archiving profession and promotes the training of young professionals in her region.
+As head Archivist of the [J.H. Kwabena Nketia Archives](https://ias.ug.edu.gh/content/jh-kwabena-nketia-archives) at the Institute of African Studies, University of Ghana, Judith oversees an audiovisual heritage preservation programme which supports both academic research and creative engagement.  She holds formal qualifications in Sociology and Archival Studies respectively, from the University of Ghana.  Beyond the University, Judith has served as a private consultant for local and international Organizations including Commonwealth Human Rights Initiative and  ICCROM, where she also functioned as a resource person and local organising Chair for ICCROM’s SOIMA programme in July 2017.  Judith is a US State Alumni (International Visitor Leadership Programme 2011).  She currently serves as the Vice President for Communications for International Association for Sound and Audiovisual Archives (IASA), as well as its Ambassador for Ghana and West Africa.  She also serves on the Advisory Board of the Industry Programme: _Preservation of Africa’s Audiovisual Media Assets_. Additionally, Judith serves on the National Committee of the _Memory of the World Programme in Ghana_, (a UNESCO initiative)  Judith  has published in peer reviewed journals and continues to advocate for the care of audiovisual heritage materials in her region, through various initiatives. 
 
 <div style="clear:left"></div>
 
