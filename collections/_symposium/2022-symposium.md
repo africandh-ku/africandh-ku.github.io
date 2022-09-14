@@ -56,7 +56,7 @@ Roopika Risam, Dartmouth College
 Moderator: Ademide Adelusi, University of California
 
 * Judith Opoku-Boateng, J. H. Kwabena Nketia Audio Visual Archive, University of Ghana  
-**Topic: Tapping History to Rebuild the Future: J. H. Kwabena and the Making of a Postcolonial Archive**
+**Tapping History to Rebuild the Future: J. H. Kwabena and the Making of a Postcolonial Archive**
 
 * Etim Eyoh, The Nigeria Nostalgia Project  
 **Using Social Media To Recover Nigerian History**
