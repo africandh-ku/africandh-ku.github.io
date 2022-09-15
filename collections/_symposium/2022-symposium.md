@@ -147,9 +147,7 @@ Tinashe Mushakavanhu is a Junior Research Fellow in African & Comparative Litera
 
 <img align="left" style="padding-right:10px" src="{{ site.baseurl }}/assets/img/symp2022//Samba.jpg" alt="Samba photo" width="200">
 
-Samba Camara holds a PhD in Interdisciplinary Arts with a concentration in Black literatures and popular cultures. Camara’s current book manuscript is tentatively titled, _Beyond the Praise Song: Islam, Popular Music, and the Poetics of Cosmopolitan Nationhood in Contemporary Senegal._ Pulling from extensive fieldwork and analysis of song and performance, the book examines the social and cultural meanings behind the apparently conflictual encounter of the sacred and the profane in Senegalese popular music. It analyzes music-mediated cultural encounters as an integral part of a postcolonial modernity, one that carries important local metaphors of interethnic and interfaith solidarity and national integration in Senegal.
-
-Link to the EAP1245 online collections in the British Library’s website <https://eap.bl.uk/project/EAP1245>
+Dr. Samba Camara is a Teaching Assistant Professor of African, African American, and Diaspora Studies at the University of North Carolina at Chapel Hill. He has published articles and book chapters on the influence of Islam on West African popular music and culture. His forthcoming monograph, _A Muslim Afropolitanism: The Ethics of Personhood in Senegalese Popular music_, explores the ethics and aesthetics of grassroots community building in Senegal's Sufi inflected music. Dr. Camara has recently led a major digitization project funded by the British Library, in which he collaborated with his colleague Dr. Mwamzandi to collect and preserve over 6,000 pages of traditional Islamic manuscripts authored by nineteenth and twentieth century Pulaar speaking scholars. At UNC Chapel Hill, Dr. Camara teaches courses on Muslim Black popular culture and African literature and performance.
 
 <div style="clear:left"></div>
 
