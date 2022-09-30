@@ -237,7 +237,7 @@ Her PhD research at SOAS, University of London examines nation-building, social 
 </a>
 
 <a href="https://hbw.ku.edu">
-<img align="left" style="padding-right:25px" src="{{ site.baseurl }}/assets/img/projectHBW-logo.jpg" alt="Project on the History of Black Writing" width="300">
+<img align="left" style="padding-right:25px" src="{{ site.baseurl }}/assets/img/ProjectHBW-logo.jpg" alt="Project on the History of Black Writing" width="300">
 </a>
 
 </div>
