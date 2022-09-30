@@ -12,6 +12,10 @@ description: The 2022 Symposium will center on the roles of digital technologies
 10:00am - 2:30pm US Central Time  
 Via Zoom**
 
+
+<img align="center" style="" src="{{ site.baseurl }}/assets/img/symposium3-flyer.png" alt="symposium flyer" width="70%">
+
+
 [<button style="background-color: #9c1109; border-radius: 8px; color: white; padding: 20px; text-align: center; display: inline-block; cursor: pointer;">**Register Here**</button>](https://kansas.zoom.us/meeting/register/tJUocuurqjkvH9152JezE0Wc-WU0XDm3eo5E)
 
 
@@ -215,12 +219,29 @@ Her PhD research at SOAS, University of London examines nation-building, social 
 <div style="clear:left"></div>
 
 <hr>
+<a href="https://kasc.ku.edu">
+<img align="left" style="padding-right:25px" src="{{ site.baseurl }}/assets/img/AAAS-KASC-thin-logo.jpg" alt="Kansas African Studies Center" width="300"></a>
+
 <a href="https://idrh.ku.edu">
 <img align="left" style="padding-right:25px" src="{{ site.baseurl }}/assets/img/idrh-logo.jpg" alt="Institute for Digital Research in the Humanities" width="300">
 </a>
 
-<a href="https://kasc.ku.edu">
-<img align="left" style="padding-right:25px" src="{{ site.baseurl }}/assets/img/AAAS-KASC-thin-logo.jpg" alt="Kansas African Studies Center" width="300"></a>
+<div style="float:left">
+<br />
+<a href="https://hallcenter.ku.edu">
+<img align="left" style="padding-right:25px" src="{{ site.baseurl }}/assets/img/hallcenter-logo.jpg" alt="Hall Center for the Humanities" width="300">
+</a>
+
+<a href="https://lib.ku.edu">
+<img align="left" style="padding-right:25px" src="{{ site.baseurl }}/assets/img/kulibraries-logo.webp" alt="KU Libraries" width="300">
+</a>
+
+<a href="https://hbw.ku.edu">
+<img align="left" style="padding-right:25px" src="{{ site.baseurl }}/assets/img/projectHBW-logo.jpg" alt="Project on the History of Black Writing" width="300">
+</a>
+
+</div>
+
 
 <div style="clear:left"></div>
 
