@@ -10,6 +10,7 @@ description: The 2022 Symposium will center on the roles of digital technologies
 
 **October 6, 2022  
 10:00am - 2:30pm US Central Time  
+3:00pm - 7:30pm GMT  
 Via Zoom**
 
 
