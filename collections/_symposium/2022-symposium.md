@@ -195,7 +195,7 @@ Link to Project: <https://github.com/masakhane-io/lafand-mt>
 
 <img align="left" style="padding-right:10px" src="{{ site.baseurl }}/assets/img/symp2022//Jennifer.jpg" alt="Jennifer photo" width="200">
 
-Jennifer Hart is an Associate Professor of History and Affiliate Faculty in Anthropology and Entrepreneurship & Innovation at Wayne State University.  Her research explores the history of mobility, infrastructure, technology, and space in Ghana, West Africa. Her first book, _Ghana on the Go: African Mobility in the Age of Motor Transportation_ (Indiana University Press, 2016), was a finalist for the African Studies Book Prize. She directs the public digital history project Accra Wala (<www.accrawala.com>) and writes frequently for public audiences in a range of venues including *The Washington Post*, *Africa is a Country*, *The Conversation*, and *Nursing Clio*.
+Jennifer Hart is an Associate Professor of History and Affiliate Faculty in Anthropology and Entrepreneurship & Innovation at Wayne State University.  Her research explores the history of mobility, infrastructure, technology, and space in Ghana, West Africa. Her first book, _Ghana on the Go: African Mobility in the Age of Motor Transportation_ (Indiana University Press, 2016), was a finalist for the African Studies Book Prize. She directs the public digital history project [Accra Wala](<www.accrawala.com>) and writes frequently for public audiences in a range of venues including *The Washington Post*, *Africa is a Country*, *The Conversation*, and *Nursing Clio*.
 
 <div style="clear:left"></div>
 
@@ -203,7 +203,7 @@ Jennifer Hart is an Associate Professor of History and Affiliate Faculty in Anth
 
 <img align="left" style="padding-right:10px" src="{{ site.baseurl }}/assets/img/symp2022//Kuukuwa.jpg" alt="Kuukuwa photo" width="200">
 
-<img>
+
 Kuukuwa Manful is a trained architect and researcher who creates, studies and documents architecture in Africa. She is a visiting post-doctoral scholar at the Center for Advanced Study in the Behavioral Sciences (CASBS) at the University of Stanford, and a post-doctoral researcher on the African State Architecture Project at SOAS, University of London. 
 
 Through her [Accra Archive](https://www.accraarchive.com/) project, she has digitised a collection of endangered historical architectural material pertaining to architecture, construction, and urban regulation in Ghana. She also curates [adansisɛm](http://www.adansisem.com/) - an architecture collective that documents Ghanaian architecture theory, research and practice, and co-founded and runs [sociarchi](https://sociarchitecture.wordpress.com/) - a social architectural enterprise that advocates for, and provides architectural services to people who ordinarily cannot afford architects.
