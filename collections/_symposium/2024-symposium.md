@@ -111,7 +111,7 @@ Director, Centre de Linguistique Appliquée de Dakar (CLAD), Université Cheikh 
 
 
 <hr>
-<img align="left" style="margin-right:25px; margin-bottom:25px; border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/Harris.jpg" alt="Photo of Ashleigh" width="150">**Ashleigh Harris**  
+<img align="left" style="margin-right:25px; margin-bottom:25px; border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/harris.jpg" alt="Photo of Ashleigh" width="150">**Ashleigh Harris**  
 Professor of English, Uppsala University, Sweden  
 Director ALMEDA: African Literary Metadata Projet
 <br><br>
@@ -159,7 +159,6 @@ Coming soon!
 <a href="https://idrh.ku.edu">
 <img align="left" style="padding-right:25px" src="{{ site.baseurl }}/assets/img/idrh-logo.jpg" alt="Institute for Digital Research in the Humanities" width="300">
 </a>
-
 
 <a href="https://sadilar.org/">
 <img align="left" style="padding-right:25px" src="{{ site.baseurl }}/assets/img/SADiLAR.PNG" alt="South African Centre for Digital Language Resources" width="300">
