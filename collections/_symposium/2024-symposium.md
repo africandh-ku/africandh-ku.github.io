@@ -14,12 +14,9 @@ The University of Ghana--Legon**
 <img align="center" style="" src="{{ site.baseurl }}/assets/img/ughana-campus.png" alt="University of Ghana campus" width="70%">
 
 
-<h2>Program and Details to come.</h2>
-
-
-
 * Contents
 {:toc}
+
 
 ## About
 The 4th Annual African Digital Humanities Symposium
@@ -30,36 +27,118 @@ The 2024 symposium seeks to stimulate a dialogue that addresses the intersection
 Attuned to postcolonial and African theoretical perspectives concerning digital media approaches, the symposium program remains alert to the limits of digital platforms, the politics of representation and knowledge production, and questions about the nature and uses of digital archives. Topics addressed at the symposium may include, but are not limited to, digital tools and platforms, digital archives, computational humanities and natural language processing, and digital humanities educationa nd infrastructure.
 
 **Hybrid Format.** By transitioning to a hybrid format, the symposium enriches the participatory experience. Scholars in the region and other in-person attendees will have the opportunity to engage in face-to-face conversations and workshops, while networking with fellow scholars against the backdrop of the University of Ghana’s vibrant campus in Accra. For those unable to attend in person, the symposium will continue to offer virtual participation, ensuring that global audiences can partake in the dialogue.
-  
+
+
+## Featured Speakers
+
+
+<img align="left" style="margin-right:25px; margin-bottom:25px; border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/ElKhatib.jpg" alt="Photo of Randa El Khatib" width="150">**Randa El Khatib**  
+Postdoctoral Fellow in Open Social Scholarship, INKE & Co-director of the Digital Humanities Summer Institute (DHSI)
+
+<div style="clear:left"></div>
+
+
+<img align="left" style="margin-right:25px; margin-bottom:25px; border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/menno.jpg" alt="Photo of Menno van Zaanen" width="150">**Menno van Zaanen**  
+Professor of Digital Humanities, South African Centre for Digital Language Resources ([SADiLaR](https://sadilar.org/)), South Africa 
+
+<div style="clear:left"></div>
+
+
+## Panelists & Presenters
+
+
+
+<img align="left" style="margin-right:25px; margin-bottom:25px; border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/Karen.jpg" alt="Photo of Karen" width="150">**Karen Ijumba**  
+Senior Researcher, Open Restitution Africa
+<br><br>
+***Poetry Africa Digital Map: An example of how selective and curated digitisation of ephemeral material in collections can enable new pathways of knowledge production*** 
+
+<div style="clear:left"></div>
+
+<hr>
+<img align="left" style="margin-right:25px; margin-bottom:25px; border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/FuadLawal.jpg" alt="Photo of Fuad Lawal" width="150">**Fu'ad Lawal**  
+Founder and Project Lead, <a href="https://archivi.ng/">Archivi.ng</a>
+<br><br>
+***We're On The Brink Of An Irreparable Loss: Digitizing Nigeria’s Historical Newspapers*** 
+
+<div style="clear:left"></div>
+
+
+
+
+
+<hr>
+<img align="left" style="margin-right:25px; margin-bottom:25px; border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/Judith.jpg" alt="Photo of Judity" width="150">**Judith Opoku-Boateng**  
+Director, J.H. Kwabena Nketia Audio-Visual Archives, Institute of African Studies, University of Ghana
+<br><br>
+***Preserving Audio and Video of Ghanian traditional drumming and dance*** 
+
+<div style="clear:left"></div>
+
+
+<hr>
+<img align="left" style="margin-right:25px; margin-bottom:25px; border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/Fadera.jpeg" alt="Placeholder" width="150">**Siaka Fadera**  
+Assistant Director, Research and Documentation Division, National Centre for Arts and Culture, The Gambia
+<br><br>
+***Digitization of the NCA/RDD Oral Archive of The Gambia: Experiences, Challenges, Outlook*** 
+
+<div style="clear:left"></div>
+
+
+
+<hr>
+<img align="left" style="margin-right:25px; margin-bottom:25px; border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/ngue.jpg" alt="Photo of Emmanuel Ngue Um" width="150">**Emmanuel Ngue Um**  
+Associate Professor of Linguistics and Digital Humanities, Higher Teacher Training College, University of Yaoundé 1, Cameroon
+<br><br>
+***Language as Software : A Digital Humanities Perspective to Revealing the  Rhizome of African Language Spaces.*** 
+
+<div style="clear:left"></div>
+
+
+<hr>
+<img align="left" style="margin-right:25px; margin-bottom:25px; border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/Augustin.jpg" alt="Photo of Augustin Ndione" width="150">**Ndione Augustin**  
+Director, Centre de Linguistique Appliquée de Dakar (CLAD), Université Cheikh Anta Diop de Dakar (UCAD), Senegal
+<br><br>
+***Digitizing a didactic method for applications in local language teaching*** 
+
+<div style="clear:left"></div>
+
+
+
+
+
+
+
+
+<hr>
+<img align="left" style="margin-right:25px; margin-bottom:25px; border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/Harris.jpg" alt="Photo of Ashleigh" width="150">**Ashleigh Harris**  
+Professor of English, Uppsala University, Sweden  
+Director ALMEDA: African Literary Metadata Projet
+<br><br>
+***Linked Open Metadata for African Literary Heritage*** 
+
+<div style="clear:left"></div>
+
+
+
+<hr>
+<img align="left" style="margin-right:25px; margin-bottom:25px; border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/Placeholder_group2.jpg" alt="Photo of Ashleigh" width="150">**And more to be added soon....**  
+
+
+<div style="clear:left"></div>
+
 
 <div style="text-align:left; border:5px solid black; border-radius: 10px; padding-left:5px; padding-right:5px; padding-top:5px;background-color:powderblue;" markdown="1">
 
-## Schedule
+
+## Schedule & Logistics
 
 Coming soon!
 
 
 </div>
 <br />
-<p style="text-align:center"><a href="#top">&#x21a9;&#xfe0e; Return to top</a></p> 
 
-
-## Speakers
-
-Coming soon!
-
-
-
-<p style="text-align:center"><a href="#top">&#x21a9;&#xfe0e; Return to top</a></p> 
-
-
-## Logistics
-
-Coming soon!
-
-
-
-<p style="text-align:center"><a href="#top">&#x21a9;&#xfe0e; Return to top</a></p> 
 
 ----
 
@@ -67,7 +146,7 @@ Coming soon!
 
 <div style="clear:left"></div>
 
-<hr>
+
 <a href="https://erc.europa.eu/">
 <img align="left" style="padding-right:25px" src="{{ site.baseurl }}/assets/img/ERC1.png" alt="European Research Council" width="300"></a>
 
@@ -76,9 +155,14 @@ Coming soon!
 
 <a href="https://lib.ku.edu">
 <img align="left" style="padding-right:25px" src="{{ site.baseurl }}/assets/img/kulibraries-logo.webp" alt="University of Kansas Libraries" width="300"></a>
-
+<br /><br /><br /><br />
 <a href="https://idrh.ku.edu">
 <img align="left" style="padding-right:25px" src="{{ site.baseurl }}/assets/img/idrh-logo.jpg" alt="Institute for Digital Research in the Humanities" width="300">
+</a>
+
+
+<a href="https://sadilar.org/">
+<img align="left" style="padding-right:25px" src="{{ site.baseurl }}/assets/img/SADiLAR.PNG" alt="South African Centre for Digital Language Resources" width="300">
 </a>
 
 

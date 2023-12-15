@@ -1,3 +1,26 @@
+## Panelists & Presenters
+
+Kodjo Atiso  
+Siaka Fadera  
+Alex Gil  
+Aram Goudiaby Sané  
+Silvia Gutierrez  
+Fu'ad Lawal  
+Karen Ljumba  
+Ashleigh Harris  
+Emmanuel Ngue Um  
+Malkia Okech  
+Juidth Opoku-Boateng  
+Brian Rosenblum  
+Oluwaseun Damilola Sanwoolu  
+John Symons  
+Kọ́lá Túbọ̀sún  
+ 
+
+
+
+
+
 # Content
 * add items to projects and resources page
 * check out/revise our bios
