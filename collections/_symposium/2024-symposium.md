@@ -29,88 +29,36 @@ Attuned to postcolonial and African theoretical perspectives concerning digital 
 **Hybrid Format.** By transitioning to a hybrid format, the symposium enriches the participatory experience. Scholars in the region and other in-person attendees will have the opportunity to engage in face-to-face conversations and workshops, while networking with fellow scholars against the backdrop of the University of Ghana’s vibrant campus in Accra. For those unable to attend in person, the symposium will continue to offer virtual participation, ensuring that global audiences can partake in the dialogue.
 
 
-## Featured Speakers
+## Speakers & Panelists
 
+<img align="left" style="margin-right:25px; margin-bottom:25px; border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/Kodjo-Atiso.png" alt="Photo of Kodjo" width="150">**Kodjo Atiso**  
+Librarian for Africana and International Studies, University of Kansas
+<br><br>
+***Towards the preservation of flora and fauna: the digitization of pre-independence herbarium in Ghana***
+
+
+<div style="clear:left"></div>
+<hr>
 
 <img align="left" style="margin-right:25px; margin-bottom:25px; border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/ElKhatib.jpg" alt="Photo of Randa El Khatib" width="150">**Randa El Khatib**  
 Postdoctoral Fellow in Open Social Scholarship, INKE & Co-director of the Digital Humanities Summer Institute (DHSI)
-
-<div style="clear:left"></div>
-
-
-<img align="left" style="margin-right:25px; margin-bottom:25px; border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/menno.jpg" alt="Photo of Menno van Zaanen" width="150">**Menno van Zaanen**  
-Professor of Digital Humanities, South African Centre for Digital Language Resources ([SADiLaR](https://sadilar.org/)), South Africa 
-
-<div style="clear:left"></div>
-
-
-## Panelists & Presenters
-
-
-
-<img align="left" style="margin-right:25px; margin-bottom:25px; border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/Karen.jpg" alt="Photo of Karen" width="150">**Karen Ijumba**  
-Senior Researcher, Open Restitution Africa
 <br><br>
-***Poetry Africa Digital Map: An example of how selective and curated digitisation of ephemeral material in collections can enable new pathways of knowledge production*** 
+***Building Bridges: The Journey of Digital Humanities Institute Beirut***
+
 
 <div style="clear:left"></div>
-
 <hr>
-<img align="left" style="margin-right:25px; margin-bottom:25px; border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/FuadLawal.jpg" alt="Photo of Fuad Lawal" width="150">**Fu'ad Lawal**  
-Founder and Project Lead, <a href="https://archivi.ng/">Archivi.ng</a>
-<br><br>
-***We're On The Brink Of An Irreparable Loss: Digitizing Nigeria’s Historical Newspapers*** 
-
-<div style="clear:left"></div>
 
 
-
-
-
-<hr>
-<img align="left" style="margin-right:25px; margin-bottom:25px; border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/Judith.jpg" alt="Photo of Judity" width="150">**Judith Opoku-Boateng**  
-Director, J.H. Kwabena Nketia Audio-Visual Archives, Institute of African Studies, University of Ghana
-<br><br>
-***Preserving Audio and Video of Ghanian traditional drumming and dance*** 
-
-<div style="clear:left"></div>
-
-
-<hr>
 <img align="left" style="margin-right:25px; margin-bottom:25px; border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/Fadera.jpeg" alt="Placeholder" width="150">**Siaka Fadera**  
 Assistant Director, Research and Documentation Division, National Centre for Arts and Culture, The Gambia
 <br><br>
 ***Digitization of the NCA/RDD Oral Archive of The Gambia: Experiences, Challenges, Outlook*** 
 
-<div style="clear:left"></div>
-
-
-
-<hr>
-<img align="left" style="margin-right:25px; margin-bottom:25px; border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/ngue.jpg" alt="Photo of Emmanuel Ngue Um" width="150">**Emmanuel Ngue Um**  
-Associate Professor of Linguistics and Digital Humanities, Higher Teacher Training College, University of Yaoundé 1, Cameroon
-<br><br>
-***Language as Software : A Digital Humanities Perspective to Revealing the  Rhizome of African Language Spaces.*** 
 
 <div style="clear:left"></div>
-
-
 <hr>
-<img align="left" style="margin-right:25px; margin-bottom:25px; border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/Augustin.jpg" alt="Photo of Augustin Ndione" width="150">**Ndione Augustin**  
-Director, Centre de Linguistique Appliquée de Dakar (CLAD), Université Cheikh Anta Diop de Dakar (UCAD), Senegal
-<br><br>
-***Digitizing a didactic method for applications in local language teaching*** 
 
-<div style="clear:left"></div>
-
-
-
-
-
-
-
-
-<hr>
 <img align="left" style="margin-right:25px; margin-bottom:25px; border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/harris.jpg" alt="Photo of Ashleigh" width="150">**Ashleigh Harris**  
 Professor of English, Uppsala University, Sweden  
 Director ALMEDA: African Literary Metadata Projet
@@ -118,9 +66,54 @@ Director ALMEDA: African Literary Metadata Projet
 ***Linked Open Metadata for African Literary Heritage*** 
 
 <div style="clear:left"></div>
+<hr>
+<img align="left" style="margin-right:25px; margin-bottom:25px; border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/Karen.jpg" alt="Photo of Karen" width="150">**Karen Ijumba**  
+Senior Researcher, Open Restitution Africa
+<br><br>
+***Poetry Africa Digital Map: An example of how selective and curated digitisation of ephemeral material in collections can enable new pathways of knowledge production*** 
 
 
 
+<div style="clear:left"></div>
+<hr>
+<img align="left" style="margin-right:25px; margin-bottom:25px; border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/FuadLawal.jpg" alt="Photo of Fuad Lawal" width="150">**Fu'ad Lawal**  
+Founder and Project Lead, <a href="https://archivi.ng/">Archivi.ng</a>
+<br><br>
+***We're On The Brink Of An Irreparable Loss: Digitizing Nigeria’s Historical Newspapers*** 
+
+
+<div style="clear:left"></div>
+<hr>
+<img align="left" style="margin-right:25px; margin-bottom:25px; border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/Augustin.jpg" alt="Photo of Augustin Ndione" width="150">**Augustin Ndione**  
+Director, Centre de Linguistique Appliquée de Dakar (CLAD), Université Cheikh Anta Diop de Dakar (UCAD), Senegal
+<br><br>
+***Digitizing a didactic method for applications in local language teaching*** 
+
+
+<div style="clear:left"></div>
+<hr>
+<img align="left" style="margin-right:25px; margin-bottom:25px; border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/ngue.jpg" alt="Photo of Emmanuel Ngue Um" width="150">**Emmanuel Ngue Um**  
+Associate Professor of Linguistics and Digital Humanities, Higher Teacher Training College, University of Yaoundé 1, Cameroon
+<br><br>
+***Language as Software : A Digital Humanities Perspective to Revealing the  Rhizome of African Language Spaces.*** 
+
+<div style="clear:left"></div>
+<hr>
+<img align="left" style="margin-right:25px; margin-bottom:25px; border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/Judith.jpg" alt="Photo of Judity" width="150">**Judith Opoku-Boateng**  
+Director, J.H. Kwabena Nketia Audio-Visual Archives, Institute of African Studies, University of Ghana
+<br><br>
+***Preserving Audio and Video of Ghanian traditional drumming and dance*** 
+
+
+<div style="clear:left"></div>
+<hr>
+<img align="left" style="margin-right:25px; margin-bottom:25px; border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/menno.jpg" alt="Photo of Menno van Zaanen" width="150">**Menno van Zaanen**  
+Professor of Digital Humanities, South African Centre for Digital Language Resources ([SADiLaR](https://sadilar.org/)), South Africa 
+
+
+
+
+<div style="clear:left"></div>
 <hr>
 <img align="left" style="margin-right:25px; margin-bottom:25px; border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/Placeholder_group2.jpg" alt="Photo of Ashleigh" width="150">**And more to be added soon....**  
 
@@ -131,9 +124,25 @@ Director ALMEDA: African Literary Metadata Projet
 <div style="text-align:left; border:5px solid black; border-radius: 10px; padding-left:5px; padding-right:5px; padding-top:5px;background-color:powderblue;" markdown="1">
 
 
-## Schedule & Logistics
+## Workshops
 
-Coming soon!
+
+**Wikidata Solutions for Informal Literary Archives**  
+*Presented by Ursula Obserst and Ashleigh Harris*  
+This workshop will focus on data modeling in Wikidata of different kinds of African literary materials. We will discuss a range of different examples from unrecorded oral forms to self-published works online or in print, from street theatre to web 2.0 literature. The workshop will also consider the challenges of multilingual modeling.
+
+<hr>
+
+**Introduction to Digital Mapping**  
+*Presented by Randa El Khatib*  
+In this workshop, participants will learn key geospatial concepts and terminology, as well as practice the basic steps involved in building a geospatial project, including how to extract geodata from a text, how to organize and enrich spatial data, and how to visualize that data on a variety of user-friendly, open-access mapping platforms. We will also explore what types of research questions can be asked and answered using mapping technologies. This session is intended for beginners.
+
+<hr>
+
+**Skills for Culture -- African Digital Heritage**  
+*Presented by Malkia Okech*
+
+
 
 
 </div>
