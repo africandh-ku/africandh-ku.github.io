@@ -170,7 +170,7 @@ In this workshop, participants will learn key geospatial concepts and terminolog
 </a>
 
 <a href="https://sadilar.org/">
-<img align="left" style="padding-right:25px" src="{{ site.baseurl }}/assets/img/SADiLAR.png" alt="South African Centre for Digital Language Resources" width="300">
+<img align="left" style="padding-right:25px" src="{{ site.baseurl }}/assets/img/SADiLaR.png" alt="South African Centre for Digital Language Resources" width="300">
 </a>
 
 
