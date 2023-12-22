@@ -19,7 +19,6 @@ The University of Ghana--Legon**
 
 
 ## About
-The 4th Annual African Digital Humanities Symposium
 Building upon the success of the previous three symposiums held online, this year's event marks an exciting transition to a hybrid format, combining both in-person and virtual participation. The symposium will take place at the scenic University of Ghana campus in Accra, inviting attendees to engage in enriching discussions, panels, and workshops, on the 15th and 16th of February 2024. The symposium particularly welcomes graduate students and early-career faculty interested in digital humanities, and will provide stipends for graduate students in the region to attend.
 
 The 2024 symposium seeks to stimulate a dialogue that addresses the intersections of the digital humanities and African stories and agency. We will explore digital storytelling and its connections to African narratives, the extractive politics of platform, AI and African agency, as well as diverse approaches and issues related to building an inclusive digital cultural record for local and global communities. 
