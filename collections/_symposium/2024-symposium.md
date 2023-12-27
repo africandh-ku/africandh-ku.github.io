@@ -27,6 +27,7 @@ Attuned to postcolonial and African theoretical perspectives concerning digital 
 
 **Hybrid Format.** By transitioning to a hybrid format, the symposium enriches the participatory experience. Scholars in the region and other in-person attendees will have the opportunity to engage in face-to-face conversations and workshops, while networking with fellow scholars against the backdrop of the University of Ghana’s vibrant campus in Accra. For those unable to attend in person, the symposium will continue to offer virtual participation, ensuring that global audiences can partake in the dialogue.
 
+<p style="text-align:center"><a href="#top">&#x21a9;&#xfe0e; Return to top</a></p> 
 
 ## Speakers & Panelists
 
@@ -40,7 +41,7 @@ Librarian for Africana and International Studies, University of Kansas
 <hr>
 
 <img align="left" style="margin-right:25px; margin-bottom:25px; border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/ElKhatib.jpg" alt="Photo of Randa El Khatib" width="150">**Randa El Khatib**  
-Postdoctoral Fellow in Open Social Scholarship, INKE & Co-director of the Digital Humanities Summer Institute (DHSI)
+Postdoctoral Fellow in Open Social Scholarship, INKE & Co-director of the Digital Humanities Summer Institute
 <br><br>
 ***Building Bridges: The Journey of Digital Humanities Institute Beirut***
 
@@ -119,6 +120,7 @@ Professor of Digital Humanities, South African Centre for Digital Language Resou
 
 <div style="clear:left"></div>
 
+<p style="text-align:center"><a href="#top">&#x21a9;&#xfe0e; Return to top</a></p> 
 
 <div style="text-align:left; border:5px solid black; border-radius: 10px; padding-left:5px; padding-right:5px; padding-top:5px;background-color:powderblue;" markdown="1">
 
@@ -127,27 +129,35 @@ Professor of Digital Humanities, South African Centre for Digital Language Resou
 
 
 **Wikidata Solutions for Informal Literary Archives**  
-*Presented by Ursula Obserst and Ashleigh Harris*  
-This workshop will focus on data modeling in Wikidata of different kinds of African literary materials. We will discuss a range of different examples from unrecorded oral forms to self-published works online or in print, from street theatre to web 2.0 literature. The workshop will also consider the challenges of multilingual modeling.
+This workshop will focus on data modeling in Wikidata of different kinds of African literary materials. We will discuss a range of different examples from unrecorded oral forms to self-published works online or in print, from street theatre to web 2.0 literature. The workshop will also consider the challenges of multilingual modeling.<br/>
+<br/>*Ursula Obserst and Ashleigh Harris, ALMEDA: African Literary Metadata Project*  
+<img align="left" style="margin-right:25px; margin-bottom:25px; border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/oberst.jpg" alt="Photo of Ursula" width="150"><img align="left" style="margin-right:25px; margin-bottom:25px; border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/harris.jpg" alt="Photo of Ashleigh" width="150">
+
+<div style="clear:left"></div>
 
 <hr>
 
-**Introduction to Digital Mapping**  
-*Presented by Randa El Khatib*  
-In this workshop, participants will learn key geospatial concepts and terminology, as well as practice the basic steps involved in building a geospatial project, including how to extract geodata from a text, how to organize and enrich spatial data, and how to visualize that data on a variety of user-friendly, open-access mapping platforms. We will also explore what types of research questions can be asked and answered using mapping technologies. This session is intended for beginners.
+**Skills For Culture: A Methodology for Community-Oriented Digital Cultural Heritage Projects.**  
+<br/>*Malkia Okech, Digital Advisor for African Digital Heritage*   
+<img align="left" style="margin-right:25px; margin-bottom:25px; border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/malkia-okech.jpg" alt="Photo of Malka" width="150">
+
+<div style="clear:left"></div>
 
 <hr>
 
-**Skills for Culture -- African Digital Heritage**  
-*Presented by Malkia Okech*
+**Introduction to Digital Mapping**   
+In this workshop, participants will learn key geospatial concepts and terminology, as well as practice the basic steps involved in building a geospatial project, including how to extract geodata from a text, how to organize and enrich spatial data, and how to visualize that data on a variety of user-friendly, open-access mapping platforms. We will also explore what types of research questions can be asked and answered using mapping technologies. This session is intended for beginners.<br/>
+<br/>*Randa El Khatib, Postdoctoral Fellow in Open Social Scholarship, INKE & Co-director of the Digital Humanities Summer Institute*  
+<img align="left" style="margin-right:25px; margin-bottom:25px; border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/ElKhatib.jpg" alt="Photo of Randa El Khatib" width="150">
 
+<div style="clear:left"></div>
 
 
 
 </div>
 <br />
 
-
+<p style="text-align:center"><a href="#top">&#x21a9;&#xfe0e; Return to top</a></p> 
 ----
 
 ## Sponsors
@@ -161,13 +171,17 @@ In this workshop, participants will learn key geospatial concepts and terminolog
 <a href="https://kasc.ku.edu">
 <img align="left" style="padding-right:25px" src="{{ site.baseurl }}/assets/img/AAAS-KASC-thin-logo.jpg" alt="Kansas African Studies Center" width="300"></a>
 
-<a href="https://lib.ku.edu">
-<img align="left" style="padding-right:25px" src="{{ site.baseurl }}/assets/img/kulibraries-logo.webp" alt="University of Kansas Libraries" width="300"></a>
-<br /><br /><br /><br />
+<a href="https://i2s-research.ku.edu/center-cyber-social-dynamics-ccsd">
+<img align="left" style="padding-right:25px" src="{{ site.baseurl }}/assets/img/CCSD.png" alt="Center for Cyber-Social Dynamics" width="300"></a>
+
+
+<div style="clear:left"></div>
 <a href="https://idrh.ku.edu">
 <img align="left" style="padding-right:25px" src="{{ site.baseurl }}/assets/img/idrh-logo.jpg" alt="Institute for Digital Research in the Humanities" width="300">
 </a>
 
+<a href="https://lib.ku.edu">
+<img align="left" style="padding-right:25px" src="{{ site.baseurl }}/assets/img/kulibraries-logo.webp" alt="University of Kansas Libraries" width="300"></a>
 <a href="https://sadilar.org/">
 <img align="left" style="padding-right:25px" src="{{ site.baseurl }}/assets/img/SADiLaR.png" alt="South African Centre for Digital Language Resources" width="300">
 </a>
