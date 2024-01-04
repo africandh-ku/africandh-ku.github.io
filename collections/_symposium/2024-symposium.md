@@ -168,6 +168,7 @@ In this workshop, participants will learn key geospatial concepts and terminolog
 <a href="https://erc.europa.eu/">
 <img align="left" style="padding-right:25px" src="{{ site.baseurl }}/assets/img/ERC1.png" alt="European Research Council" width="300"></a>
 
+
 <a href="https://kasc.ku.edu">
 <img align="left" style="padding-right:25px" src="{{ site.baseurl }}/assets/img/AAAS-KASC-thin-logo.jpg" alt="Kansas African Studies Center" width="300"></a>
 
@@ -183,10 +184,14 @@ In this workshop, participants will learn key geospatial concepts and terminolog
 <a href="https://lib.ku.edu">
 <img align="left" style="padding-right:25px" src="{{ site.baseurl }}/assets/img/kulibraries-logo.webp" alt="University of Kansas Libraries" width="300"></a>
 <a href="https://sadilar.org/">
+
 <img align="left" style="padding-right:25px" src="{{ site.baseurl }}/assets/img/SADiLaR.png" alt="South African Centre for Digital Language Resources" width="300">
+
+
+<div style="clear:left"></div>
+<a href="https://https://hbw.ku.edu//">
+<img align="left" style="padding-right:25px" src="{{ site.baseurl }}/assets/img/symposium4/ProjectHBW-2.jpg" alt="Project on the History of Black Writing" width="300">
 </a>
-
-
 
 <div style="clear:left"></div>
 
