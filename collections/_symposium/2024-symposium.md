@@ -172,39 +172,39 @@ In this workshop, participants will learn key geospatial concepts and terminolog
 
 ## Sponsors
 
-<div style="clear:left"></div>
 
 
-<a href="https://erc.europa.eu/">
-<img align="left" style="padding-right:25px" src="{{ site.baseurl }}/assets/img/ERC1.png" alt="European Research Council" width="300"></a>
+<div class="container">
+
+<div><a href="https://almedaresearch.org/"><img align="left" style="padding-right:25px" src="{{ site.baseurl }}/assets/img/symposium4/ERC1.png" alt="European Research Council"></a></div>
+
+<div><a href="https://kasc.ku.edu"><img align="left" style="padding-right:25px" src="{{ site.baseurl }}/assets/img/AAAS-KASC-thin-logo.jpg" alt="Kansas African Studies Center"></a></div>
+
+<div><a href="https://lib.ku.edu"><img align="left" style="padding-right:25px" src="{{ site.baseurl }}/assets/img/kulibraries-logo.webp" alt="University of Kansas Libraries"></a></div>
 
 
-<a href="https://kasc.ku.edu">
-<img align="left" style="padding-right:25px" src="{{ site.baseurl }}/assets/img/AAAS-KASC-thin-logo.jpg" alt="Kansas African Studies Center" width="300"></a>
+<div><a href="https://almedaresearch.org/"><img align="left" style="padding-right:25px" src="{{ site.baseurl }}/assets/img/symposium4/ALMEDA.png" alt="African Literary Metadata"></a></div>
 
-<a href="https://i2s-research.ku.edu/center-cyber-social-dynamics-ccsd">
-<img align="left" style="padding-right:25px" src="{{ site.baseurl }}/assets/img/CCSD.png" alt="Center for Cyber-Social Dynamics" width="300"></a>
+<div><a href="https://idrh.ku.edu"><img align="left" style="padding-right:25px" src="{{ site.baseurl }}/assets/img/idrh-logo.jpg" alt="Institute for Digital Research in the Humanities"></a></div>
 
-
-<div style="clear:left"></div>
-<a href="https://idrh.ku.edu">
-<img align="left" style="padding-right:25px" src="{{ site.baseurl }}/assets/img/idrh-logo.jpg" alt="Institute for Digital Research in the Humanities" width="300">
-</a>
-
-<a href="https://lib.ku.edu">
-<img align="left" style="padding-right:25px" src="{{ site.baseurl }}/assets/img/kulibraries-logo.webp" alt="University of Kansas Libraries" width="300"></a>
-<a href="https://sadilar.org/">
-
-<img align="left" style="padding-right:25px" src="{{ site.baseurl }}/assets/img/SADiLaR.png" alt="South African Centre for Digital Language Resources" width="300">
+<div><a href="https://https://hbw.ku.edu//"><img align="left" style="padding-right:25px" src="{{ site.baseurl }}/assets/img/symposium4/ProjectHBW-2.jpg" alt="Project on the History of Black Writing"></a></div>
 
 
-<div style="clear:left"></div>
-<a href="https://https://hbw.ku.edu//">
-<img align="left" style="padding-right:25px" src="{{ site.baseurl }}/assets/img/symposium4/ProjectHBW-2.jpg" alt="Project on the History of Black Writing" width="300">
-</a>
+<div><a href="https://sadilar.org/"><img align="left" style="padding-right:25px" src="{{ site.baseurl }}/assets/img/SADiLaR.png" alt="South African Centre for Digital Language Resources"></a></div>
+
+
+<div><a href="https://i2s-research.ku.edu/center-cyber-social-dynamics-ccsd">
+<img align="left" style="padding-right:25px" src="/assets/img/CCSD.png" alt="Center for Cyber-Social Dynamics"></a></div>
+
+</div>
+
 
 <div style="clear:left"></div>
 
 <hr>
 
 <p style="text-align:center"><a href="#top">&#x21a9;&#xfe0e; Return to top</a></p> 
+
+
+
+
