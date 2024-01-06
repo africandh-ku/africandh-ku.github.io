@@ -34,7 +34,7 @@ Attuned to postcolonial and African theoretical perspectives concerning digital 
 <img align="left" style="margin-right:25px; margin-bottom:25px; border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/Kodjo-Atiso.png" alt="Photo of Kodjo" width="150">**Kodjo Atiso**  
 Librarian for Africana and International Studies, University of Kansas
 <br><br>
-***Towards the preservation of flora and fauna: the digitization of pre-independence herbarium in Ghana***
+***Towards the preservation of flora and fauna: digitization of pre-independence herbarium in Ghana***
 
 
 <div style="clear:left"></div>
@@ -58,6 +58,16 @@ Assistant Director, Research and Documentation Division, National Centre for Art
 
 <div style="clear:left"></div>
 <hr>
+
+
+<img align="left" style="margin-right:25px; margin-bottom:25px; border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/Gil.jpg" alt="Photo of Alex" width="150">**Alex Gil**  
+Senior Lecturer II & Associate Research Faculty of Digital Humanities, Department of Spanish & Portuguese, Yale University
+<br><br>
+
+
+<div style="clear:left"></div>
+<hr>
+
 
 <img align="left" style="margin-right:25px; margin-bottom:25px; border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/harris.jpg" alt="Photo of Ashleigh" width="150">**Ashleigh Harris**  
 Professor of English, Uppsala University, Sweden  
