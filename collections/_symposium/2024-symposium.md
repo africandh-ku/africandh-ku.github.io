@@ -108,8 +108,20 @@ Associate Professor of Linguistics and Digital Humanities, Higher Teacher Traini
 ***Language as Software : A Digital Humanities Perspective to Revealing the  Rhizome of African Language Spaces.*** 
 
 <div style="clear:left"></div>
+
+
 <hr>
-<img align="left" style="margin-right:25px; margin-bottom:25px; border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/Judith.jpg" alt="Photo of Judity" width="150">**Judith Opoku-Boateng**  
+<img align="left" style="margin-right:25px; margin-bottom:25px; border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/tunde.jpg" alt="Photo of Tunde" width="150">**Tunde Ope-Davies**  
+Chair & Principal Investigator, Center for Digital Humanities, University of Lagos (CEDHUL)
+<br><br>
+***Digital Humanities as Platform for Redefining and Retooling the Human Sciences: A Case Study*** 
+
+<div style="clear:left"></div>
+
+
+
+<hr>
+<img align="left" style="margin-right:25px; margin-bottom:25px; border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/Judith.jpg" alt="Photo of Judith" width="150">**Judith Opoku-Boateng**  
 Director, J.H. Kwabena Nketia Audio-Visual Archives, Institute of African Studies, University of Ghana
 <br><br>
 ***Preserving Audio and Video of Ghanian traditional drumming and dance*** 
@@ -124,11 +136,7 @@ Professor of Digital Humanities, South African Centre for Digital Language Resou
 
 
 <div style="clear:left"></div>
-<hr>
-<img align="left" style="margin-right:25px; margin-bottom:25px; border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/Placeholder_group2.jpg" alt="Photo of Ashleigh" width="150">**And more to be added soon....**  
 
-
-<div style="clear:left"></div>
 
 <p style="text-align:center"><a href="#top">&#x21a9;&#xfe0e; Return to top</a></p> 
 
