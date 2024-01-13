@@ -119,6 +119,14 @@ Chair & Principal Investigator, Center for Digital Humanities, University of Lag
 <div style="clear:left"></div>
 
 
+<hr>
+<img align="left" style="margin-right:25px; margin-bottom:25px; border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/Kwabena-OA.jpg" alt="Photo of Kwabena" width="150">**Kwabena Opoku-Agyemang**  
+Senior Lecturer, Department of English, University of Ghana
+<br><br>
+
+
+<div style="clear:left"></div>
+
 
 <hr>
 <img align="left" style="margin-right:25px; margin-bottom:25px; border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/Judith.jpg" alt="Photo of Judith" width="150">**Judith Opoku-Boateng**  
@@ -128,6 +136,30 @@ Director, J.H. Kwabena Nketia Audio-Visual Archives, Institute of African Studie
 
 
 <div style="clear:left"></div>
+
+
+<hr>
+<img align="left" style="margin-right:25px; margin-bottom:25px; border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/shay.jpg" alt="Photo of Shay" width="150">**Oluwaseun Damilola Sanwoolu**  
+PhD Student, Philsophy and Ethics of AI, University of Kansas & Managing Editor, *Global Philosophy*
+<br><br>
+
+
+
+<div style="clear:left"></div>
+
+
+
+<hr>
+<img align="left" style="margin-right:25px; margin-bottom:25px; border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/Kola.jpg" alt="Photo of Kola" width="150">**Kọ́lá Túbọ̀sún**  
+Founder, [Yoruba Name Project](https://www.yorubaname.com/)
+<br><br>
+
+
+
+<div style="clear:left"></div>
+
+
+
 <hr>
 <img align="left" style="margin-right:25px; margin-bottom:25px; border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/menno.jpg" alt="Photo of Menno van Zaanen" width="150">**Menno van Zaanen**  
 Professor of Digital Humanities, South African Centre for Digital Language Resources ([SADiLaR](https://sadilar.org/)), South Africa 
@@ -184,25 +216,37 @@ In this workshop, participants will learn key geospatial concepts and terminolog
 
 <div class="container">
 
-<div><a href="https://almedaresearch.org/"><img align="left" style="padding-right:25px" src="{{ site.baseurl }}/assets/img/symposium4/ERC1.png" alt="European Research Council"></a></div>
-
-<div><a href="https://kasc.ku.edu"><img align="left" style="padding-right:25px" src="{{ site.baseurl }}/assets/img/AAAS-KASC-thin-logo.jpg" alt="Kansas African Studies Center"></a></div>
-
-<div><a href="https://lib.ku.edu"><img align="left" style="padding-right:25px" src="{{ site.baseurl }}/assets/img/kulibraries-logo.webp" alt="University of Kansas Libraries"></a></div>
 
 
-<div><a href="https://almedaresearch.org/"><img align="left" style="padding-right:25px" src="{{ site.baseurl }}/assets/img/symposium4/ALMEDA.png" alt="African Literary Metadata"></a></div>
+<div><a href="https://idrh.ku.edu"><img style="padding-right:25px" src="{{ site.baseurl }}/assets/img/idrh-logo.jpg" alt="Institute for Digital Research in the Humanities"></a></div>
 
-<div><a href="https://idrh.ku.edu"><img align="left" style="padding-right:25px" src="{{ site.baseurl }}/assets/img/idrh-logo.jpg" alt="Institute for Digital Research in the Humanities"></a></div>
-
-<div><a href="https://https://hbw.ku.edu//"><img align="left" style="padding-right:25px" src="{{ site.baseurl }}/assets/img/symposium4/ProjectHBW-2.jpg" alt="Project on the History of Black Writing"></a></div>
+<div><a href="https://https://hbw.ku.edu//"><img style="padding-right:25px" src="{{ site.baseurl }}/assets/img/symposium4/UG+School.png" alt="University of Ghana School of Information & Communication Studies" width="80%"></a></div>
 
 
-<div><a href="https://sadilar.org/"><img align="left" style="padding-right:25px" src="{{ site.baseurl }}/assets/img/SADiLaR.png" alt="South African Centre for Digital Language Resources"></a></div>
+
+<div><a href="https://lib.ku.edu"><img style="padding-right:25px" src="{{ site.baseurl }}/assets/img/kulibraries-logo.webp" alt="University of Kansas Libraries"></a></div>
+
+
+
+<div><a href="https://sadilar.org/"><img style="padding-right:25px" src="{{ site.baseurl }}/assets/img/SADiLaR.png" alt="South African Centre for Digital Language Resources"></a></div>
+
+
+<div><a href="https://kasc.ku.edu"><img style="padding-right:25px" src="{{ site.baseurl }}/assets/img/AAAS-KASC-thin-logo.jpg" alt="Kansas African Studies Center"></a></div>
+
+<div><a href="https://almedaresearch.org/"><img style="padding-right:25px" src="{{ site.baseurl }}/assets/img/symposium4/Almeda2.png" alt="African Literary Metadata" width="65%" ></a></div>
+
+
+
+<div><a href="https://https://hbw.ku.edu//"><img style="padding-right:25px" src="{{ site.baseurl }}/assets/img/symposium4/ProjectHBW-2.jpg" alt="Project on the History of Black Writing"></a></div>
 
 
 <div><a href="https://i2s-research.ku.edu/center-cyber-social-dynamics-ccsd">
-<img align="left" style="padding-right:25px" src="/assets/img/CCSD.png" alt="Center for Cyber-Social Dynamics"></a></div>
+<img style="padding-right:25px" src="/assets/img/CCSD.png" alt="Center for Cyber-Social Dynamics" width="80%"></a></div>
+
+<div><a href="https://almedaresearch.org/"><img style="padding-right:25px" src="{{ site.baseurl }}/assets/img/symposium4/ERC1.png" alt="European Research Council"></a></div>
+
+
+
 
 </div>
 
