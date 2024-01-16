@@ -164,6 +164,7 @@ PhD Student, Philsophy and Ethics of AI, University of Kansas & Managing Editor,
 <img align="left" style="margin-right:25px; margin-bottom:25px; border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/Kola.jpg" alt="Photo of Kola" width="150">**Kọ́lá Túbọ̀sún**  
 Founder, [Yoruba Name Project](https://www.yorubaname.com/)
 <br><br>
+***Digitization in Lexicography: AI and the Future of African Languages and Oratures***
 
 
 
