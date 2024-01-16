@@ -5,6 +5,11 @@ permalink: symposium/2024
 date: 2024-02-15
 label: symposium
 description: Building upon the success of the previous three symposiums held online, this year's event marks an exciting transition to a hybrid format, combining both in-person and virtual participation. The symposium will take place at the scenic University of Ghana campus in Accra, inviting attendees to engage in enriching discussions, panels, and workshops, on the 15th and 16th of February 2024. The symposium particularly welcomes graduate students and early-career faculty interested in digital humanities, and will provide stipends for graduate students in the region to attend.
+sidebar:
+  - text: "**[About](./2024#about)**"
+  - text: "**[Speakers & Panelists](./2024#speakers--panelists)**"
+  - text: "**[Workshops](./2024#workshops)**"
+  - text: "**[Sponsors](./2024#sponsors)**"
 ---
 
 **February 15-16, 2024  
@@ -13,16 +18,11 @@ The University of Ghana--Legon**
 _and online on Zoom_
 
 
-<img align="center" style="" src="{{ site.baseurl }}/assets/img/ughana-campus.png" alt="University of Ghana campus" width="70%">
-
-
-
-
 **_Zoom registration details will be available soon_** 
 {: .btn .btn--primary .btn--x-large}
 
 
-
+<img align="center" style="" src="{{ site.baseurl }}/assets/img/ughana-campus.png" alt="University of Ghana campus" width="70%">
 
 
 * Contents
