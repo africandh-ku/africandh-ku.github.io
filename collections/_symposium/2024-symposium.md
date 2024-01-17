@@ -134,7 +134,7 @@ Chair & Principal Investigator, Center for Digital Humanities, University of Lag
 <img align="left" style="margin-right:25px; margin-bottom:25px; border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/Kwabena-OA.jpg" alt="Photo of Kwabena" width="150">**Kwabena Opoku-Agyemang**  
 Senior Lecturer, Department of English, University of Ghana
 <br><br>
-
+***Gibberish and Structure: ChatGPT and the Curious Case of African Literary Criticism***
 
 <div style="clear:left"></div>
 
