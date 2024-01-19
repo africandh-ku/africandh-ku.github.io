@@ -74,7 +74,7 @@ Assistant Director, Research and Documentation Division, National Centre for Art
 <img align="left" style="margin-right:25px; margin-bottom:25px; border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/Gil.jpg" alt="Photo of Alex" width="150">**Alex Gil**  
 Senior Lecturer II & Associate Research Faculty of Digital Humanities, Department of Spanish & Portuguese, Yale University
 <br><br>
-
+***Multilingual Digital Humanities***
 
 <div style="clear:left"></div>
 <hr>
@@ -150,10 +150,10 @@ Director, J.H. Kwabena Nketia Audio-Visual Archives, Institute of African Studie
 
 
 <hr>
-<img align="left" style="margin-right:25px; margin-bottom:25px; border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/shay.jpg" alt="Photo of Shay" width="150">**Oluwaseun Damilola Sanwoolu**  
-PhD Student, Philsophy and Ethics of AI, University of Kansas & Managing Editor, *Global Philosophy*
+<img align="left" style="margin-right:25px; margin-bottom:25px; border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/shay2.jpg" alt="Photo of Shay" width="150">**Oluwaseun Sanwoolu**  
+PhD Student, Department of Philosophy, University of Kansas
 <br><br>
-
+***Close personal relationships with AI***
 
 
 <div style="clear:left"></div>
