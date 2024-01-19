@@ -13,12 +13,13 @@ sidebar:
 ---
 
 **February 15-16, 2024  
+8:30AM - 5:00PM GMT  
 Balme Library  
 The University of Ghana--Legon**  
 _and online on Zoom_
 
 
-**_Zoom registration details will be available soon_** 
+**_Zoom registration details and detailed schedule will be available soon_** 
 {: .btn .btn--primary .btn--x-large}
 
 
