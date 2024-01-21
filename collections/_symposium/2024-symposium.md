@@ -19,7 +19,7 @@ The University of Ghana--Legon**
 _and online on Zoom_
 
 
-**_Zoom registration details and detailed schedule will be available soon_** 
+**_Zoom details available soon_** 
 {: .btn .btn--primary .btn--x-large}
 
 
