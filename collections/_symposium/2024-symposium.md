@@ -169,23 +169,25 @@ Founder, [Yoruba Name Project](https://www.yorubaname.com/)
 </div>
 
 
+<div style="clear:left"></div>
+<div style="text-align:left; border:5px solid black; border-radius: 10px; padding-left:5px; padding-right:5px; padding-top:5px;background-color:powderblue;" markdown="1">
+<img align="left" style="margin-right:25px; margin-bottom:10px;border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/ElKhatib.jpg" alt="Photo of Randa El Khatib" width="150">
+3:00PM - 4:00PM  
+**Introduction to Digital Mapping**  
+*Randa El Khatib, Implementing New Knowledge Environments (INKE)*  
+</div>
+
+
+
 
 <div style="clear:left"></div>
 <div style="text-align:left; border:5px solid black; border-radius: 10px; padding-left:5px; padding-right:5px; padding-top:5px;background-color:powderblue;" markdown="1">
 <img align="left" style="margin-right:25px; margin-bottom:10px;border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/Gil.jpg" alt="Photo of Alex" width="150">
-3:00PM - 4:00PM  
+4:00PM - 5:00PM  
 **Minimal Computing for Digital Collections**  
 *Alex Gil, Yale University*
 </div>
 
-
-<div style="clear:left"></div>
-<div style="text-align:left; border:5px solid black; border-radius: 10px; padding-left:5px; padding-right:5px; padding-top:5px;background-color:powderblue;" markdown="1">
-<img align="left" style="margin-right:25px; margin-bottom:10px;border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/ElKhatib.jpg" alt="Photo of Randa El Khatib" width="150">
-4:00PM - 5:00PM  
-**Introduction to Digital Mapping**  
-*Randa El Khatib, Implementing New Knowledge Environments (INKE)*  
-</div>
 
 
 
