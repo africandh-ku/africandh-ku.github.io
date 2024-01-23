@@ -21,7 +21,7 @@ The University of Ghana--Legon**
 _and online on Zoom_
 
 
-**_Zoom details will be posted prior to the event.** 
+**Zoom details will be posted prior to the event.** 
 {: .btn .btn--primary .btn--x-large}
 
 
