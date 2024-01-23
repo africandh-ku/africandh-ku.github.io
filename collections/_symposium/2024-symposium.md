@@ -10,6 +10,8 @@ sidebar:
   - text: "**[Thursday, February 15](./2024#thursday-february-15)**"
   - text: "**[Friday, February 16](./2024#friday-february-16)**"
   - text: "**[Sponsors & Organizers](./2024#sponsors--organizers)**"
+  - text: "<br/>***Note: All times are GMT***"
+
 ---
 
 **February 15-16, 2024  
@@ -43,6 +45,7 @@ Attuned to postcolonial and African theoretical perspectives concerning digital 
 
 
 ## *Thursday, February 15*
+
 
 **8:00AM \| Sign-in**
 <hr>
