@@ -325,7 +325,7 @@ Closing discussion about opportunities and next steps for advancing DH in Ghana.
 **Organizers**
 
 **Akosua Darkwah**, University of Ghana  
-**Patience E. Ocloo Dzandza**, University of Ghana  
+**Patience E. Dzandza Ocloo**, University of Ghana  
 **Kwabena Opoku-Agyemang**, University of Ghana  
 **Brian Rosenblum**, University of Kansas  
 **James Yeku**, University of Kansas  
