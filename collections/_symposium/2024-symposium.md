@@ -45,17 +45,67 @@ Attuned to postcolonial and African theoretical perspectives concerning digital 
 
 
 ## *Thursday, February 15*
+ 
+ <div style="text-align:left; border:5px solid black; border-radius: 10px; padding-left:5px; padding-right:5px; padding-top:5px;background-color:#FFD580;" markdown="1">
+**Thursday Overview**  
+Morning, 8:30AM - 11:30AM: *Workshops (in-person only)*  
+Afternoon 12:30PM - 5:00PM: *Panels and Presentations (in-person and on Zoom)*
+</div>
+
+<div style="clear:left"></div>
 
 
 **8:00AM \| Sign-in**
 <hr>
 
-**8:30AM \| Welcome**  
+**8:30AM - 9:30AM \| Workshops**  
+*Note: Workshops are for in-person attendees and will not be streamed* 
+
+<div style="clear:left"></div>
+<div style="text-align:left; border:5px solid black; border-radius: 10px; padding-left:5px; padding-right:5px; padding-top:5px;background-color:powderblue;" markdown="1">
+<img align="left" style="margin-right:25px; margin-bottom:10px;border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/ElKhatib.jpg" alt="Photo of Randa El Khatib" width="150">
+**Introduction to Digital Mapping**  
+*Randa El Khatib, Implementing New Knowledge Environments (INKE)*  
+In this workshop, participants will learn key geospatial concepts and terminology, as well as practice the basic steps involved in building a geospatial project, including how to extract geodata from a text, how to organize and enrich spatial data, and how to visualize that data on a variety of user-friendly, open-access mapping platforms. We will also explore what types of research questions can be asked and answered using mapping technologies. This session is intended for beginners.
+</div>
+<br />
+<div style="clear:left"></div>
+<div style="text-align:left; border:5px solid black; border-radius: 10px; padding-left:5px; padding-right:5px; padding-top:5px;background-color:powderblue;" markdown="1">
+<img align="left" style="margin-right:25px; margin-bottom:10px;border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/Gil.jpg" alt="Photo of Alex" width="150">
+**Minimal Computing for Digital Collections**  
+*Alex Gil, Yale University*
+</div>
+
+
+<div style="clear:left"></div>
+<hr>
+
+**9:30AM - 9:45AM \| Break**
+
+<hr>
+
+**9:45AM - 11:30AM \| Workshop**  
+*Note: Workshops are for in-person attendees and will not be streamed*  
+<div style="text-align:left; border:5px solid black; border-radius: 10px; padding-left:5px; padding-right:5px; padding-top:5px;background-color:powderblue;" markdown="1">
+<img align="left" style="margin-right:25px; margin-bottom:10px;border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/malkia-okech.jpg" alt="Photo of Malka" width="150">
+**Skills For Culture: A Methodology for Community-Oriented Digital Cultural Heritage Projects**  
+*Malkia Okech, Digital Advisor for African Digital Heritage*
+</div>
+
+
+<div style="clear:left"></div>
+<hr>
+
+**11:30AM - 12:30PM \| Lunch**
+
+<hr>
+
+**12:30PM \| Welcome**  
 * Welcome remarks by **Akosua Darkwah** & **Kwabena Opoku-Agyemang** (University of Ghana), and **Glenn Adams** & **Brian Rosenblum** (University of Kansas)
 
 <hr>
 
-**8:45AM - 9:45AM \| Panel 1: Digital Collections**
+**12:45PM - 1:45PM \| Panel 1: Digital Collections**
 
 
 <img align="left" style="margin-right:25px; margin-bottom:10px;border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/FuadLawal.jpg" alt="Photo of Fuad Lawal" width="150">**Fu'ad Lawal**  
@@ -78,7 +128,7 @@ Director, J.H. Kwabena Nketia Audio-Visual Archives, Institute of African Studie
 <div style="clear:left"></div>
 <hr>
 
-**9:45AM - 10:30AM \| Featured Speaker 1**
+**1:45PM - 2:30PM \| Featured Speaker 1**
 
 
 <img align="left" style="margin-right:25px; margin-bottom:10px;border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/menno.jpg" alt="Photo of Menno van Zaanen" width="150">**Menno van Zaanen**  
@@ -90,11 +140,11 @@ practice, the case of Escalator***
 
 <hr>
 
-**10:30AM - 10:45AM \| Break**
+**2:30PM - 2:45PM \| Break**
 
 <hr>
 
-**10:45AM - 11:45AM \| Panel 2: Languages**
+**2:45PM - 3:45PM \| Panel 2: Languages**
 
 <img align="left" style="margin-right:25px; margin-bottom:10px;border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/Augustin.jpg" alt="Photo of Augustin Ndione" width="150">**Augustin Ndione**  
 Director, Centre de Linguistique Appliquée de Dakar (CLAD), Université Cheikh Anta Diop de Dakar (UCAD), Senegal  
@@ -112,13 +162,10 @@ Senior Lecturer II & Associate Research Faculty of Digital Humanities, Departmen
 ***Multilingual Digital Humanities***
 
 <div style="clear:left"></div>
-<hr>
-
-**11:45AM - 12:45PM \| Lunch**
 
 <hr>
 
-**12 :45PM - 1:45PM \| Panel 3: Digital Culture**
+**3 :45PM - 4:45PM \| Panel 3: Digital Culture**
 
 
 <img align="left" style="margin-right:25px; margin-bottom:10px;border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/harris.jpg" alt="Photo of Ashleigh" width="150">**Ashleigh Harris**  
@@ -137,45 +184,10 @@ Librarian for Africana and International Studies, University of Kansas
 ***Towards the preservation of flora and fauna: digitization of pre-independence herbarium in Ghana***
 
 <div style="clear:left"></div>
-<hr>
-
-**1:45PM - 2:00PM \| Break**
 
 <hr>
 
-**2:00PM - 3:00PM \| Workshops**  
-*Note: Workshops are for in-person attendees and will not be streamed* 
-
-<div style="clear:left"></div>
-<div style="text-align:left; border:5px solid black; border-radius: 10px; padding-left:5px; padding-right:5px; padding-top:5px;background-color:powderblue;" markdown="1">
-<img align="left" style="margin-right:25px; margin-bottom:10px;border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/ElKhatib.jpg" alt="Photo of Randa El Khatib" width="150">
-**Introduction to Digital Mapping**  
-*Randa El Khatib, Implementing New Knowledge Environments (INKE)*  
-In this workshop, participants will learn key geospatial concepts and terminology, as well as practice the basic steps involved in building a geospatial project, including how to extract geodata from a text, how to organize and enrich spatial data, and how to visualize that data on a variety of user-friendly, open-access mapping platforms. We will also explore what types of research questions can be asked and answered using mapping technologies. This session is intended for beginners.
-</div>
-<br />
-<div style="clear:left"></div>
-<div style="text-align:left; border:5px solid black; border-radius: 10px; padding-left:5px; padding-right:5px; padding-top:5px;background-color:powderblue;" markdown="1">
-<img align="left" style="margin-right:25px; margin-bottom:10px;border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/Gil.jpg" alt="Photo of Alex" width="150">
-**Minimal Computing for Digital Collections**  
-*Alex Gil, Yale University*
-</div>
-
-
-<div style="clear:left"></div>
-<hr>
-
-**3:00PM - 3:15PM \| Break**
-
-<hr>
-
-**3:15PM - 5:00PM \| Workshop**  
-*Note: Workshops are for in-person attendees and will not be streamed*  
-<div style="text-align:left; border:5px solid black; border-radius: 10px; padding-left:5px; padding-right:5px; padding-top:5px;background-color:powderblue;" markdown="1">
-<img align="left" style="margin-right:25px; margin-bottom:10px;border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/malkia-okech.jpg" alt="Photo of Malka" width="150">
-**Skills For Culture: A Methodology for Community-Oriented Digital Cultural Heritage Projects**  
-*Malkia Okech, Digital Advisor for African Digital Heritage*
-</div>
+**4:45PM - 5:00PM \| Day 1 Wrap Up**
 
 
 
@@ -183,11 +195,13 @@ In this workshop, participants will learn key geospatial concepts and terminolog
 
 ## *Friday, February 16*
 
+ <div style="text-align:left; border:5px solid black; border-radius: 10px; padding-left:5px; padding-right:5px; padding-top:5px;background-color:#FFD580;" markdown="1">
+**Friday Overview**  
+Morning, 9:00AM - NOON: *Workshops (in-person only)*  
+Afternoon 1:00PM - 5:00PM: *Panels and Presentations (in-person and on Zoom)*
+</div>
+
 **8:30AM \| Sign-in**
-<hr>
-
-
-**8:30AM \| Registration**
 
 <hr>
 
