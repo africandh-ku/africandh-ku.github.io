@@ -54,7 +54,7 @@ Afternoon 12:30PM - 5:00PM: *Panels and Presentations (in-person and on Zoom)*
 
 <div style="clear:left"></div>
 
-
+<br/>
 **8:00AM \| Sign-in**
 <hr>
 
@@ -200,7 +200,7 @@ Librarian for Africana and International Studies, University of Kansas
 Morning, 9:00AM - NOON: *Workshops (in-person only)*  
 Afternoon 1:00PM - 5:00PM: *Panels and Presentations (in-person and on Zoom)*
 </div>
-
+<br/>
 **8:30AM \| Sign-in**
 
 <hr>
