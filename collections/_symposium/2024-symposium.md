@@ -139,59 +139,43 @@ Librarian for Africana and International Studies, University of Kansas
 <div style="clear:left"></div>
 <hr>
 
-**1:45PM - 2:45PM \| Panel 4: Artificial Intelligence**
-
-<img align="left" style="margin-right:25px; margin-bottom:10px;border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/Kwabena-OA.jpg" alt="Photo of Kwabena" width="150">**Kwabena Opoku-Agyemang**  
-Senior Lecturer, Department of English, University of Ghana  
-***Gibberish and Structure: ChatGPT and the Curious Case of African Literary Criticism***
-
-<div style="clear:left"></div>
-<img align="left" style="margin-right:25px; margin-bottom:10px;border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/shay2.jpg" alt="Photo of Shay" width="150">**Oluwaseun Sanwoolu**  
-PhD Student, Department of Philosophy, University of Kansas  
-***Close personal relationships with AI***
-
-<div style="clear:left"></div>
-<img align="left" style="margin-right:25px; margin-bottom:10px;border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/Kola.jpg" alt="Photo of Kola" width="150">**Kọ́lá Túbọ̀sún**  
-Founder, [Yoruba Name Project](https://www.yorubaname.com/)  
-***Digitization in Lexicography: AI and the Future of African Languages and Oratures***
-
-<div style="clear:left"></div>
-<hr>
-
-**2:45PM - 3:00PM \| Break**
+**1:45PM - 2:00PM \| Break**
 
 <hr>
 
-**3:00PM - 5:00PM \| Concurrent Workshops**  
-*Note: Workshops are for in-person attendees and will not be streamed*  
-<div style="text-align:left; border:5px solid black; border-radius: 10px; padding-left:5px; padding-right:5px; padding-top:5px;background-color:powderblue;" markdown="1">
-<img align="left" style="margin-right:25px; margin-bottom:10px;border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/malkia-okech.jpg" alt="Photo of Malka" width="150">
-3:00PM - 5:00PM  
-**Skills For Culture: A Methodology for Community-Oriented Digital Cultural Heritage Projects**  
-*Malkia Okech, Digital Advisor for African Digital Heritage*
-</div>
-
+**2:00PM - 3:00PM \| Workshops**  
+*Note: Workshops are for in-person attendees and will not be streamed* 
 
 <div style="clear:left"></div>
 <div style="text-align:left; border:5px solid black; border-radius: 10px; padding-left:5px; padding-right:5px; padding-top:5px;background-color:powderblue;" markdown="1">
 <img align="left" style="margin-right:25px; margin-bottom:10px;border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/ElKhatib.jpg" alt="Photo of Randa El Khatib" width="150">
-3:00PM - 4:00PM  
 **Introduction to Digital Mapping**  
 *Randa El Khatib, Implementing New Knowledge Environments (INKE)*  
+In this workshop, participants will learn key geospatial concepts and terminology, as well as practice the basic steps involved in building a geospatial project, including how to extract geodata from a text, how to organize and enrich spatial data, and how to visualize that data on a variety of user-friendly, open-access mapping platforms. We will also explore what types of research questions can be asked and answered using mapping technologies. This session is intended for beginners.
 </div>
-
-
-
-
+<br />
 <div style="clear:left"></div>
 <div style="text-align:left; border:5px solid black; border-radius: 10px; padding-left:5px; padding-right:5px; padding-top:5px;background-color:powderblue;" markdown="1">
 <img align="left" style="margin-right:25px; margin-bottom:10px;border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/Gil.jpg" alt="Photo of Alex" width="150">
-4:00PM - 5:00PM  
 **Minimal Computing for Digital Collections**  
 *Alex Gil, Yale University*
 </div>
 
 
+<div style="clear:left"></div>
+<hr>
+
+**3:00PM - 3:15PM \| Break**
+
+<hr>
+
+**3:15PM - 5:00PM \| Workshop**  
+*Note: Workshops are for in-person attendees and will not be streamed*  
+<div style="text-align:left; border:5px solid black; border-radius: 10px; padding-left:5px; padding-right:5px; padding-top:5px;background-color:powderblue;" markdown="1">
+<img align="left" style="margin-right:25px; margin-bottom:10px;border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/malkia-okech.jpg" alt="Photo of Malka" width="150">
+**Skills For Culture: A Methodology for Community-Oriented Digital Cultural Heritage Projects**  
+*Malkia Okech, Digital Advisor for African Digital Heritage*
+</div>
 
 
 
@@ -213,7 +197,7 @@ Founder, [Yoruba Name Project](https://www.yorubaname.com/)
 
 <div style="text-align:left; border:5px solid black; border-radius: 10px; padding-left:5px; padding-right:5px; padding-top:5px;background-color:powderblue;" markdown="1">
 <img align="left" style="margin-right:25px; margin-bottom:10px;border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/oberst.jpg" alt="Photo of Ursula" width="150"><img align="left" style="margin-right:25px; margin-bottom:10px;border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/harris.jpg" alt="Photo of Ashleigh" width="150">  
-**Wikidata Solutions for Informal Literary Archives**
+**Wikidata Solutions for Informal Literary Archives**  
 *Ursula Obserst and Ashleigh Harris, ALMEDA: African Literary Metadata Project*  
 This workshop will focus on data modeling in Wikidata of different kinds of African literary materials. We will discuss a range of different examples from unrecorded oral forms to self-published works online or in print, from street theatre to web 2.0 literature. The workshop will also consider the challenges of multilingual modeling.
 </div>
@@ -227,7 +211,6 @@ This workshop will focus on data modeling in Wikidata of different kinds of Afri
 
 **1:00PM - 1:15PM \| Sponsors**
 
-
 <hr>
 
 **1:15PM - 2:00PM \| Featured Speaker 2**
@@ -240,7 +223,33 @@ Postdoctoral Fellow in Open Social Scholarship, INKE & Co-director of the Digita
 <div style="clear:left"></div>
 <hr>
 
-**2:00PM - 3:00PM \| Panel 5: Infrastructure & Pedagogy**
+**2:00PM - 3:00PM \| Panel 4: Artificial Intelligence**
+
+
+<img align="left" style="margin-right:25px; margin-bottom:10px;border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/Kwabena-OA.jpg" alt="Photo of Kwabena" width="150">**Kwabena Opoku-Agyemang**  
+Senior Lecturer, Department of English, University of Ghana  
+***Gibberish and Structure: ChatGPT and the Curious Case of African Literary Criticism***
+
+<div style="clear:left"></div>
+<img align="left" style="margin-right:25px; margin-bottom:10px;border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/shay2.jpg" alt="Photo of Shay" width="150">**Oluwaseun Sanwoolu**  
+PhD Student, Department of Philosophy, University of Kansas  
+***Close personal relationships with AI***
+
+<div style="clear:left"></div>
+<img align="left" style="margin-right:25px; margin-bottom:10px;border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/Kola.jpg" alt="Photo of Kola" width="150">**Kọ́lá Túbọ̀sún**  
+Founder, [Yoruba Name Project](https://www.yorubaname.com/)  
+***Digitization in Lexicography: AI and the Future of African Languages and Oratures***
+
+<div style="clear:left"></div>
+<hr>
+
+
+
+**3:00PM - 3:15PM \| Break**
+
+<hr>
+
+**3:15PM - 4:30PM \| Panel 5 & Discussion: Infrastructure, Libraries, DH Centers**
 
 <img align="left" style="margin-right:25px; margin-bottom:10px;border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/tunde.jpg" alt="Photo of Tunde" width="150">**Tunde Ope-Davies**  
 Chair & Principal Investigator, Center for Digital Humanities, University of Lagos (CEDHUL)  
@@ -250,28 +259,20 @@ Chair & Principal Investigator, Center for Digital Humanities, University of Lag
 
 <img align="left" style="margin-right:25px; margin-bottom:10px;border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/brian-cosmovitral.jpg" alt="Photo of Brian" width="150">**Brian Rosenblum**  
 Co-Director, Institute for Digital Research in the Humanities, University of Kansas  
+***Building a Digital Humanities Community at a Public Research University***
+
+<div style="clear:left"></div>
+
+
+<img align="left" style="margin-right:25px; margin-bottom:10px;border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/Placeholder_group2.jpg" alt="Placeholder" width="150">**Discussion** featuring selected participants  
+Moderator: **Kodjo Atiso**, (University of Kansas)
 
 
 <div style="clear:left"></div>
 
-<img align="left" style="margin-right:25px; margin-bottom:10px;border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/Placeholder_person.jpg" alt="Placeholder" width="150">
-
-
-<div style="clear:left"></div>
-
 <hr>
 
-**3:00PM - 3:15PM \| Break**
-
-<hr>
-
-**3:15PM - 4:15PM \| Roundtable: Libraries**
-
-Roundtable discussion opportunities and challenges for libraries in supporting digital humanities. Moderator: Kodjo Atiso (University of Kansas).
-
-<hr>
-
-**4:15 PM - 4:45PM \| Closing Discussion: Next Steps**
+**4:30 PM - 5:00PM \| Closing Discussion: Next Steps**
 
 Closing discussion about opportunities and next steps for advancing DH in Ghana.
 
