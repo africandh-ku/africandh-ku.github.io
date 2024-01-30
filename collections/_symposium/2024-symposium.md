@@ -21,9 +21,9 @@ The University of Ghana--Legon**
 _and online on Zoom_
 
 
-**Zoom details will be posted prior to the event.** 
-{: .btn .btn--primary .btn--x-large}
 
+
+[Zoom Registration](https://wacren.zoom.us/meeting/register/u5UvdumhrTorGtOCqZiYlHX181k9-6pY8SsB){: .btn .btn--success .btn--large}
 
 <img align="center" style="" src="{{ site.baseurl }}/assets/img/ughana-campus.png" alt="University of Ghana campus" width="70%">
 
