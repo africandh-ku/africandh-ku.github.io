@@ -105,7 +105,9 @@ In this workshop, participants will learn key geospatial concepts and terminolog
 
 <hr>
 
-**12:45PM - 1:45PM \| Panel 1: Digital Collections**
+**12:45PM - 1:45PM \| Panel 1: Digital Collections**  
+
+*Moderated by **Akosua Darkwah** (University of Ghana)*
 
 
 <img align="left" style="margin-right:25px; margin-bottom:10px;border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/FuadLawal.jpg" alt="Photo of Fuad Lawal" width="150">**Fu'ad Lawal**  
@@ -144,7 +146,9 @@ practice, the case of Escalator***
 
 <hr>
 
-**2:45PM - 3:45PM \| Panel 2: Languages**
+**2:45PM - 3:45PM \| Panel 2: Languages**  
+  
+*Moderated by **Kwabena Opoku-Abyemang** (University of Ghana)*
 
 <img align="left" style="margin-right:25px; margin-bottom:10px;border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/Augustin.jpg" alt="Photo of Augustin Ndione" width="150">**Augustin Ndione**  
 Director, Centre de Linguistique Appliquée de Dakar (CLAD), Université Cheikh Anta Diop de Dakar (UCAD), Senegal  
@@ -165,7 +169,9 @@ Senior Lecturer II & Associate Research Faculty of Digital Humanities, Departmen
 
 <hr>
 
-**3 :45PM - 4:45PM \| Panel 3: Digital Culture**
+**3 :45PM - 4:45PM \| Panel 3: Digital Culture**  
+  
+*Moderated by **Patience E. Dzandza Ocloo** (University of Ghana)*
 
 
 <img align="left" style="margin-right:25px; margin-bottom:10px;border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/harris.jpg" alt="Photo of Ashleigh" width="150">**Ashleigh Harris**  
@@ -240,6 +246,8 @@ Postdoctoral Fellow in Open Social Scholarship, INKE & Co-director of the Digita
 **2:00PM - 3:00PM \| Panel 4: Artificial Intelligence**
 
 
+*Moderated by **Akosua Darkwah** (University of Ghana)*
+
 <img align="left" style="margin-right:25px; margin-bottom:10px;border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/Kwabena-OA.jpg" alt="Photo of Kwabena" width="150">**Kwabena Opoku-Agyemang**  
 Senior Lecturer, Department of English, University of Ghana  
 ***Gibberish and Structure: ChatGPT and the Curious Case of African Literary Criticism***
@@ -263,7 +271,9 @@ Founder, [Yoruba Name Project](https://www.yorubaname.com/)
 
 <hr>
 
-**3:15PM - 4:30PM \| Panel 5 & Discussion: Infrastructure, Libraries, DH Centers**
+**3:15PM - 4:30PM \| Panel 5 & Discussion: Infrastructure, Libraries, DH Centers**  
+  
+*Moderated by **Kodjo Atiso** (University of Kansas)*
 
 <img align="left" style="margin-right:25px; margin-bottom:10px;border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/tunde.jpg" alt="Photo of Tunde" width="150">**Tunde Ope-Davies**  
 Chair & Principal Investigator, Center for Digital Humanities, University of Lagos (CEDHUL)  
@@ -279,7 +289,6 @@ Co-Director, Institute for Digital Research in the Humanities, University of Kan
 
 
 <img align="left" style="margin-right:25px; margin-bottom:10px;border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/Placeholder_group2.jpg" alt="Placeholder" width="150">**Discussion** featuring selected participants  
-Moderator: **Kodjo Atiso**, (University of Kansas)
 
 
 <div style="clear:left"></div>
