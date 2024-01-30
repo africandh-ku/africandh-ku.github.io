@@ -73,7 +73,8 @@ In this workshop, participants will learn key geospatial concepts and terminolog
 <div style="text-align:left; border:5px solid black; border-radius: 10px; padding-left:5px; padding-right:5px; padding-top:5px;background-color:powderblue;" markdown="1">
 <img align="left" style="margin-right:25px; margin-bottom:10px;border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/Gil.jpg" alt="Photo of Alex" width="150">
 **Minimal Computing for Digital Collections**  
-*Alex Gil, Yale University*
+*Alex Gil, Yale University*  
+Dr. Alex Gil will introduce the ideas and practice of Minimal Computing in Digital Humanities. Around the world, scholars research and teach the study of history and culture in many different environments, supported by various forms of infrastructure. In some places, for example, scholars do not have around-the-clock access to electricity or the internet, in others they must operate carefully under state censorship. Given this situation, how do we design digital humanities research projects that are aware of local circumstances? This is the main question that Minimal Computing asks of us. We call it Minimal Computing because the answer almost always involves a reduction in computation and knowing a little bit of computing. In this workshop you will be introduced to the history of Minimal Computing in DH, and look at some prototypes. You will also learn some basics of computation and web engineering.
 </div>
 
 
@@ -158,12 +159,12 @@ Director, Centre de Linguistique Appliquée de Dakar (CLAD), Université Cheikh 
 <div style="clear:left"></div>
 <img align="left" style="margin-right:25px; margin-bottom:10px;border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/ngue.jpg" alt="Photo of Emmanuel Ngue Um" width="150">**Emmanuel Ngue Um**  
 Associate Professor of Linguistics and Digital Humanities, Higher Teacher Training College, University of Yaoundé 1, Cameroon  
-***Language as Software : A Digital Humanities Perspective to Revealing the  Rhizome of African Language Spaces.*** 
+***Language as Software : A Digital Humanities Perspective to Revealing the Rhizome of African Language Spaces.*** 
 
 <div style="clear:left"></div>
 <img align="left" style="margin-right:25px; margin-bottom:10px;border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/Gil.jpg" alt="Photo of Alex" width="150">**Alex Gil**  
 Senior Lecturer II & Associate Research Faculty of Digital Humanities, Department of Spanish & Portuguese, Yale University  
-***Multilingual Digital Humanities***
+***Mother Tongue DH: Reflections on the Computational Limits of Any Language***
 
 <div style="clear:left"></div>
 
