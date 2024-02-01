@@ -320,7 +320,7 @@ Closing discussion about opportunities and next steps for advancing DH in Ghana.
 
 <div><a href="https://almedaresearch.org/"><img style="padding-right:25px" src="{{ site.baseurl }}/assets/img/symposium4/Almeda2.png" alt="African Literary Metadata" width="65%"></a></div>
 
-<div><a href="https://hbw.ku.edu/"><img style="padding-right:25px" src="{{ site.baseurl }}/assets/img/symposium4/ProjectHBW-2.jpg" alt="Project on the History of Black Writing"></a></div>
+<div><a href="https://hbw.ku.edu/"><img style="padding-right:25px" src="{{ site.baseurl }}/assets/img/symposium4/hbw_logo_white_blue_bg.svg" alt="History of Black Writing"></a></div>
 
 <div><a href="https://i2s-research.ku.edu/center-cyber-social-dynamics-ccsd">
 <img style="padding-right:25px" src="/assets/img/CCSD.png" alt="Center for Cyber-Social Dynamics" width="80%"></a></div>
