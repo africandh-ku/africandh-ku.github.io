@@ -10,7 +10,7 @@ sidebar:
   - text: "**[Thursday, February 15](./2024#thursday-february-15)**"
   - text: "**[Friday, February 16](./2024#friday-february-16)**"
   - text: "**[Sponsors & Organizers](./2024#sponsors--organizers)**"
-  - text: "<br/>***Note: All times are GMT***"
+  - text: "<br/>***Note: All times are GMT***<br>Zoom sessions are in the afternoon, GMT. Use this [time zone converter](https://www.timeanddate.com/worldclock/converter.html?iso=20240215T123000&p1=tz_sast&p2=tz_cet&p3=tz_wat&p4=4&p5=tz_gmt&p6=tz_et&p7=tz_ct) to determine the time in your location."
 
 ---
 
