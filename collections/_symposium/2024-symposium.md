@@ -37,7 +37,7 @@ Building upon the success of the previous three symposiums held online, this yea
 
 The 2024 symposium seeks to stimulate a dialogue that addresses the intersections of the digital humanities and African stories and agency. We will explore digital storytelling and its connections to African narratives, the extractive politics of platform, AI and African agency, as well as diverse approaches and issues related to building an inclusive digital cultural record for local and global communities. 
 
-Attuned to postcolonial and African theoretical perspectives concerning digital media approaches, the symposium program remains alert to the limits of digital platforms, the politics of representation and knowledge production, and questions about the nature and uses of digital archives. Topics addressed at the symposium may include, but are not limited to, digital tools and platforms, digital archives, computational humanities and natural language processing, and digital humanities educationa nd infrastructure.
+Attuned to postcolonial and African theoretical perspectives concerning digital media approaches, the symposium program remains alert to the limits of digital platforms, the politics of representation and knowledge production, and questions about the nature and uses of digital archives. Topics addressed at the symposium may include, but are not limited to, digital tools and platforms, digital archives, computational humanities and natural language processing, and digital humanities education and infrastructure.
 
 **Hybrid Format.** By transitioning to a hybrid format, the symposium enriches the participatory experience. Scholars in the region and other in-person attendees will have the opportunity to engage in face-to-face conversations and workshops, while networking with fellow scholars against the backdrop of the University of Ghana’s vibrant campus in Accra. For those unable to attend in person, the symposium will continue to offer virtual participation, ensuring that global audiences can partake in the dialogue.
 
@@ -177,7 +177,7 @@ Senior Lecturer II & Associate Research Faculty of Digital Humanities, Departmen
 
 <img align="left" style="margin-right:25px; margin-bottom:10px;border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/harris.jpg" alt="Photo of Ashleigh" width="150">**Ashleigh Harris**  
 Professor of English, Uppsala University, Sweden  
-Director ALMEDA: African Literary Metadata Projet  
+Director ALMEDA: African Literary Metadata Project  
 ***Linked Open Metadata for African Literary Heritage*** 
 
 <div style="clear:left"></div>
