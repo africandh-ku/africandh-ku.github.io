@@ -289,7 +289,7 @@ Co-Director, Institute for Digital Research in the Humanities, University of Kan
 <div style="clear:left"></div>
 
 
-<img align="left" style="margin-right:25px; margin-bottom:10px;border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/Placeholder_group2.jpg" alt="Placeholder" width="150">**Discussion** featuring selected participants  
+<img align="left" style="margin-right:25px; margin-bottom:10px;border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/placeholder_group3.jpg" alt="Placeholder" width="150">**Discussion** featuring **Tunde Ope-Davies**, **Menno van Zaanen**, **Randa El Khatib**, **Brian Rosenblum**, **Karen Ijumba**, **Alex Gil**
 
 
 <div style="clear:left"></div>
@@ -298,7 +298,7 @@ Co-Director, Institute for Digital Research in the Humanities, University of Kan
 
 **4:30 PM - 5:00PM \| Closing Discussion: Next Steps**
 
-Closing discussion about opportunities and next steps for advancing DH in Ghana.
+<img align="left" style="margin-right:25px; margin-bottom:10px;border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/placeholder_group3.jpg" alt="Placeholder" width="150">Closing discussion about opportunities and next steps for advancing DH in Ghana and the region.
 
 
 <p style="text-align:center"><a href="#top">&#x21a9;&#xfe0e; Return to top</a></p> 
