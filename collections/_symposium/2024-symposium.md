@@ -124,7 +124,7 @@ Assistant Director, Research and Documentation Division, National Centre for Art
 <div style="clear:left"></div>
 
 <img align="left" style="margin-right:25px; margin-bottom:10px;border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/Judith.jpg" alt="Photo of Judith" width="150">**Judith Opoku-Boateng**  
-Director, J.H. Kwabena Nketia Audio-Visual Archives, Institute of African Studies, University of Ghana  
+Senior Archivist, Institute of African Studies, University of Ghana  
 ***Reimagining Scholarship: Bridging the Gap Between Archives and DH Research*** 
 
 
