@@ -90,7 +90,8 @@ Dr. Alex Gil will introduce the ideas and practice of Minimal Computing in Digit
 <div style="text-align:left; border:5px solid black; border-radius: 10px; padding-left:5px; padding-right:5px; padding-top:5px;background-color:powderblue;" markdown="1">
 <img align="left" style="margin-right:25px; margin-bottom:10px;border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/malkia-okech.jpg" alt="Photo of Malka" width="150">
 **Skills For Culture: A Methodology for Community-Oriented Digital Cultural Heritage Projects**  
-*Malkia Okech, Digital Advisor for African Digital Heritage*
+*Malkia Okech, Digital Advisor for African Digital Heritage*  
+This asset mapping workshop aims to provide participants with tools to identify and quantify cultural assets within their communities for preservation projects– whether they work in institutional or community-based cultural heritage projects. The workshop provides participants with considerations for preserving and digitizing cultural heritage in a community-oriented manner, ensuring that efforts remain relevant and accessible amidst changing technology.
 </div>
 
 
