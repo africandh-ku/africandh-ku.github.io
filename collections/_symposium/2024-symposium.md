@@ -197,10 +197,6 @@ Librarian for Africana and International Studies, University of Kansas
 
 **4:45PM - 5:00PM \| Day 1 Wrap Up**
 
-
-
-
-
 ## *Friday, February 16*
 
  <div style="text-align:left; border:5px solid black; border-radius: 10px; padding-left:5px; padding-right:5px; padding-top:5px;background-color:#FFD580;" markdown="1">
