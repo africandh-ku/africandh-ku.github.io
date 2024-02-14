@@ -24,7 +24,7 @@ _and online_
 
 or
 
-**[Livestream on University of Ghana YouTube channel](https://www.youtube.com/@universityofghana726/streams)**
+
 
 <img align="center" style="" src="{{ site.baseurl }}/assets/img/ughana-campus.png" alt="University of Ghana campus" width="70%">
 
