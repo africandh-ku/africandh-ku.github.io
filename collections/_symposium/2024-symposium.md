@@ -22,7 +22,7 @@ _and online_
 
 [Zoom Registration](https://wacren.zoom.us/meeting/register/u5UvdumhrTorGtOCqZiYlHX181k9-6pY8SsB){: .btn .btn--success .btn--large}
 
-or
+or on Youtube
 
 
 
