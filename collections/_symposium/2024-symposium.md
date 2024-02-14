@@ -176,7 +176,6 @@ Senior Lecturer II & Associate Research Faculty of Digital Humanities, Departmen
   
 *Moderated by **Patience E. Dzandza Ocloo** (University of Ghana)*
 
-
 <img align="left" style="margin-right:25px; margin-bottom:10px;border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/harris.jpg" alt="Photo of Ashleigh" width="150">**Ashleigh Harris**  
 Professor of English, Uppsala University, Sweden  
 Director ALMEDA: African Literary Metadata Project  
@@ -330,7 +329,6 @@ Co-Director, Institute for Digital Research in the Humanities, University of Kan
 
 <div><a href="https://erc.europa.eu/"><img style="padding-right:25px" src="{{ site.baseurl }}/assets/img/symposium4/ERC1.png" alt="European Research Council"></a></div>
 </div>
-
 
 <div style="clear:left"></div>
 
