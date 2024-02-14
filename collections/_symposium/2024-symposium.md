@@ -18,12 +18,13 @@ sidebar:
 8:30AM - 5:00PM GMT  
 Balme Library  
 The University of Ghana--Legon**  
-_and online on Zoom_
-
-
-
+_and online_
 
 [Zoom Registration](https://wacren.zoom.us/meeting/register/u5UvdumhrTorGtOCqZiYlHX181k9-6pY8SsB){: .btn .btn--success .btn--large}
+
+or
+
+**[Livestream on University of Ghana YouTube channel](https://www.youtube.com/@universityofghana726/streams)**
 
 <img align="center" style="" src="{{ site.baseurl }}/assets/img/ughana-campus.png" alt="University of Ghana campus" width="70%">
 
@@ -231,7 +232,8 @@ This workshop will focus on data modeling in Wikidata of different kinds of Afri
 
 <hr>
 
-**1:00PM - 1:15PM \| Sponsors**
+**1:00PM - 1:15PM \| **Welcome from Sponsors**  
+**Carol Smith**, Dean, University of Kansas Libraries; **Shawn Alexander**, Chair, Department of African and African American Studies; **Ayesha Hardison**, Project on the History of Black Writing.
 
 <hr>
 
