@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "The 2024  DH Symposium at the University of Ghana:<br>A Report"
+title: "The 2024 DH Symposium at the University of Ghana: <br>A Report"
 label: blog
 author: Brian Rosenblum & James Yeku
 ---
