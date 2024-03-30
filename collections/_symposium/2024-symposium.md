@@ -22,9 +22,12 @@ _and online_
 
 ---
 
+
+[**Post-Symposium Report**](../report-african-dh-symposium-ghana/)  
 [**Presentation Slides**](https://drive.google.com/drive/folders/1GTQ-vGQBcRlrcIUocBOD1CD4CQ_sF_bp?usp=sharing)  
 [**YouTube Livestream: Day 1 / Thursday**](https://www.youtube.com/live/t_iiZd-03WU?si=3YUVb3ZdKpVwFXKQ)  
 [**YouTube Livestream: Day 2 / Friday**](https://www.youtube.com/live/1UV5Z3A62z4?si=PukA57EwF_FhV0Pi)  
+
 
 <img align="center" style="" src="{{ site.baseurl }}/assets/img/ughana-campus.png" alt="University of Ghana campus" width="70%">
 
