@@ -62,5 +62,6 @@ The ultimate goal is not just to advance the field of digital humanities in Afri
 
 We look forward to seeing you at the 5th African DH Symposium in 2025!
 
+<img align="center" style="" src="{{ site.baseurl }}/assets/img/symposium-photo-group.jpg" alt="Symposium Group Photo" width="70%">
 
 
