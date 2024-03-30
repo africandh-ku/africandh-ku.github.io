@@ -219,7 +219,7 @@ Afternoon 1:00PM - 5:00PM: *Panels and Presentations (in-person and on Zoom)*
 <div style="text-align:left; border:5px solid black; border-radius: 10px; padding-left:5px; padding-right:5px; padding-top:5px;background-color:powderblue;" markdown="1">
 <img align="left" style="margin-right:25px; margin-bottom:10px;border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/oberst.jpg" alt="Photo of Ursula" width="150"><img align="left" style="margin-right:25px; margin-bottom:10px;border-radius:90%" src="{{ site.baseurl }}/assets/img/symposium4/harris.jpg" alt="Photo of Ashleigh" width="150">  
 **Wikidata Solutions for Informal Literary Archives**  
-*Ursula Obserst and Ashleigh Harris, ALMEDA: African Literary Metadata Project*  
+*Ursula Oberst and Ashleigh Harris, ALMEDA: African Literary Metadata Project*  
 This workshop will focus on data modeling in Wikidata of different kinds of African literary materials. We will discuss a range of different examples from unrecorded oral forms to self-published works online or in print, from street theatre to web 2.0 literature. The workshop will also consider the challenges of multilingual modeling.
 </div>
 <br>
