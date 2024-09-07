@@ -10,7 +10,7 @@
 
 - name: Network for Digital Humanities in Africa
   url: https://dhafrica.blog/
-  description: "The Network for Digital Humanities in Africa was born out of the workshop Digital Humanities: the perspective of Africa, a satellite event of DH2019." 
+  description: "The Network for Digital Humanities in Africa was born out of the workshop Digital Humanities: the perspective of Africa, a satellite event of DH2019."
   category: resource
 
 - name: Global Poetics Project
@@ -26,21 +26,113 @@
 - name: SADiLaR
   url: https://www.sadilar.org
   description: The South African Centre for Digital Language Resources (SADiLaR) is a national centre supported by the Department of Science and Innovation (DSI).SADiLaR has an enabling function, with a focus on all official languages of South Africa, supporting research and development in the domains of language technologies and language-related studies in the humanities and social sciences.
-  category:
+  category: center
 
 - name: African Digital Heritage – Advancing heritage through technology
   url: https://africandigitalheritage.org/
-  description: 50 years since the publication of Walter Rodney’s critical work How Europe Underdeveloped Africa, African Digital Heritage together with Savvy Contemporary, bring you an audio archive of radical and creative Kenyans disentangling the myth of development.
-  category:
-
-- name: Digital Humanities Association in Nigeria
-  url: https://dhnigeria.org/
-  description: To address critical intellectual, research and infrastructural gaps that existed in the traditional disciplines in the Human Sciences in this part of the Global South in spite of the explosion in digital technologies and computational approaches to studies outside the core sciences.
-  category:
+  description: We are a Nairobi based, non profit organization working to encourage a more critical, holistic and knowledge-based approach to digital solutions within African heritage. Through this, we hope to cement the place of African culture in an era of rapidly changing technologies and endless frontiers.
+  category: organization
 
 - name: Digital Humanities Association of Southern African (DHASA)
   url: https://digitalhumanities.org.za/
   description: The Digital Humanities Association of Southern Africa (DHASA) was established in April 2016 to promote the understanding and practice of digital approaches to humanities scholarship across the southern African region.
+  category: organization
+
+- name: Archivi.ng
+  url: https://archivi.ng
+  description: Explore thousands of digitized Nigerian newspaper pages from 1994 - 2008. This project aims to capture not only a snapshot of Nigeria’s political, social and cultural history, but also to create an open resource for the public, researchers and journalists.
+  category: project
+
+- name: "ALMEDA: African Literary Metadata" 
+  url: https://almedaresearch.org
+  description: ALMEDA (African Literary Metadata) project is developing a new, multilingual metadata ontology and a linked open database for the large body of oral, expressive culture that is a major part of literary culture in Africa.
+  category: project
+
+- name: Poetry Africa Digital Map
+  url: https://poetryafrica.ukzn.ac.za/digital-map/
+  description: The Poetry Africa Digital Map is an interactive database of the poets who have performed at Poetry Africa Festival since its inception in 1997, and the funders and partners who have made this unparalleled showcase of artistry possible. 
+  category: project
+
+- name: Open Restitution Africa
+  url: https://openrestitution.africa/
+  description: The Open Restitution Project is an Africa-led project seeking to open up access to information on the restitution of African material culture and human ancestors, to empower all stakeholders involved to make knowledge-based decisions.
+  category: project
+
+- name: Centre for Digital Humanities, University of Lagos (CEDHUL)
+  url: https://www.cedhul.com.ng/
+  description: The first full-fledged, stand-alone Digital Humanities Centre in Africa
+  category:
+
+- name: YorubaName.com
+  url: https://www.yorubaname.com/
+  description: YorubaName.com is an online intervention to preserve and document all Yorùbá names in a multimedia format. It is part of a long-term project to document all types of African cultural experiences on the internet as a way of ensuring the survival of African identities in their various expressions.
+  category: project
+
+
+- name: Nigerian Nostalgia Project
+  url: https://nigeriannostalgiaproject.org/
+  description: NNP collects, categorizes, reformats and repackages Nigerian legacy information for both  preservation and distribution employing a combination of technology tools and social networks to perform each of the activities 
+  category:
+
+
+- name: Nigerian Nostalgia Project
+  url: https://nigeriannostalgiaproject.org/
+  description: NNP collects, categorizes, reformats and repackages Nigerian legacy information for both  preservation and distribution employing a combination of technology tools and social networks to perform each of the activities 
+  category:
+
+- name: "Pulaar Islamic Texts: Six Archives of the Taal Families in Senegal and Mali"
+  url: https://eap.bl.uk/project/EAP1245
+  description: The project intends to collect and digitise Pulaar Ajami (Pulaar language in Arabic script) and Arabic endangered manuscripts written by some of the most influential Haalpulaar (speakers of Pulaar) Islamic scholars of the later nineteenth and twentieth centuries. The project aims to digitise a total of 6,000 pages of text. About 3,500 will be in Senegal and 2,500 in Mali. On completion, the project will provide easily accessible resources that will improve the quality of scholarly research adn make available teaching materials on Muslim West Africa in general and the Haalpulaar history, language, society and culture in particular.
+  category: project
+
+- name: Accra Wala
+  url: https://accrawala.com/
+  description: Accra Wala is a free, interactive website that seeks to rethink the way we represent, talk about, and engage with African cities.  The project focuses on Accra, the capital of Ghana, located on the west coast of Africa.  The site is a curated archive, which uses the routes of the trotro (grassroots public transport) system as a base for exploring how the vast majority of urban residents see and experience the city. The content of the archive is not only about transport, however.  Trotros and lorry parks are just a way of connecting experiences and histories to the city in new ways.
+  category: project
+
+- name: Africa Cartoons
+  url: https://africacartoons.com/
+  description: Encyclopedia of African Political Cartooning
+  category: project
+
+- name: Global Poetics Project
+  url: https://globalpoetics.org/
+  description: The Global Poetics Project is a platform for experimenting with digital tools and methodologies that can aid us in the study of poetry and poetics. The Global Poetics Project is foremost dedicated to the print worlds, poetry, and poetics  from what has been referred to as the Global South/ Third-World/ Postcolonial world, as well as multiethnic poetry. 
+  category: project
+
+- name: Sekuru's Stories
+  url: https://sekuru.org/home/
+  description: Sekuru’s Stories is a digital public humanities project featuring the renowned Zimbabwean mbira player, oral historian, and ritual specialist Sekuru Tute Chigamba. Bringing Sekuru Chigamba’s oral narratives, or nhoroondo, together with recordings, photographs, and maps, it presents Zimbabwean musical and cultural heritage in an interactive format.
+  category:
+
+- name: Brittle Paper
+  url: https://brittlepaper.com/
+  description: Brittle Paper is an online literary magazine for readers of African Literature. We are Africa’s premier online literary brand inspiring readers to explore and celebrate African literary experiences in all its diversity.
+  category: publication
+
+- name: Biafran War Memories
+  url: https://biafranwarmemories.com/
+  description: Biafran War Memories is a digital archive of first-hand accounts of the 1967-1970 Nigerian Civil War, also known as the Biafran War. The personal stories of people who remember the war and some who lived through it are here.
+  category: project
+
+- name: The Museum of British Colonialism
+  url: https://museumofbritishcolonialism.org/
+  description: We aspire to change the narrative around British colonialism and its legacies. In the long-term, we hope to facilitate conversations around the research of British colonialism through acting as a repository for digital archives.
+  category: project
+
+- name:
+  url:
+  description:
+  category:
+
+- name:
+  url:
+  description:
+  category:
+
+- name:
+  url:
+  description:
   category:
 
 - name:
@@ -57,4 +149,14 @@
   url:
   description:
   category:
+
+- name:
+  url:
+  description:
+  category:
+
+
+
+
+
 
