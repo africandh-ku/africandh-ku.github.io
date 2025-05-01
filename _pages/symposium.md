@@ -3,7 +3,7 @@ layout: single
 title: African Digital Humanities Symposium
 permalink: symposium
 header:
-  image: /assets/cover-images/kente-banner.jpg
+  image: /assets/cover-images/banner2-people.jpg
 ---
 
 

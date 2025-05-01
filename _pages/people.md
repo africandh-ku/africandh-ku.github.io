@@ -2,13 +2,8 @@
 layout: single
 title: People
 permalink: people
-header:
-  image: /assets/cover-images/textile-banner-1.jpg
 ---
  
-
-The African Digital Humanities initiative at the University of Kansas is headed by **James Yeku** in the Department of **[African and African-American Studies](https://afs.ku.edu/)** in partnership with staff from the **[Institute for Digital Research in the Humanities](http://idrh.ku.edu)**.
-
 
 ## James Yeku
 
@@ -24,8 +19,4 @@ James Yékú is an Assistant Professor of African and African American studies a
 **Email: <brianrosenblum@ku.edu>**
 
 
-### With special contributions and support from
 
-
-*[Sylvia Fernández](https://sylviafernandezq.wordpress.com/)*, University of Texas, San Antonio  
-*[Kaylen Dwyer](https://idrh.ku.edu/people/kaylen-dwyer)*, Institute for Digital Research in the Humanities, University of Kansas

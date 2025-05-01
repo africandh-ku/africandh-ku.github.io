@@ -5,6 +5,10 @@ permalink: symposium/2022
 date: 2022-10-06
 label: symposium
 description: The 2022 Symposium will center on the roles of digital technologies in recovering the African archive, with the archive framed beyond its traditional institutional sense to include archival principles and practices that underpin the recuperation of African narratives and agency. 
+sidebar:
+  nav: "symposium"
+header:
+  image: /assets/cover-images/banner4-kejetia.jpg
 ---
 
 

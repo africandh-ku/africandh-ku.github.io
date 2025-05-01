@@ -1,13 +1,28 @@
 # main links
 main:
-  - title: Annual Symposium
-    url: symposium
-  - title: Indabas & Events
-    url: events
-  - title: Blog
-    url: blog
-  - title: Projects & Resources
+  - title: Symposium
+    url: symposium/2025
+  - title: Indabas
+    url: indabas
+  - title: Reflections
+    url: reflections
+  - title: Projects/Resources
     url: resources
   - title: People
     url: people
+  #- title: Get Involved
+  #  url: involved
 
+symposium:
+  - title: Past Symposiums
+    children:
+      - title: "2025"
+        url: symposium/2025
+      - title: "2024"
+        url: symposium/2024
+      - title: "2022"
+        url: symposium/2022
+      - title: "2021"
+        url: symposium/2021
+      - title: "2020"
+        url: symposium/2020

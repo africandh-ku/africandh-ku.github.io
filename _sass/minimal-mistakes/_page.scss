@@ -170,6 +170,12 @@ body {
   animation: $intro-transition;
   -webkit-animation-delay: 0.25s;
   animation-delay: 0.25s;
+  border-bottom-style: solid;
+  border-bottom-color: #000;
+  border-bottom-width: 2px;
+  border-top-style: solid;
+  border-top-color: #000;
+  border-top-width: 2px;
 
   &--overlay {
     position: relative;

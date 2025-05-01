@@ -5,6 +5,8 @@ permalink: symposium/2020
 date: 2020-10-08
 label: symposium
 description: This symposium centers the ways in which digital media hardware and software expand the forums and techniques available to Africans to tell stories about different aspects of life on the continent.
+sidebar:
+  nav: "symposium"
 ---
 
 **The importance of storytelling in African societies dates back to different forms of oral tradition that make knowledge, history, and experiences transferable across time, cultures, and groups. The symposium on digital storytelling in Africa will center the ways in which digital media hardware and software expand the forums and techniques available to Africans to tell stories about different aspects of life on the continent. We bring together participants from different parts of the world, including African locations, to think together about digital storytelling and what it might mean in the context of African digital cultures.**

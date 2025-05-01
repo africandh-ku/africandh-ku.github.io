@@ -5,6 +5,8 @@ permalink: symposium/2021
 date: 2021-11-09
 label: symposium
 description: This year’s gathering examines the value of collaborations and connections in digital humanities research in African and African diaspora frameworks.
+sidebar:
+  nav: "symposium"
 ---
 
 Date: November 9, 2021  
