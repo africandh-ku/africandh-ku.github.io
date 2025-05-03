@@ -40,16 +40,21 @@ More information about all events, including the complete program and registrati
 
 We gratefully acknowledge our sponsors for this year's event:
 
-### University of Ghana
-* School of Information & Communication Studies
-* College of Education
+**University of Ghana**
+* [School of Information & Communication Studies](https://sics.ug.edu.gh/)
+* [College of Education](https://coe.ug.edu.gh/)
 
-### University of Kansas
-* Kansas African Studies Center
-* KU Libraries
-* Center for Cyber-Social Dynamics
-* Institute for Digital Research in the Humanities
-* Department of African & African American Studies
+**University of Kansas**
+* [Kansas African Studies Center](https://kasc.ku.edu)
+* [KU Libraries](https://lib.ku.edu)
+* [Center for Cyber-Social Dynamics](https://i2s-research.ku.edu/center-cyber-social-dynamics-ccsd)
+* [Institute for Digital Research in the Humanities](https://idrh.ku.edu)
+* [Department of African & African American Studies](https://afs.ku.edu/)
+
+---
+
+* [Olongo Africa](https://olongoafrica.com/)
+* [Archivi.ng](https://archivi.ng/)
 
 ## Organizers
 
