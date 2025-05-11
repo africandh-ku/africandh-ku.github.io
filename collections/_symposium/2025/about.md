@@ -19,7 +19,10 @@ sidebar:
 The University of Ghana and the University of Kansas are pleased to announce the 2025 Symposium on African Digital Humanities. This 5th iteration of the symposium marks the second consecutive year the event will be hosted at the University of Ghana in Accra. The symposium will also be streamed live to facilitate global participation.
 
 
-## Registration & streaming information coming soon
+[Register for **ONLINE ATTENDANCE**](https://forms.office.com/r/Fzv6fGXrgN){: .btn .btn--success}
+
+**Registration for in-person attendance coming soon!**
+
 
 
 ## Schedule Outline

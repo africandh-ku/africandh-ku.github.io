@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Dialogue across borders: a workshop on international library partnerships"
+title: "Dialogue across borders: a full-day workshop on international library partnerships"
 permalink: symposium/2025/workshop
 label: symposium
 
@@ -24,7 +24,7 @@ sidebar:
 - Establish groundwork for future partnerships
 </div>
 
-### Registration Details Coming Soon
+### Registration Details Coming Soon!
 
 ## Organizers
 - School of Information and Communication Studies, University of Ghana
