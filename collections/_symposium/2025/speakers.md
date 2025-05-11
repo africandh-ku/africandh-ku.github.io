@@ -147,7 +147,7 @@ sidebar:
 <div class="speaker-card">
 <img src="{{ site.baseurl }}/assets/img/symposium5/miriam-pena.png" 
   alt="Photo of Miriam Peña">
-<div class="speaker-name">Miriam Peña</div>
+<div class="speaker-name">Miriam Peña Pimentel</div>
 <div class="speaker-affiliation">National Autonomous University of Mexico</div>
 </div>
 

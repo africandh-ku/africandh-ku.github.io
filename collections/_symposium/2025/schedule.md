@@ -87,7 +87,7 @@ sidebar:
 ### *12:45–2:00 — Lunch*
 
 ### *2:00–3:15 — Panel 7: Global South Perspectives - Digital Humanities Across Continents*
-- **Miriam Peña**, (National Autonomous University of Mexico)
+- **Miriam Peña Pimentel**, (National Autonomous University of Mexico)
 - **Gimena del Rio Riande** (Conicet-Universidad del Salvador, Argentina)
 - **Nirmala Menon** (Indian Institute of Technology Indore)
 - **Alex Gil** (Yale University)
