@@ -119,7 +119,7 @@ sidebar:
 <div class="speaker-card">
 <img src="{{ site.baseurl }}/assets/img/symposium5/gimena-del-rio.jpg" 
   alt="Photo of Gimena de Rande">
-<div class="speaker-name">Gimena de Rio Rande</div>
+<div class="speaker-name">Gimena del Rio Riande</div>
 <div class="speaker-affiliation">Conicet-Universidad del Salvador</div>
 </div>
 
