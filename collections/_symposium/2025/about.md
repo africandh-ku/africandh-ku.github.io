@@ -12,7 +12,7 @@ sidebar:
 ---
 
 **June 5–6, 2025**  
-**9:00AM – 5:00PM GMT**  
+**9:00 AM – 4:30 PM GMT**  
 **The University of Ghana – Legon**  
 **_and online_**
 
