@@ -50,13 +50,13 @@ sidebar:
 - **Yadichinma Ukoha-Kalu** (Artist and Illustrator)
 - **Ebunoluwa Adepoju** (Sculptural Maker-Researcher)
 
-### *3:00–4:00 — Panel 4: Francophone Voices & Language Technologies*
+### *3:00–4:15 — Panel 4: Francophone Voices & Language Technologies*
 - **Emmanuel Ngue** (University of Yaoundé 1, Cameroon), "Inclusion and participation in the speech technology industry in under-served African languages"
 - **Augustin Ndione** (Université Cheikh Anta Diop de Dakar, Senegal), "Preserving and revitalizing indigenous languages with AI and digital technology"
 - **Grant McNulty** (Director, iAfrika Digital, [www.iafrikadigital.com](http://www.iafrikadigital.com)), "African Languages for Learning, Knowledge Production and Research"
 - **Brigid Enchill** (University of Kansas), "Using StoryMaps to tell Interactive Stories in your course work"
 
-### *4:00 - 4:15 — Wrap up*
+### *4:15 - 4:30 — Wrap up*
 </div>
 
 <br/>***All times are GMT / Ghana local time***
@@ -66,6 +66,8 @@ sidebar:
 <div style="text-align:left; border:5px solid black; border-radius: 10px; padding:10px; background-color:#B0E0E6;" markdown="1">
 
 ## *DAY 2: Friday, June 6*
+
+### *8:30 - 9:00 — Sign-in*
 
 ### *9:00–10:00 — Keynote Conversation 2: Imagining the Future of DH in Africa*
 - **Akosua Darkwah** (University of Ghana), "DH in Ghana: Past, Present, and Future"
@@ -80,7 +82,7 @@ sidebar:
 ### *11:15–11:30 — Morning Break*
 
 ### *11:30 - 12:45 — Panel 6: Libraries, Partnerships, and Digital Sustainability*
-- **Carol Smith** & **Brian Rosenblum** (University of Kansas Libraries), "Collaborating for Impact: Digital Humanities and Global Engagement at KU Libraries"  
+- **Carol Smith** & **Brian Rosenblum** (University of Kansas Libraries), "Collaborating for Impact: Digital Humanities and Global Engagement at KU Libraries" 
 - **Samuel Owusu Ansah** & **Patience Dzandza Ocloo** (University of Ghana), "Sustainable Digital Initiatives in Ghanaian Academic Libraries: Insights from University of Ghana Library Systems"
 - **Purity Kavuri-Mutuku** (Kenya National Library Service), "KNLS Virtual Library: Challenges and Opportunities for Libraries in the AI era"
 

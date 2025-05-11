@@ -49,11 +49,11 @@ The University of Ghana and the University of Kansas are pleased to announce the
 **8:30 - 9:00 — *Sign-in***   
 **9:00 – 10:00 — Keynote Conversation 2**  
 **10:00–11:15 — Panel 5: Algorithms, Ethics, and Epistemologies**  
-**10:15–11:30 — *Morning Break***  
+**11:15–11:30 — *Morning Break***  
 **11:30–12:45 — Panel 6: Libraries, Partnerships, and Digital Sustainability**  
 **12:45–2:00 — *Lunch***  
-**2:00–3:00 — Panel 7: Global South Perspectives - Digital Humanities Across Continents**  
-**3:00–4:00 — Closing Reflections: Insights and Directions**  
-**4:00 - 4:15 — Wrap up**
+**2:00–3:15 — Panel 7: Global South Perspectives - Digital Humanities Across Continents**  
+**3:15–3:45 — Closing Reflections: Insights and Directions**  
+**3:45 - 4:00 — Wrap up**
 
 </div>
