@@ -44,7 +44,7 @@ sidebar:
 
 ### *12:45-2:00 — Lunch*
 
-### *2:00–3:00 — Panel 3: OlongoAfrica / Black Orpheus: Between Continuity and Cultural Amnesia*
+### *2:00–3:00 — Panel 3: Olongo Africa / Black Orpheus: Between Continuity and Cultural Amnesia*
 - **Seun Alli** (Consultant and Program Coordinator, Olongo Africa)
 - **Molará Wood** (Editor-in-Chief, Black Orpheus Project)
 - **Yadichinma Ukoha-Kalu** (Artist and Illustrator)
