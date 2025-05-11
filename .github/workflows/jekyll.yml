@@ -3,7 +3,7 @@ name: Build and Deploy Jekyll Site
 on:
   push:
     branches:
-      - main  # or 'gh-pages' if that's your default branch
+      - gh-pages  # or 'gh-pages' if that's your default branch
 
 permissions:
   contents: write  # required for deployment
@@ -19,7 +19,7 @@ jobs:
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.1'  # or your Ruby version
+          ruby-version: '3.0.5'  # or your Ruby version
           bundler-cache: true
 
       - name: Install dependencies
