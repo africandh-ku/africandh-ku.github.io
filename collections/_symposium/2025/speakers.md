@@ -12,54 +12,7 @@ sidebar:
 ---
 
 
-<style>
-.speaker-grid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 1.5rem;
-  margin: 2rem 0;
-}
 
-.speaker-card {
-  text-align: center;
-  border: 1px solid #ddd;
-  border-radius: 12px;
-  padding: 1rem;
-  background: #fff;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
-}
-
-.speaker-card img {
-  width: 100%;
-  height: auto;
-  max-width: 150px;
-  border-radius: 50%;
-  margin-bottom: 1rem;
-}
-
-.speaker-name {
-  font-weight: bold;
-  font-size: 1.1rem;
-  margin-bottom: 0.25rem;
-}
-
-.speaker-affiliation {
-  font-size: 0.95rem;
-  color: #555;
-}
-
-@media (max-width: 900px) {
-  .speaker-grid {
-    grid-template-columns: repeat(2, 1fr);
-  }
-}
-
-@media (max-width: 600px) {
-  .speaker-grid {
-    grid-template-columns: 1fr;
-  }
-}
-</style>
 
 ## Speakers
 
@@ -272,7 +225,7 @@ sidebar:
 <img src="{{ site.baseurl }}/assets/img/symposium5/tinashe-Mushakavanhu.jpg" 
   alt="Photo of Tibebe Beshah">
 <div class="speaker-name">Tinashe Mushakavanhu</div>
-<div class="speaker-affiliation">Writer</div>  
+<div class="speaker-affiliation">Incoming Assistant Professor in African Literature and Visual Cultures</div>  
 </div>
 
 <div class="speaker-card">

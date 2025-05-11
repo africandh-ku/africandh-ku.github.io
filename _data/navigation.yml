@@ -1,7 +1,7 @@
 # main links
 main:
   - title: Symposium
-    url: symposium/2025/about
+    url: symposium/2025
   - title: Indabas
     url: indabas
   - title: Reflections
@@ -31,7 +31,7 @@ symposium2025:
   - title: DH Symposium 2025
     children:
       - title: About
-        url: symposium/2025/about
+        url: symposium/2025
       - title: Schedule
         url: symposium/2025/schedule
       - title: Speakers

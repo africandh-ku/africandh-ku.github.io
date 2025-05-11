@@ -157,6 +157,9 @@ collections:
       output: true
   events:
       output: true
+  redirects:
+      output: true
+      permalink: /:path/
 future: true
 include:
   - .htaccess
@@ -244,6 +247,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+
 
 
 # Archives

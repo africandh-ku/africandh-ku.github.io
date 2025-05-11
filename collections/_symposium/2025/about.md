@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "2025 African Digital Humanities Symposium"
-permalink: symposium/2025/about
+permalink: symposium/2025
 label: symposium
 description:
 sidebar:
