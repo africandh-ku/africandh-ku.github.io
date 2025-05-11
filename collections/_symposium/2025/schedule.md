@@ -37,8 +37,8 @@ sidebar:
 ### *11:30–11:45 — Morning Break*
 
 ### *11:45–12:45 — Panel 2: Reframing Knowledge Through Metadata and Method*
-- **Ashley Sanders** (Data Scientist), "Redressing Colonial Knowledge Systems through Restorative Data Justice"
 - **Tinashe Mushakavanhu** (Harvard University), "Crowdsourcing a Biography: Speculation, conjecture & the invention of an African digital literary archive"
+- **Ashley Sanders** (Data Scientist), "Redressing Colonial Knowledge Systems through Restorative Data Justice"
 - **Niklas Hållén** (Uppsala University and Karlstad University, Sweden), "Informal and formal literary Nairobi: Some thoughts on visualising the emergence of a literary field"
 
 
