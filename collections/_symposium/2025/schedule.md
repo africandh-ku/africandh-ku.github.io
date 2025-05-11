@@ -29,7 +29,7 @@ sidebar:
 - **Karen Ijumba** (Open Restitution Africa)
 
 ### *10:15–11:30 — Panel 1: Digitizing Memory and Expanding Access*
-- **Seun Alli** (Olongo Africa), "Black Orpheus Revisited"
+- **Seun Alli** (Director, June Creative Art Advisory (JCAA) and Consultant, OlongoAfrica), "Black Orpheus Revisited"
 - **Boyega Adediran** (Archivi.ng), "Digitizing Old Nigerian Newspapers"
 - **George Gyesaw** (Institute of African Studies, University of Ghana), "Beyond MAARA: Implementing a user-driven platform for users"
 - **Edwina Ashie-Nikoi** (University of Ghana)
@@ -44,8 +44,8 @@ sidebar:
 
 ### *12:45-2:00 — Lunch*
 
-### *2:00–3:00 — Panel 3: Olongo Africa / Black Orpheus: Between Continuity and Cultural Amnesia*
-- **Seun Alli** (Consultant and Program Coordinator, Olongo Africa)
+### *2:00–3:00 — Panel 3: OlongoAfrica / Black Orpheus: Between Continuity and Cultural Amnesia*
+- **Seun Alli** (Director, June Creative Art Advisory (JCAA) and Consultant, OlongoAfrica)
 - **Molará Wood** (Editor-in-Chief, Black Orpheus Project)
 - **Yadichinma Ukoha-Kalu** (Artist and Illustrator)
 - **Ebunoluwa Adepoju** (Sculptural Maker-Researcher)

@@ -211,7 +211,7 @@ sidebar:
 <img src="{{ site.baseurl }}/assets/img/symposium5/seun-alli.jpg" 
   alt="Photo of Seun Alli">
 <div class="speaker-name">Seun Alli</div>
-<div class="speaker-affiliation">Consultant and Program Coordinator, Olongo Africa</div>
+<div class="speaker-affiliation">Director, June Creative Art Advisory (JCAA) and Consultant, OlongoAfrica</div>
 </div>
 
 <div class="speaker-card">
