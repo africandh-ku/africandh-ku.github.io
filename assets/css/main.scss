@@ -6,3 +6,13 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+
+
+@import "custom";
+
+
+.nav__items a.active {
+  background: #a855f7 !important;
+  color: white !important;
+}

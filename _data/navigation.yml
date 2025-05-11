@@ -1,7 +1,7 @@
 # main links
 main:
   - title: Symposium
-    url: symposium/2025
+    url: symposium/2025/about
   - title: Indabas
     url: indabas
   - title: Reflections
@@ -26,3 +26,22 @@ symposium:
         url: symposium/2021
       - title: "2020"
         url: symposium/2020
+
+symposium2025:
+  - title: DH Symposium 2025
+    children:
+      - title: About
+        url: symposium/2025/about
+      - title: Schedule
+        url: symposium/2025/schedule
+      - title: Speakers
+        url: symposium/2025/speakers
+      - title: Workshop
+        url: symposium/2025/workshop
+      - title: Sponsors & Organizers
+        url: symposium/2025/sponsors
+
+
+
+
+

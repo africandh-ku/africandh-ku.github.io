@@ -1,0 +1,116 @@
+/* shared sidebar base */
+.sidebar-nav {
+  margin-bottom: 1.5rem;
+  padding: 0.75rem 1rem;
+  border-left: 4px solid #ddd;
+  background-color: #fafafa;
+  font-size: 0.95rem;
+}
+
+/* default per-nav fallback */
+.sidebar-sidebar1 {
+  background-color: #f0f5ff;
+  border-color: #3366cc;
+  font-family: Georgia, serif;
+}
+
+.sidebar-sidebar2 {
+  background-color: #fff5f5;
+  border-color: #cc3333;
+  font-family: 'Courier New', monospace;
+}
+
+/* custom themes */
+.purple-theme {
+  background-color: #f3e8ff;
+  border-color: #a855f7;
+  font-family: 'Merriweather', serif;
+}
+
+.green-theme {
+  background-color: #e6fffa;
+  border-color: #10b981;
+  font-family: Arial, sans-serif;
+}
+
+.outline-theme {
+  background-color: transparent;
+  border: 2px dashed #888;
+  font-style: italic;
+}
+
+.sidebar-nav {
+  padding: 1rem;
+  margin-bottom: 1.5rem;
+  background-color: #f8f8f8;
+  border-radius: 0.75rem; // Rounded corners
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+
+  // Optional: animate subtle hover or focus effects
+  transition: background-color 0.3s ease;
+
+  &:hover {
+    background-color: #f0f0f0;
+  }
+}
+
+
+.nav__items li.active > a,
+.nav__items a.active {
+  background-color: #333;
+  color: #fff;
+  font-weight: bold;
+  border-radius: 5px;
+  padding: 2px 8px;
+}
+
+/* Speaker 3 column grid */
+
+.speaker-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.speaker-card {
+  text-align: center;
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  padding: 1rem;
+  background: #fff;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+}
+
+.speaker-card img {
+  width: 100%;
+  height: auto;
+  max-width: 150px;
+  border-radius: 50%;
+  margin-bottom: 1rem;
+}
+
+.speaker-name {
+  font-weight: bold;
+  font-size: 1.1rem;
+  margin-bottom: 0.25rem;
+}
+
+.speaker-affiliation {
+  font-size: 0.95rem;
+  color: #555;
+}
+
+@media (max-width: 900px) {
+  .speaker-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 600px) {
+  .speaker-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+
