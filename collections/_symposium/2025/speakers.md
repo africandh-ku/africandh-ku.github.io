@@ -222,8 +222,8 @@ sidebar:
 </div>
 
 <div class="speaker-card">
-<img src="{{ site.baseurl }}/assets/img/symposium5/tinashe-Mushakavanhu.jpg" 
-  alt="Photo of Tibebe Beshah">
+<img src="{{ site.baseurl }}/assets/img/symposium5/tinashe-mushakavanhu.jpg" 
+  alt="Photo of Tinashe Mushakavanhu">
 <div class="speaker-name">Tinashe Mushakavanhu</div>
 <div class="speaker-affiliation">Incoming Assistant Professor in African Literature and Visual Cultures</div>  
 </div>
