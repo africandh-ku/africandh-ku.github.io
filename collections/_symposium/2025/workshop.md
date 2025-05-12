@@ -16,7 +16,7 @@ sidebar:
 **9:00AM - 4:00PM GMT**  
 **University of Ghana, Legon Campus**  
 
-The [School of Information and Communication Studies](https://sics.ug.edu.gh/) (University of Ghana) and the [Institute for Globally Engaged Librarianship at the University of Kansas Libraries](https://lib.ku.edu/igel) invite you to participate in a special full-day workshop for Ghanian librarians titled *Dialogue Across Borders: International Library Collaboration*, taking place on June 4, 2025, from 9:00 AM to 4:00 PM GMT at the University of Ghana, Legon Campus.
+The [School of Information and Communication Studies](https://sics.ug.edu.gh/) (University of Ghana) and the [Institute for Globally Engaged Librarianship (University of Kansas Libraries)](https://lib.ku.edu/igel) invite you to participate in a special full-day workshop for Ghanian librarians titled *Dialogue Across Borders: International Library Collaboration*, taking place on June 4, 2025, from 9:00 AM to 4:00 PM GMT at the University of Ghana, Legon Campus.
 
 
 The day will include engaging conversations, collaborative roundtables, and small-group sessions designed to foster new ideas and professional relationships. Sessions will highlight the unique contexts of our libraries while exploring opportunities for meaningful, sustainable collaboration.
