@@ -17,7 +17,7 @@ header:
 ---
 
 
-[**Registration is now open for our 5th Symposium on African Digital Humanities!<br/>June 5-6, 2025**](./symposium/2025){: .btn .btn--info}
+[**Registration is now open for our 5th Symposium on African Digital Humanities<br/>June 5-6, 2025**](./symposium/2025){: .btn .btn--info .btn--large .center-button}
 
 
 **Based at the University of Kansas, African DH@KU presents opportunities for engaged discussions that center on African perspectives and projects in the digital humanities. Our programs include an annual African Digital Humanities Symposium and regular Digital Indabas and events that explore the intersection of traditional humanistic inquiry in Africa and digital media.** 
