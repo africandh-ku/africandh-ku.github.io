@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Dialogue across borders: a full-day workshop on international library partnerships"
+title: "Dialogue across borders: a full-day workshop on international library collaboration"
 permalink: symposium/2025/workshop
 label: symposium
 
@@ -14,60 +14,64 @@ sidebar:
 
 **June 4, 2025**  
 **9:00AM - 4:00PM GMT**  
-**University of Ghana**  
+**University of Ghana, Legon Campus**  
 
-<div style="text-align:left; border:5px solid black; border-radius: 10px; padding:10px; background-color:#FFD580;" markdown="1">
+The [School of Information and Communication Studies](https://sics.ug.edu.gh/) (University of Ghana) and the [Institute for Globally Engaged Librarianship](https://lib.ku.edu/igel) (Univresity of Kansas Libraries) invite you to participate in a special full-day workshop for Ghanian librarians titled *Dialogue Across Borders: International Library Collaboration*, taking place on June 4, 2025, from 9:00 AM to 4:00 PM GMT at the University of Ghana, Legon Campus.
+
+
+The day will include engaging conversations, collaborative roundtables, and small-group sessions designed to foster new ideas and professional relationships. Sessions will highlight the unique contexts of our libraries while exploring opportunities for meaningful, sustainable collaboration.
+
+<div style="text-align:left; border:5px solid black; border-radius: 10px; padding:10px; background-color:#B0E0E6;" markdown="1">
 ### Workshop Goals
 - Create meaningful connections between the University of Kansas Libraries and Ghanaian academic librarians
 - Identify shared challenges and potential areas for collaboration
 - Exchange knowledge and approaches in key areas of library practice
 - Establish groundwork for future partnerships
 </div>
+<br/>
+<div style="text-align:left; border:5px solid black; border-radius: 10px; padding:10px; background-color:#FFD580;" markdown="1">
+### Who Should Attend
+- Academic library directors
+- Heads of departments
+- Any academic librarian interested in international collaboration
+
+Whether you're looking to share your institution’s experience, explore new partnership models, or build cross-border professional relationships, you are warmly invited to take part.
+</div>
 
 ### Registration Details Coming Soon!
+Registration is free and includes lunch, but **space is limited to 40 participants**, so we encourage early sign-up once registration opens. Registration link coming soon.
 
-## Organizers
-- School of Information and Communication Studies, University of Ghana
-- University of Kansas Libraries, Institute for Globally Engaged Librarianship
+All registered participants who attend the full workshop will receive a certificate of participation.
 
+### Program Outline
 
-## Program Outline
-
-### *Morning Sessions: Relationship Building & Context Setting*
-**1. Welcome & Overview**  
-Opening remarks and overview of the workshop's goals and agenda.  
+#### *Morning Sessions: Relationship Building & Context Setting*
+**1. Welcome & Overview.** Opening remarks and overview of the workshop's goals and agenda.  
 *Objective: Set the tone for the day by outlining shared intentions and creating a welcoming environment for exchange.*
 
-**2. Introductions: Conversations Across Libraries**  
-Participants engage in guided conversations to share institutional contexts, professional interests, and personal insights.  
+**2. Introductions: Conversations Across Libraries.** Participants engage in guided conversations to share institutional contexts, professional interests, and personal insights.  
 *Objective: Foster a sense of connection across institutions and regions while surfacing early insights into shared goals, challenges, and opportunities for collaboration.*  
 
-**3. Academic Libraries in Context**  
-Selected librarians from diverse academic institutions share brief overviews of their institutions, user communities, strategic priorities, and current initiatives, followed by a moderated discussion.  
+**3. Academic Libraries in Context.** Selected librarians from diverse academic institutions share brief overviews of their institutions, user communities, strategic priorities, and current initiatives, followed by a moderated discussion.  
 *Objective: Highlight both diversity and convergence across institutional contexts to inform collaborative understanding.*  
 
-**4. Roundtable Carousel**  
-Participants rotate through themed discussion tables addressing various areas of academic librarianship.  
+**4. Roundtable Carousel.** Participants rotate through themed discussion tables addressing various areas of academic librarianship.  
 *Objective: Identify promising practices and shared concerns that could form the basis for future exchanges or collaborations.*  
 
 
-**5. Lunch**  
-A relaxed midday break providing time for participants to converse, reflect, and build informal connections.  
+**5. Lunch.** A relaxed midday break providing time for participants to converse, reflect, and build informal connections.  
 *Objective: Deepen relationships through casual interaction outside the structured sessions.*  
 
 
-### *Afternoon Sessions: Collaboration Planning*
+#### *Afternoon Sessions: Collaboration Planning*
 
-**5. International Library Dialogue**  
-KU and Ghanaian librarians connect via Zoom to present on key areas of academic librarianship, followed by mixed breakout discussions on key topics.  
+**5. International Library Dialogue.** KU and Ghanaian librarians connect via Zoom to present on key areas of academic librarianship, followed by mixed breakout discussions on key topics.  
 *Objective: Foster cross-continental relationships and explore collaborative possibilities through meaningful virtual exchange.*  
 
-**6. Collaboration Pathfinder**  
-Mixed small groups identify specific library needs and explore potential partnership opportunities using structured brainstorming templates.  
+**6. Collaboration Pathfinder.** Mixed small groups identify specific library needs and explore potential partnership opportunities using structured brainstorming templates.  
 *Objective: Generate practical collaboration ideas with consideration for required resources and institutional realities.*  
 
-**7. Reflection & Direction: Charting Next Steps Together**  
-Participants reflect on the day's insights, articulate next steps, and share commitments to future engagement.  
+**7. Reflection & Direction: Charting Next Steps Together.** Participants reflect on the day's insights, articulate next steps, and share commitments to future engagement.  
 *Objective: Reinforce workshop themes and establish clear, participant-driven next steps that honor institutional priorities and capacities.*  
  
 
