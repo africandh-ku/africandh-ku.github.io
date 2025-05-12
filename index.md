@@ -16,6 +16,10 @@ header:
 # excerpt: "Exploring the intersection of traditional humanistic inquiry in Africa and digital media, centering African perspectives and projects, and fostering connections across regions."  
 ---
 
+
+[**Registration is now open for our 5th Symposium on African Digital Humanities!<br/>June 5-6, 2025**](./symposium/2025){: .btn .btn--info}
+
+
 **Based at the University of Kansas, African DH@KU presents opportunities for engaged discussions that center on African perspectives and projects in the digital humanities. Our programs include an annual African Digital Humanities Symposium and regular Digital Indabas and events that explore the intersection of traditional humanistic inquiry in Africa and digital media.** 
 
 We bring togther people and projects who examine this important connection, highlighting the ways in which African cultural producers incorporate digital technologies and methods into their work, while exploring how African writers and critics experiment with digital media hardware and software more generally.
