@@ -32,7 +32,7 @@ sidebar:
 - **Seun Alli** (Director, June Creative Art Advisory (JCAA) and Consultant, OlongoAfrica, Nigeria), "Black Orpheus Revisited"
 - **Boyega Adediran** (Archivi.ng, Nigeria), "Digitizing Old Nigerian Newspapers"
 - **George Gyesaw** (Institute of African Studies, University of Ghana), "Beyond MAARA: Implementing a user-driven platform for users"
-- **Edwina Ashie-Nikoi** (University of Ghana)
+- **Edwina Ashie-Nikoi** (University of Ghana), "Archival treasures, digital possibilities: some considerations from and for University of Ghana"
 
 ### *11:30–11:45 — Morning Break*
 
