@@ -17,6 +17,8 @@ sidebar:
 
 <div class="container" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; clear: both;">
 
+ <div><a href="https://coe.ug.edu.gh/"><img style="padding-right:25px" src="{{ site.baseurl }}/assets/img/symposium5/logos/UG-COH-logo.jpg" alt="University of Ghana College of Education" width="80%"></a></div>
+
  <div><a href="https://coe.ug.edu.gh/"><img style="padding-right:25px" src="{{ site.baseurl }}/assets/img/symposium5/logos/UG-Education.png" alt="University of Ghana College of Education" width="80%"></a></div>
 
   <div><a href="https://sics.ug.edu.gh/"><img style="padding-right:25px" src="{{ site.baseurl }}/assets/img/symposium5/logos/UG-SICS-logo.png" alt="University of Ghana School of Information & Communication Studies" width="80%"></a></div>
