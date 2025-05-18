@@ -93,6 +93,7 @@ sidebar:
 - **Gimena del Rio Riande** (Conicet-Universidad del Salvador, Argentina)
 - **Nirmala Menon** (Indian Institute of Technology Indore, India)
 - **Alex Gil** (Yale University, USA)
+- **Tunde Ope-Davies** (University of Lagos, Nigeria)
 
 ### *3:15–3:45 — Closing Reflections: Insights and Directions*  
 In this final session, participants are invited to reflect on key insights, unexpected discoveries, and emergent themes from the symposium. Through brief, voluntary contributions, we aim to synthesize ideas, articulate shared concerns, and consider directions for future collaboration.

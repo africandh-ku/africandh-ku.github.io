@@ -13,66 +13,37 @@ sidebar:
 
 
 **June 4, 2025**  
-**9:00AM - 4:00PM GMT**  
+**9:00 AM - 4:30 PM GMT**  
 **University of Ghana, Legon Campus**  
-
-The [School of Information and Communication Studies](https://sics.ug.edu.gh/) (University of Ghana) and the [Institute for Globally Engaged Librarianship (University of Kansas Libraries)](https://lib.ku.edu/igel) invite you to participate in a special full-day workshop for Ghanian librarians titled *Dialogue Across Borders: International Library Collaboration*, taking place on June 4, 2025, from 9:00 AM to 4:00 PM GMT at the University of Ghana, Legon Campus.
-
-
-The day will include engaging conversations, collaborative roundtables, and small-group sessions designed to foster new ideas and professional relationships. Sessions will highlight the unique contexts of our libraries while exploring opportunities for meaningful, sustainable collaboration.
-
-<div style="text-align:left; border:5px solid black; border-radius: 10px; padding:10px; background-color:#B0E0E6;" markdown="1">
-### Workshop Goals
-- Create meaningful connections between the University of Kansas Libraries and Ghanaian academic librarians
-- Identify shared challenges and potential areas for collaboration
-- Exchange knowledge and approaches in key areas of library practice
-- Establish groundwork for future partnerships
-</div>
-<br/>
-<div style="text-align:left; border:5px solid black; border-radius: 10px; padding:10px; background-color:#FFD580;" markdown="1">
-### Who Should Attend
-- Academic library directors
-- Heads of departments
-- Any Ghanian academic librarian interested in international collaboration
-
-Whether you're looking to share your institution’s experience, explore new partnership models, or build cross-border professional relationships, you are warmly invited to take part.
-</div>
-
-### Registration Details Coming Soon!
-Registration is free and includes lunch, but **space is limited to 40 participants**, so we encourage early sign-up once registration opens. Registration link coming soon.
-
-All registered participants who attend the full workshop will receive a certificate of participation.
-
-### Program Outline
-
-#### *Morning Sessions: Relationship Building & Context Setting*
-**1. Welcome & Overview.** Opening remarks and overview of the workshop's goals and agenda.  
-*Objective: Set the tone for the day by outlining shared intentions and creating a welcoming environment for exchange.*
-
-**2. Introductions: Conversations Across Libraries.** Participants engage in guided conversations to share institutional contexts, professional interests, and personal insights.  
-*Objective: Foster a sense of connection across institutions and regions while surfacing early insights into shared goals, challenges, and opportunities for collaboration.*  
-
-**3. Academic Libraries in Context.** Selected librarians from diverse academic institutions share brief overviews of their institutions, user communities, strategic priorities, and current initiatives, followed by a moderated discussion.  
-*Objective: Highlight both diversity and convergence across institutional contexts to inform collaborative understanding.*  
-
-**4. Roundtable Carousel.** Participants rotate through themed discussion tables addressing various areas of academic librarianship.  
-*Objective: Identify promising practices and shared concerns that could form the basis for future exchanges or collaborations.*  
+**Venue: West African Centre for Cell Biology of Infections and Pathogens (WACCBIP)**
 
 
-**5. Lunch.** A relaxed midday break providing time for participants to converse, reflect, and build informal connections.  
-*Objective: Deepen relationships through casual interaction outside the structured sessions.*  
+The [School of Information and Communication Studies (University of Ghana)](https://sics.ug.edu.gh/) and the [Institute for Globally Engaged Librarianship](https://lib.ku.edu/igel) ([University of Kansas Libraries](https://lib.ku.edu)) are pleased to co-host a full-day workshop focused on advancing international library collaboration. The event will take place on June 4, 2025, from 9:00 AM to 4:30 PM GMT at the University of Ghana’s Legon Campus.
+
+This interactive workshop will feature lively discussions, collaborative roundtables, and small-group sessions aimed at generating fresh ideas and building lasting professional connections. Together, participants will explore the unique contexts, shared challenges, and mutual opportunities that shape global academic librarianship.
+
+The workshop is open to academic librarians from across Ghana. **Registration is free** and includes lumch, but space is limited to 40 participants. Early sign-up is encouraged.
+
+[Register Here](https://forms.office.com/r/cAZgg9eLdS){: .btn .btn--success .center-button}
 
 
-#### *Afternoon Sessions: Collaboration Planning*
+## Workshop Goals
+* Facilitate meaningful exchange between Ghanaian academic librarians and colleagues at the University of Kansas
+* Explore shared challenges and local contexts, and foster mutual learning
+* Share practical knowledge and diverse approaches to library practice
+* Encourage lasting dialogue and connections among librarians across institutions and regions
 
-**5. International Library Dialogue.** KU and Ghanaian librarians connect via Zoom to present on key areas of academic librarianship, followed by mixed breakout discussions on key topics.  
-*Objective: Foster cross-continental relationships and explore collaborative possibilities through meaningful virtual exchange.*  
+## Program Outline
 
-**6. Collaboration Pathfinder.** Mixed small groups identify specific library needs and explore potential partnership opportunities using structured brainstorming templates.  
-*Objective: Generate practical collaboration ideas with consideration for required resources and institutional realities.*  
-
-**7. Reflection & Direction: Charting Next Steps Together.** Participants reflect on the day's insights, articulate next steps, and share commitments to future engagement.  
-*Objective: Reinforce workshop themes and establish clear, participant-driven next steps that honor institutional priorities and capacities.*  
- 
-
-
+| **Time** | **Session** |
+|----------|-------------|
+| **8:30–9:00** | **Arrival & Sign-In** |
+| **9:00–9:15** | **Welcome & Opening Remarks**<br>Organizers set the tone for the day, outlining objectives, expectations, and the schedule.<br>**Speakers:** Akosua Darkwah, Carol Smith, Patience Emefa Dzandza, Brian Rosenblum |
+| **9:15–10:15** | **Stories Across Libraries: Introductions & Shared Challenges**<br>A large-group and small-group activity where participants introduce themselves, their institutional contexts, and areas of focus. In small groups, each person shares one innovation and one challenge from their library. In the final 10 minutes, the full group reconvenes to identify common themes and opportunities.<br>**Objective:** Foster personal connections and surface shared goals and challenges to frame the day's dialogue. |
+| **10:15–11:15** | **Inside the U.S. Academic Library: A Conversation with Dean Carol Smith**<br>An open conversation with Carol Smith, Dean of Libraries at the University of Kansas, exploring academic library strategy, leadership, and current challenges in the U.S. context.<br>**Objective:** Provide insight into the organizational structures, planning priorities, and evolving practices of U.S. libraries to inform collaborative understanding. |
+| **11:15–11:30** | **Break** |
+| **11:30–1:00** | **Thematic Exchange Roundtables**<br>Participants rotate among small-group tables focused on key areas of librarianship. Notes are captured on shared handouts or digitally.<br>**Objective:** Identify shared concerns, promising practices, and potential areas for future exchange and collaboration.
+| **1:00–2:00** | **Lunch & Informal Networking**<br>A relaxed break to nourish both body and conversation. |
+| **2:00–3:30** | **International Dialogue: Connecting Libraries Across Continents**<br>Via Zoom, KU Librarians are welcomed. Summary of morning sessions. KU librarians introduce themselves briefly. Then 3-4 Ghanaian librarians do the same. Followed by moderated discussion, either panel style or in breakout groups.<br>**Objective:** Foster cross-institutional and international connections through meaningful conversation and idea exchange. |
+| **3:30–4:15** | **Reflections & Next Steps: Charting the Path Forward**<br>An open-mic reflection session where participants share key takeaways, generate new ideas, and respond to one another's insights from the day's conversations.<br>**Objective:** Invite collaborative reflection and identify potential directions for future engagement and partnership. |
+| **4:15–4:30** | **Wrap-up & Closing**<br>Workshop organizers outline possible next steps, thank participants, and invite feedback on the day's structure, facilitation, and overall experience.<br>**Objective:** Conclude the day with a spirit of reciprocity and continuity, providing clear follow-up plans and space for shared ownership of what comes next. |
