@@ -47,3 +47,14 @@ The workshop is open to academic librarians from across Ghana. **Registration is
 | **2:00–3:30** | **International Dialogue: Connecting Libraries Across Continents**<br>Via Zoom, KU Librarians are welcomed. Summary of morning sessions. KU librarians introduce themselves briefly. Then 3-4 Ghanaian librarians do the same. Followed by moderated discussion, either panel style or in breakout groups.<br>**Objective:** Foster cross-institutional and international connections through meaningful conversation and idea exchange. |
 | **3:30–4:15** | **Reflections & Next Steps: Charting the Path Forward**<br>An open-mic reflection session where participants share key takeaways, generate new ideas, and respond to one another's insights from the day's conversations.<br>**Objective:** Invite collaborative reflection and identify potential directions for future engagement and partnership. |
 | **4:15–4:30** | **Wrap-up & Closing**<br>Workshop organizers outline possible next steps, thank participants, and invite feedback on the day's structure, facilitation, and overall experience.<br>**Objective:** Conclude the day with a spirit of reciprocity and continuity, providing clear follow-up plans and space for shared ownership of what comes next. |
+
+
+<p align="center">
+  <a href="https://sics.ug.edu.gh/">
+    <img src="{{ site.baseurl }}/assets/img/symposium5/logos/UG-SICS-logo.png" alt="University of Ghana School of Information & Communication Studies" style="padding-right:25px; height:100px;">
+  </a>
+  <a href="https://lib.ku.edu">
+    <img src="{{ site.baseurl }}/assets/img/symposium5/logos/KULibraries-logo.webp" alt="University of Kansas Libraries" style="height:100px;">
+  </a>
+</p>
+
