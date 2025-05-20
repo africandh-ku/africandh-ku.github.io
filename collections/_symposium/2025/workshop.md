@@ -17,14 +17,11 @@ sidebar:
 **University of Ghana, Legon Campus**  
 **Venue: West African Centre for Cell Biology of Infections and Pathogens (WACCBIP)**
 
+### ***Registration is now closed.***
 
 The [School of Information and Communication Studies (University of Ghana)](https://sics.ug.edu.gh/) and the [Institute for Globally Engaged Librarianship](https://lib.ku.edu/igel) ([University of Kansas Libraries](https://lib.ku.edu)) are pleased to co-host a full-day workshop focused on advancing international library collaboration. The event will take place on June 4, 2025, from 9:00 AM to 4:30 PM GMT at the University of Ghana’s Legon Campus.
 
 This interactive workshop will feature lively discussions, collaborative roundtables, and small-group sessions aimed at generating fresh ideas and building lasting professional connections. Together, participants will explore the unique contexts, shared challenges, and mutual opportunities that shape global academic librarianship.
-
-The workshop is open to academic librarians from across Ghana. **Registration is free** and includes lumch, but space is limited to 40 participants. Early sign-up is encouraged.
-
-[Register Here](https://forms.office.com/r/cAZgg9eLdS){: .btn .btn--success .center-button}
 
 
 ## Workshop Goals

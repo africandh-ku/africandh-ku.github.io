@@ -22,7 +22,7 @@ The University of Ghana and the University of Kansas are pleased to announce the
 
 [Register for **ONLINE ATTENDANCE**](https://forms.office.com/r/Fzv6fGXrgN){: .btn .btn--success}
 
-[Register for **IN-PERSON ATTENDANCE**](https://forms.office.com/r/FLEg5sKiWY){: .btn .btn--info}
+***Registration for IN-PERSON ATTENDANCE is now closed.***
 
 
 # Schedule Outline
