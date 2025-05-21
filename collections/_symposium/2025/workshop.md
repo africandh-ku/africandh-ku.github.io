@@ -30,6 +30,17 @@ This interactive workshop will feature lively discussions, collaborative roundta
 * Share practical knowledge and diverse approaches to library practice
 * Encourage lasting dialogue and connections among librarians across institutions and regions
 
+## Facilitators & Organizers
+
+***University of Ghana***  
+**-Akosua Darkwah** (Dean, School of Information and Communication Studies)  
+**-Patience E. Dzandza Ocloo** (Lecturer, Department of Information Studies) 
+
+***University of Kansas Libraries***  
+**-Carol Smith** (Dean of Libraries)  
+**-Brian Rosenblum** Digital Humanities Librarian & Director, Institute for Globally Engaged Librarianship)  
+**-Kodjo Atiso** (Librarian for Africana and International Studies)
+
 ## Program Outline
 
 | **Time** | **Session** |

@@ -145,6 +145,13 @@ sidebar:
 </div>
 
 <div class="speaker-card">
+<img src="{{ site.baseurl }}/assets/img/symposium5/kodjo-atiso.jpg" 
+  alt="Photo of Kodjo Atiso">
+<div class="speaker-name">Kodjo Atiso</div>
+<div class="speaker-affiliation">University of Kansas Libraries</div>
+</div>
+
+<div class="speaker-card">
 <img src="{{ site.baseurl }}/assets/img/symposium5/miriam-pena.png" 
   alt="Photo of Miriam Peña">
 <div class="speaker-name">Miriam Peña Pimentel</div>
