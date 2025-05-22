@@ -19,7 +19,14 @@ sidebar:
 
 ### ***Registration is now closed.***
 
-The [School of Information and Communication Studies (University of Ghana)](https://sics.ug.edu.gh/) and the [Institute for Globally Engaged Librarianship](https://lib.ku.edu/igel) ([University of Kansas Libraries](https://lib.ku.edu)) are pleased to co-host a full-day workshop focused on advancing international library collaboration. The event will take place on June 4, 2025, from 9:00 AM to 4:30 PM GMT at the University of Ghana’s Legon Campus.
+[**The School of Information and Communication Studies  
+(University of Ghana)**](https://sics.ug.edu.gh/)  
+<br/>and    
+<br/>[**The Institute for Globally Engaged Librarianship**](https://lib.ku.edu/igel)  
+([**University of Kansas Libraries**](https://lib.ku.edu))  
+<br/>**Are pleased to co-host a full-day workshop focused on advancing international library collaboration.**  
+<br/>**June 4, 2025, from 9:00 AM to 4:30 PM GMT at the University of Ghana’s Legon Campus.**
+{: .notice--info .text-center}
 
 This interactive workshop will feature lively discussions, collaborative roundtables, and small-group sessions aimed at generating fresh ideas and building lasting professional connections. Together, participants will explore the unique contexts, shared challenges, and mutual opportunities that shape global academic librarianship.
 
@@ -56,6 +63,7 @@ This interactive workshop will feature lively discussions, collaborative roundta
 | **3:30–4:15** | **Reflections & Next Steps: Charting the Path Forward**<br>An open-mic reflection session where participants share key takeaways, generate new ideas, and respond to one another's insights from the day's conversations.<br>**Objective:** Invite collaborative reflection and identify potential directions for future engagement and partnership. |
 | **4:15–4:30** | **Wrap-up & Closing**<br>Workshop organizers outline possible next steps, thank participants, and invite feedback on the day's structure, facilitation, and overall experience.<br>**Objective:** Conclude the day with a spirit of reciprocity and continuity, providing clear follow-up plans and space for shared ownership of what comes next. |
 
+<br/>
 
 <p align="center">
   <a href="https://sics.ug.edu.gh/">
