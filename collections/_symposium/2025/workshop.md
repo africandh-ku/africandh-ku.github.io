@@ -50,7 +50,7 @@ This interactive workshop will feature lively discussions, collaborative roundta
 
 ## Program Outline
 
-| **Time** | **Session** |
+| **Time (GMT)** | **Session** |
 |----------|-------------|
 | **8:30–9:00** | **Arrival & Sign-In** |
 | **9:00–9:15** | **Welcome & Opening Remarks**<br>Organizers set the tone for the day, outlining objectives, expectations, and the schedule.<br>**Speakers:** Akosua Darkwah, Carol Smith, Patience Emefa Dzandza, Brian Rosenblum |
