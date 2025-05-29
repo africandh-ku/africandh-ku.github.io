@@ -23,7 +23,7 @@ sidebar:
 | **Time** | **Session** |
 |----------|-------------|
 | **8:30–9:00** | **Sign-in** |
-| **9:00–9:15** | **Welcome & Opening Remarks**<br>• **Samuel Nii Ardey Codjoe** (Provost, College of Education, University of Ghana) & **Akosua Darkwah** (Dean, School of Information and Communication Studies, University of Ghana)<br>• **Glenn Adams** & **Brian Rosenblum** (University of Kansas, USA) |
+| **9:00–9:15** | **Welcome & Opening Remarks**<br>• **Samuel Nii Ardey Codjoe** (Provost, College of Education, University of Ghana) & **Akosua Darkwah** (Dean, School of Information and Communication Studies, University of Ghana)<br>• **Glenn Adams** (Director, Kansas African Studies Center) & **Brian Rosenblum** (Co-Director, Librarian & Co-Director, Institute for Digital Research in the Humanities, University of Kansas) |
 | **9:15–10:15** | **Keynote Conversation 1**<br>• **Ademide Adelusi-Adeluyi** (Howard University, USA)<br>• **Karen Ijumba** (Open Restitution Africa, South Africa) |
 | **10:15–11:30** | **Panel 1: Digitizing Memory and Expanding Access**<br>• **Seun Alli** (Director, June Creative Art Advisory (JCAA) and Consultant, OlongoAfrica, Nigeria), "Black Orpheus Revisited"<br>• **Boyega Adediran** (Archivi.ng, Nigeria), "Digitizing Old Nigerian Newspapers"<br>• **George Gyesaw** (Institute of African Studies, University of Ghana), "Beyond MAARA: Implementing a user-driven platform for users"<br>• **Edwina Ashie-Nikoi** (University of Ghana), "Archival treasures, digital possibilities: some considerations from and for University of Ghana" |
 | **11:30–11:45** | **Morning Break** |
