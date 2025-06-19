@@ -17,12 +17,7 @@ sidebar:
 **Venue: West African Centre for Cell Biology of Infections and Pathogens (WACCBIP)**  
 **_and online_**
 
-The University of Ghana and the University of Kansas are pleased to announce the 2025 Symposium on African Digital Humanities. This 5th iteration of the symposium marks the second consecutive year the event will be hosted at the University of Ghana in Accra. The symposium will also be streamed live to facilitate global participation.
-
-
-[Register for **ONLINE ATTENDANCE**](https://zoom.us/meeting/register/A-XqkML4SsambjYxjyV9eQ){: .btn .btn--success}
-
-***Registration for IN-PERSON ATTENDANCE is now closed.***
+The University of Ghana and the University of Kansas are pleased to announce the 2025 Symposium on African Digital Humanities. This 5th iteration of the symposium marks the second consecutive year the event was hosted at the University of Ghana in Accra. Video and slides of the proceedings will be available on this website soon.
 
 
 # Schedule Outline
