@@ -1,15 +1,18 @@
 ---
 layout: single
-title: "The 2024 DH Symposium at the University of Ghana: <br>A Report"
+title: "The 2025 DH Symposium at the University of Ghana: <br>A Report"
 label: blog
 author: Brian Rosenblum & James Yeku
 ---
 
 
-<img align="center" style="" src="{{ site.baseurl }}/assets/img/ughana-campus.png" alt="University of Ghana campus" width="70%">
+<img align="center" style="" src="{{ site.baseurl }}/assets/img/symposium5/Symposium-Group-Photo.jpg" alt="Symposium Photo" width="70%">
 
 * Contents
 {:toc}
+
+
+## Day 1
 
 Themed around _Artificial Intelligence, Libraries, and Digital Preservation in Africa_, the 2025 symposium convened a diverse and multidisciplinary community of scholars, librarians, technologists, and practitioners for an in-depth exploration of the intersections between artificial intelligence (AI), libraries, and digital humanities practices. Held in-person and online at the University of Ghana for the second consecutive year, the symposium was co-organized by the University of Ghana and the University of Kansas Libraries, with [support from several KU units and African initiatives](https://africandh.ku.edu/symposium/2025/sponsors). The event featured a rich array of presentations showcasing digital humanities projects and initiatives from across the continent.
 
@@ -23,11 +26,17 @@ The remainder of day 1 was devoted to four panel sessions.
 
 **Panel 2: Reframing Knowledge Through Metadata & Method** featured thought-provoking presentations on how metadata practices and methodological innovations can challenge colonial legacies and reshape African literary and cultural archives. Tinashe Mushakavanhu (Harvard University, USA) explored the role of speculation and conjecture in creating fragmented African digital literary archives. Ashley Sanders (Data Scientist, France) discussed ethical frameworks for correcting historical imbalances in data representation, and demonstrated digital tools can be used to analyze absences in Algerian archives. Niklas Hållén (Uppsala University and Karlstad University, Sweden) examined visualization techniques for mapping literary networks in East Africa. Across the panel, speakers highlighted the transformative potential of metadata and digital methods in democratizing knowledge and fostering inclusive narratives.
 
+<img align="center" style="" src="{{ site.baseurl }}/assets/img/symposium5/Symposium-Olongo.jpg" alt="Symposium Photo" width="70%">
+
 **Panel 3: OlongoAfrica / Black Orpheus: Between Continuity and Cultural Amnesia** offered a deeper dive into the _Black Orpheus Project_ and its significance for African literary heritage. Featuring four speakers from the OlongoAfrica initiative in Nigeria—Seun Alli (Director, June Creative Art Advisory and Consultant, OlongoAfrica), Molará Wood (Editor-in-Chief, Black Orpheus Project), Yadichinma Ukoha-Kalu (Artist and Illustrator), and Ebunoluwa Adepoju (Sculptural Maker-Researcher)—the panel explored how the revival of _Black Orpheus_, a landmark mid-20th-century literary magazine, serves as both an act of cultural continuity and a response to historical erasure.
 
 **Panel 4: Francophone Voices & Language Technologies** examined the role of artificial intelligence and digital tools in supporting underserved African languages and their contribution to knowledge production. Emmanuel Ngue (University of Yaoundé 1, Cameroon) highlighted the challenges and opportunities for integrating minority languages into AI-driven platforms. Augustin Ndione (Université Cheikh Anta Diop de Dakar, Senegal) followed, looking at strategies for safeguarding African linguistic diversity in the digital age. Grant McNulty (Director, iAfrika Digital, South Africa) discussed the importance of African mother-languages in shaping epistemologies and research practices, and introduced several initiatives to create and increase use of African language resources. Finally, Brigid Enchill (University of Kansas, USA) demonstrated how digital storytelling can enrich language learning and cultural engagement. Collectively, the panel underscored the transformative potential of AI and digital humanities in amplifying Francophone and indigenous voices across Africa
 
+## Day 2
+
 The theme of the second day, “Imagining the Future of Digital Humanities (DH) in Africa,” explored forward-looking visions for DH in African contexts with a keynote conversation led by Akosua Darkwah (University of Ghana) on “DH in Ghana: Past, Present, and Future”, and Tibebe Beshah (University of Addis Ababa, Ethiopia) on “Digital Humanities in Ethiopia: Where are we? And where are we going?” Discussions covered the continent’s unique opportunities for innovation, the role of local languages and cultural heritage in shaping DH initiatives, and the infrastructural and educational challenges that must be addressed to foster growth. The keynote set the tone for the day, encouraging participants to think critically about how DH can serve African communities while contributing to global scholarship.
+
+<img align="center" style="" src="{{ site.baseurl }}/assets/img/symposium5/Symposium-breakout-group.jpg" alt="Symposium Photo" width="70%">
 
 Panel sessions on day 2 included:
 
@@ -37,19 +46,23 @@ Panel sessions on day 2 included:
 
 **Panel 7: Global South Perspectives – Digital Humanities Across Continents.** This fully virtual panel offered a comparative view of digital humanities practices across diverse Global South contexts, spanning regions from India to Argentina. Speakers included Miriam Peña Pimentel (Universidad Nacional Autónoma de México), Gimena del Rio Riande (Conicet–Universidad del Salvador, Argentina), Nirmala Menon (Indian Institute of Technology Indore, India), Alex Gil (Yale University, USA), and Tunde Ope-Davies (University of Lagos, Nigeria). Panelists shared case studies illustrating how DH adapts to different cultural, economic, and technological realities, while fostering opportunities for intercontinental collaboration. They encouraged participants to consider how knowledge exchange between regions can enrich DH research, promote inclusivity, and challenge dominant narratives shaped by Global North institutions.
 
-### Closing Reflections and Key Takeaways
+## Takeaways
+
+
+<img align="center" style="" src="{{ site.baseurl }}/assets/img/symposium5/Symposium-2025-photo1.jpg" alt="Symposium Photo" width="70%">
 
 The conference concluded with collective reflection session and wrap-up that synthesized the main insights, emphasizing:
 
 * the urgency of preservation of African heritage materials;
 
-* the necessity of partnerships and upskilling librarians;
+* the necessity of partnershi2ps and upskilling librarians;
 
 * the need to ensure inclusive digital access for underserved areas;
 
 * the goal of building frameworks that reflect African realities and honor indigenous language and culture;
 
 * and the importance of long-term, sustainable models.
+
 
 The gathering successfully underscored the importance of reclaiming African narratives and envisioning a future where Africa authors its own digital story. This lively gathering fostered rich and nuanced discussions on how AI, libraries, and digital humanities intersect within the African context. These conversations provide a strong foundation for future meetings to build upon.
 
@@ -58,16 +71,6 @@ The event closed with cultural engagement visits to the Nketia Archives, Institu
 
 
 
-<img align="center" style="" src="{{ site.baseurl }}/assets/img/symposium-photo-1.jpg" alt="Symposium Photo" width="70%">
 
-
-
-
-<img align="center" style="" src="{{ site.baseurl }}/assets/img/symposium-photo-2.jpg" alt="Symposium Photo" width="70%">
-
-
-
-
-<img align="center" style="" src="{{ site.baseurl }}/assets/img/symposium-photo-group.jpg" alt="Symposium Group Photo" width="70%">
 
 
