@@ -17,7 +17,7 @@ header:
 ---
 
 
-[**We recently held our 5th Symposium on African Digital Humanities at the University of Ghana,<br/>June 5-6, 2025. Full video recordings and slides from the sessions will be available on this website soon.**](./symposium/2025){: .btn .btn--info .btn--large .center-button}
+[**Connecting Codes: AI, Digital Humanities and the Future of Information will be held June 16-18, 2026 in Nairobi, Kenya. Jointly organized by the Kenya National Library Service, the Technical University of Kenya, and the University of Kansas, the event will be livestreamed on YouTube.<br><br>Click here for more details.**](https://lib.ku.edu/igel/connecting-codes){: .btn .btn--info .btn--large .center-button}
 
 
 **Based at the University of Kansas, African DH@KU presents opportunities for engaged discussions that center on African perspectives and projects in the digital humanities. Our programs include an annual African Digital Humanities Symposium and regular Digital Indabas and events that explore the intersection of traditional humanistic inquiry in Africa and digital media.** 

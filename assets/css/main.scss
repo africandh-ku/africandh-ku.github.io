@@ -16,3 +16,66 @@
   background: #a855f7 !important;
   color: white !important;
 }
+
+
+.indaba-date {
+  margin: 0 0 0.25rem;
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #666;
+}
+
+.indaba-rule {
+  border: 0;
+  height: 2px;
+  margin: 2.5rem 0 1.5rem;
+  background: linear-gradient(to right, transparent, #bbb, transparent);
+}
+
+.sidebar__right {
+  padding-left: 1.75rem;
+  border-left: 1px solid #e2e2e2;
+}
+
+.sidebar__right.sticky {
+  top: 5rem;
+}
+
+.page__content .event-card {
+  margin: 0 0 2rem;
+  padding: 1.25rem 1.5rem;
+  border: 1px solid #e3e3e3;
+  border-radius: 6px;
+  background: #fafafa;
+}
+
+.page__content .event-card h3 {
+  margin-top: 0;
+  margin-bottom: 0.35rem;
+}
+
+.page__content .event-card p {
+  margin-bottom: 0.6rem;
+}
+
+.page__content .event-date {
+  margin: 0 0 0.35rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #666;
+}
+
+.page__content .event-location {
+  font-weight: 600;
+  color: #555;
+}
+
+.page__content .event-card--external {
+  border-left: 4px solid #8b1e3f;
+}
+
+

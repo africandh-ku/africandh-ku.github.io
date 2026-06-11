@@ -1,7 +1,7 @@
 # main links
 main:
   - title: Symposium
-    url: symposium/2025
+    url: symposium
   - title: Indabas
     url: indabas
   - title: Reflections
@@ -14,8 +14,10 @@ main:
   #  url: involved
 
 symposium:
-  - title: Past Symposiums
+  - title: Other Symposiums
     children:
+      - title: "2026"
+        url: https://lib.ku.edu/igel/connecting-codes
       - title: "2025"
         url: symposium/2025
       - title: "2024"
